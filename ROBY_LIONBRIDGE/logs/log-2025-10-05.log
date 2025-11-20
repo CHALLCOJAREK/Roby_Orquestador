@@ -1,0 +1,2297 @@
+
+2025-10-05 21:25:21.544459 - INFO - Robot Lionbridge iniciado
+2025-10-05 21:25:21.544459 - INFO - Obteniendo Credenciales
+2025-10-05 21:25:21.560080 - INFO - Abrir navegador
+2025-10-05 21:25:28.422787 - INFO - Ingresando a ventana de Login
+2025-10-05 21:25:28.606708 - INFO - Iniciando inicio de sesión Lionbridge
+2025-10-05 21:25:50.306732 - INFO - Sesión iniciada
+2025-10-05 21:25:50.376832 - INFO - Inicio de Intento: 1
+2025-10-05 21:25:52.944041 - INFO - Se encontro un card de trabajo
+2025-10-05 21:25:52.944041 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 21:25:52.959655 - INFO - Existen: 1
+2025-10-05 21:25:52.975225 - INFO - Index: 1
+2025-10-05 21:25:53.006477 - INFO - Contiene: Amazon
+2025-10-05 21:25:53.006477 - INFO - Contiene: Amazon
+2025-10-05 21:25:53.006477 - INFO - No contiene FOLLOW-UP
+2025-10-05 21:25:53.006477 - INFO - Items Dashboard: 0
+2025-10-05 21:25:53.022106 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 21:25:53.022106 - INFO - Terminando conteo de trabajos validos
+2025-10-05 21:25:53.022106 - INFO - Fin de Intento: 1
+2025-10-05 21:26:13.036686 - INFO - Fin de iteración
+2025-10-05 21:26:13.036686 - INFO - Obteniendo Credenciales
+2025-10-05 21:26:13.131999 - INFO - Inicio de Intento: 2
+2025-10-05 21:26:17.275099 - INFO - Se encontro un card de trabajo
+2025-10-05 21:26:17.275099 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 21:26:17.275099 - INFO - Existen: 1
+2025-10-05 21:26:17.275099 - INFO - Index: 1
+2025-10-05 21:26:17.306304 - INFO - Contiene: Amazon
+2025-10-05 21:26:17.321929 - INFO - Contiene: Amazon
+2025-10-05 21:26:17.321929 - INFO - No contiene FOLLOW-UP
+2025-10-05 21:26:17.321929 - INFO - Items Dashboard: 0
+2025-10-05 21:26:17.321929 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 21:26:17.321929 - INFO - Terminando conteo de trabajos validos
+2025-10-05 21:26:17.321929 - INFO - Fin de Intento: 2
+2025-10-05 21:26:37.331581 - INFO - Fin de iteración
+2025-10-05 21:26:37.331581 - INFO - Obteniendo Credenciales
+2025-10-05 21:26:37.425936 - INFO - Inicio de Intento: 3
+2025-10-05 21:26:41.022739 - INFO - Se encontro un card de trabajo
+2025-10-05 21:26:41.022739 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 21:26:41.029729 - INFO - Existen: 1
+2025-10-05 21:26:41.031728 - INFO - Index: 1
+2025-10-05 21:26:41.059728 - INFO - Contiene: Amazon
+2025-10-05 21:26:41.060730 - INFO - Contiene: Amazon
+2025-10-05 21:26:41.061834 - INFO - No contiene FOLLOW-UP
+2025-10-05 21:26:41.062738 - INFO - Items Dashboard: 0
+2025-10-05 21:26:41.063727 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 21:26:41.065733 - INFO - Terminando conteo de trabajos validos
+2025-10-05 21:26:41.068737 - INFO - Fin de Intento: 3
+2025-10-05 21:27:01.077936 - INFO - Fin de iteración
+2025-10-05 21:27:01.077936 - INFO - Obteniendo Credenciales
+2025-10-05 21:27:01.174523 - INFO - Inicio de Intento: 4
+2025-10-05 21:27:05.259718 - INFO - Se encontro un card de trabajo
+2025-10-05 21:27:05.259718 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 21:27:05.259718 - INFO - Existen: 1
+2025-10-05 21:27:05.259718 - INFO - Index: 1
+2025-10-05 21:27:05.290921 - INFO - Contiene: Amazon
+2025-10-05 21:27:05.290921 - INFO - Contiene: Amazon
+2025-10-05 21:27:05.290921 - INFO - No contiene FOLLOW-UP
+2025-10-05 21:27:05.306543 - INFO - Items Dashboard: 0
+2025-10-05 21:27:05.306543 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 21:27:05.306543 - INFO - Terminando conteo de trabajos validos
+2025-10-05 21:27:05.306543 - INFO - Fin de Intento: 4
+2025-10-05 21:27:25.306592 - INFO - Fin de iteración
+2025-10-05 21:27:25.306592 - INFO - Obteniendo Credenciales
+2025-10-05 21:27:25.401367 - INFO - Inicio de Intento: 5
+2025-10-05 21:27:29.496627 - INFO - Se encontro un card de trabajo
+2025-10-05 21:27:29.496627 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 21:27:29.496627 - INFO - Existen: 1
+2025-10-05 21:27:29.496627 - INFO - Index: 1
+2025-10-05 21:27:29.527810 - INFO - Contiene: Amazon
+2025-10-05 21:27:29.527810 - INFO - Contiene: Amazon
+2025-10-05 21:27:29.527810 - INFO - No contiene FOLLOW-UP
+2025-10-05 21:27:29.527810 - INFO - Items Dashboard: 0
+2025-10-05 21:27:29.543437 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 21:27:29.543437 - INFO - Terminando conteo de trabajos validos
+2025-10-05 21:27:29.543437 - INFO - Fin de Intento: 5
+2025-10-05 21:27:49.554681 - INFO - Fin de iteración
+2025-10-05 21:27:49.554681 - INFO - Obteniendo Credenciales
+2025-10-05 21:27:49.651212 - INFO - Inicio de Intento: 6
+2025-10-05 21:27:53.250592 - INFO - Se encontro un card de trabajo
+2025-10-05 21:27:53.250592 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 21:27:53.257905 - INFO - Existen: 1
+2025-10-05 21:27:53.257905 - INFO - Index: 1
+2025-10-05 21:27:53.304636 - INFO - Contiene: Amazon
+2025-10-05 21:27:53.304636 - INFO - Contiene: Amazon
+2025-10-05 21:27:53.304636 - INFO - No contiene FOLLOW-UP
+2025-10-05 21:27:53.304636 - INFO - Items Dashboard: 0
+2025-10-05 21:27:53.304636 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 21:27:53.304636 - INFO - Terminando conteo de trabajos validos
+2025-10-05 21:27:53.304636 - INFO - Fin de Intento: 6
+2025-10-05 21:28:13.305028 - INFO - Fin de iteración
+2025-10-05 21:28:13.305028 - INFO - Obteniendo Credenciales
+2025-10-05 21:28:13.438216 - INFO - Inicio de Intento: 7
+2025-10-05 21:28:17.014030 - INFO - Se encontro un card de trabajo
+2025-10-05 21:28:17.015017 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 21:28:17.021678 - INFO - Existen: 1
+2025-10-05 21:28:17.024714 - INFO - Index: 1
+2025-10-05 21:28:17.055714 - INFO - Contiene: Amazon
+2025-10-05 21:28:17.056710 - INFO - Contiene: Amazon
+2025-10-05 21:28:17.057710 - INFO - No contiene FOLLOW-UP
+2025-10-05 21:28:17.058708 - INFO - Items Dashboard: 0
+2025-10-05 21:28:17.058708 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 21:28:17.059716 - INFO - Terminando conteo de trabajos validos
+2025-10-05 21:28:17.060711 - INFO - Fin de Intento: 7
+2025-10-05 21:28:37.078730 - INFO - Fin de iteración
+2025-10-05 21:28:37.083723 - INFO - Obteniendo Credenciales
+2025-10-05 21:28:37.194828 - INFO - Inicio de Intento: 8
+2025-10-05 21:28:41.334600 - INFO - Se encontro un card de trabajo
+2025-10-05 21:28:41.334600 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 21:28:41.334600 - INFO - Existen: 1
+2025-10-05 21:28:41.334600 - INFO - Index: 1
+2025-10-05 21:28:41.365856 - INFO - Contiene: Amazon
+2025-10-05 21:28:41.365856 - INFO - Contiene: Amazon
+2025-10-05 21:28:41.365856 - INFO - No contiene FOLLOW-UP
+2025-10-05 21:28:41.365856 - INFO - Items Dashboard: 0
+2025-10-05 21:28:41.381432 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 21:28:41.381432 - INFO - Terminando conteo de trabajos validos
+2025-10-05 21:28:41.381432 - INFO - Fin de Intento: 8
+2025-10-05 21:28:41.381432 - INFO - Ya se dio 8 intentos de busqueda
+2025-10-05 21:28:41.397056 - INFO - Validación de envio de correo por robot operativo
+2025-10-05 21:28:43.443994 - INFO - Correo enviado para notificar que el robot se encuentra operativo
+2025-10-05 21:31:17.904279 - INFO - Robot Lionbridge iniciado
+2025-10-05 21:31:17.904279 - INFO - Obteniendo Credenciales
+2025-10-05 21:31:17.919909 - INFO - Abrir navegador
+2025-10-05 21:31:24.767301 - INFO - Ingresando a ventana de Login
+2025-10-05 21:31:24.948199 - INFO - Iniciando inicio de sesión Lionbridge
+2025-10-05 21:31:46.005191 - INFO - Sesión iniciada
+2025-10-05 21:31:46.067149 - INFO - Inicio de Intento: 1
+2025-10-05 21:31:48.624949 - INFO - Se encontro un card de trabajo
+2025-10-05 21:31:48.624949 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 21:31:48.624949 - INFO - Existen: 1
+2025-10-05 21:31:48.640530 - INFO - Index: 1
+2025-10-05 21:31:48.671784 - INFO - Contiene: Amazon
+2025-10-05 21:31:48.671784 - INFO - Contiene: Amazon
+2025-10-05 21:31:48.671784 - INFO - No contiene FOLLOW-UP
+2025-10-05 21:31:48.687409 - INFO - Items Dashboard: 0
+2025-10-05 21:31:48.687409 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 21:31:48.687409 - INFO - Terminando conteo de trabajos validos
+2025-10-05 21:31:48.687409 - INFO - Fin de Intento: 1
+2025-10-05 21:32:08.698042 - INFO - Fin de iteración
+2025-10-05 21:32:08.698042 - INFO - Obteniendo Credenciales
+2025-10-05 21:32:08.798267 - INFO - Inicio de Intento: 2
+2025-10-05 21:32:12.358795 - INFO - Se encontro un card de trabajo
+2025-10-05 21:32:12.359799 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 21:32:12.366802 - INFO - Existen: 1
+2025-10-05 21:32:12.368800 - INFO - Index: 1
+2025-10-05 21:32:12.399569 - INFO - Contiene: Amazon
+2025-10-05 21:32:12.399569 - INFO - Contiene: Amazon
+2025-10-05 21:32:12.399569 - INFO - No contiene FOLLOW-UP
+2025-10-05 21:32:12.399569 - INFO - Items Dashboard: 0
+2025-10-05 21:32:12.399569 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 21:32:12.399569 - INFO - Terminando conteo de trabajos validos
+2025-10-05 21:32:12.399569 - INFO - Fin de Intento: 2
+2025-10-05 21:32:32.402578 - INFO - Fin de iteración
+2025-10-05 21:32:32.402578 - INFO - Obteniendo Credenciales
+2025-10-05 21:32:32.495097 - INFO - Inicio de Intento: 3
+2025-10-05 21:32:36.583419 - INFO - Se encontro un card de trabajo
+2025-10-05 21:32:36.583419 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 21:32:36.583419 - INFO - Existen: 1
+2025-10-05 21:32:36.583419 - INFO - Index: 1
+2025-10-05 21:32:36.614657 - INFO - Contiene: Amazon
+2025-10-05 21:32:36.614657 - INFO - Contiene: Amazon
+2025-10-05 21:32:36.614657 - INFO - No contiene FOLLOW-UP
+2025-10-05 21:32:36.630241 - INFO - Items Dashboard: 0
+2025-10-05 21:32:36.630241 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 21:32:36.630241 - INFO - Terminando conteo de trabajos validos
+2025-10-05 21:32:36.630241 - INFO - Fin de Intento: 3
+2025-10-05 21:32:56.636606 - INFO - Fin de iteración
+2025-10-05 21:32:56.641613 - INFO - Obteniendo Credenciales
+2025-10-05 21:32:56.734769 - INFO - Inicio de Intento: 4
+2025-10-05 21:33:00.350689 - INFO - Se encontro un card de trabajo
+2025-10-05 21:33:00.350689 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 21:33:00.357699 - INFO - Existen: 1
+2025-10-05 21:33:00.367245 - INFO - Index: 1
+2025-10-05 21:33:00.390505 - INFO - Contiene: Amazon
+2025-10-05 21:33:00.390505 - INFO - Contiene: Amazon
+2025-10-05 21:33:00.390505 - INFO - No contiene FOLLOW-UP
+2025-10-05 21:33:00.390505 - INFO - Items Dashboard: 0
+2025-10-05 21:33:00.390505 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 21:33:00.390505 - INFO - Terminando conteo de trabajos validos
+2025-10-05 21:33:00.404023 - INFO - Fin de Intento: 4
+2025-10-05 21:33:20.406191 - INFO - Fin de iteración
+2025-10-05 21:33:20.406191 - INFO - Obteniendo Credenciales
+2025-10-05 21:33:20.498454 - INFO - Inicio de Intento: 5
+2025-10-05 21:33:24.101178 - INFO - Se encontro un card de trabajo
+2025-10-05 21:33:24.101178 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 21:33:24.108176 - INFO - Existen: 1
+2025-10-05 21:33:24.110177 - INFO - Index: 1
+2025-10-05 21:33:24.140168 - INFO - Contiene: Amazon
+2025-10-05 21:33:24.140168 - INFO - Contiene: Amazon
+2025-10-05 21:33:24.140168 - INFO - No contiene FOLLOW-UP
+2025-10-05 21:33:24.142923 - INFO - Items Dashboard: 0
+2025-10-05 21:33:24.142923 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 21:33:24.142923 - INFO - Terminando conteo de trabajos validos
+2025-10-05 21:33:24.142923 - INFO - Fin de Intento: 5
+2025-10-05 21:33:44.157826 - INFO - Fin de iteración
+2025-10-05 21:33:44.157826 - INFO - Obteniendo Credenciales
+2025-10-05 21:33:44.261060 - INFO - Inicio de Intento: 6
+2025-10-05 21:33:47.868054 - INFO - Se encontro un card de trabajo
+2025-10-05 21:33:47.868054 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 21:33:47.875521 - INFO - Existen: 1
+2025-10-05 21:33:47.875521 - INFO - Index: 1
+2025-10-05 21:33:47.906735 - INFO - Contiene: Amazon
+2025-10-05 21:33:47.906735 - INFO - Contiene: Amazon
+2025-10-05 21:33:47.922363 - INFO - No contiene FOLLOW-UP
+2025-10-05 21:33:47.922363 - INFO - Items Dashboard: 0
+2025-10-05 21:33:47.922363 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 21:33:47.922363 - INFO - Terminando conteo de trabajos validos
+2025-10-05 21:33:47.922363 - INFO - Fin de Intento: 6
+2025-10-05 21:34:07.931614 - INFO - Fin de iteración
+2025-10-05 21:34:07.931614 - INFO - Obteniendo Credenciales
+2025-10-05 21:34:08.029166 - INFO - Inicio de Intento: 7
+2025-10-05 21:34:12.097542 - INFO - Se encontro un card de trabajo
+2025-10-05 21:34:12.097542 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 21:34:12.097542 - INFO - Existen: 1
+2025-10-05 21:34:12.113085 - INFO - Index: 1
+2025-10-05 21:34:12.144325 - INFO - Contiene: Amazon
+2025-10-05 21:34:12.159957 - INFO - Contiene: Amazon
+2025-10-05 21:34:12.159957 - INFO - No contiene FOLLOW-UP
+2025-10-05 21:34:12.159957 - INFO - Items Dashboard: 0
+2025-10-05 21:34:12.159957 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 21:34:12.159957 - INFO - Terminando conteo de trabajos validos
+2025-10-05 21:34:12.159957 - INFO - Fin de Intento: 7
+2025-10-05 21:34:32.160013 - INFO - Fin de iteración
+2025-10-05 21:34:32.160013 - INFO - Obteniendo Credenciales
+2025-10-05 21:34:32.254125 - INFO - Inicio de Intento: 8
+2025-10-05 21:34:36.356664 - INFO - Se encontro un card de trabajo
+2025-10-05 21:34:36.356664 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 21:34:36.356664 - INFO - Existen: 1
+2025-10-05 21:34:36.356664 - INFO - Index: 1
+2025-10-05 21:34:36.403489 - INFO - Contiene: Amazon
+2025-10-05 21:34:36.403489 - INFO - Contiene: Amazon
+2025-10-05 21:34:36.403489 - INFO - No contiene FOLLOW-UP
+2025-10-05 21:34:36.403489 - INFO - Items Dashboard: 0
+2025-10-05 21:34:36.403489 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 21:34:36.403489 - INFO - Terminando conteo de trabajos validos
+2025-10-05 21:34:36.403489 - INFO - Fin de Intento: 8
+2025-10-05 21:34:36.403489 - INFO - Ya se dio 8 intentos de busqueda
+2025-10-05 21:34:36.403489 - INFO - Validación de envio de correo por robot operativo
+2025-10-05 21:34:38.325405 - INFO - Correo enviado para notificar que el robot se encuentra operativo
+2025-10-05 21:37:16.923214 - INFO - Robot Lionbridge iniciado
+2025-10-05 21:37:16.932214 - INFO - Obteniendo Credenciales
+2025-10-05 21:37:16.951982 - INFO - Abrir navegador
+2025-10-05 21:37:23.730330 - INFO - Ingresando a ventana de Login
+2025-10-05 21:37:23.902835 - INFO - Iniciando inicio de sesión Lionbridge
+2025-10-05 21:37:49.437157 - INFO - Sesión iniciada
+2025-10-05 21:37:49.503164 - INFO - Inicio de Intento: 1
+2025-10-05 21:37:52.083676 - INFO - Se encontro un card de trabajo
+2025-10-05 21:37:52.083676 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 21:37:52.083676 - INFO - Existen: 1
+2025-10-05 21:37:52.083676 - INFO - Index: 1
+2025-10-05 21:37:52.130499 - INFO - Contiene: Amazon
+2025-10-05 21:37:52.130499 - INFO - Contiene: Amazon
+2025-10-05 21:37:52.130499 - INFO - No contiene FOLLOW-UP
+2025-10-05 21:37:52.130499 - INFO - Items Dashboard: 0
+2025-10-05 21:37:52.130499 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 21:37:52.130499 - INFO - Terminando conteo de trabajos validos
+2025-10-05 21:37:52.130499 - INFO - Fin de Intento: 1
+2025-10-05 21:38:12.132022 - INFO - Fin de iteración
+2025-10-05 21:38:12.132022 - INFO - Obteniendo Credenciales
+2025-10-05 21:38:12.228403 - INFO - Inicio de Intento: 2
+2025-10-05 21:38:16.347060 - INFO - Se encontro un card de trabajo
+2025-10-05 21:38:16.347060 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 21:38:16.354059 - INFO - Existen: 1
+2025-10-05 21:38:16.356061 - INFO - Index: 1
+2025-10-05 21:38:16.387063 - INFO - Contiene: Amazon
+2025-10-05 21:38:16.388056 - INFO - Contiene: Amazon
+2025-10-05 21:38:16.388056 - INFO - No contiene FOLLOW-UP
+2025-10-05 21:38:16.391064 - INFO - Items Dashboard: 0
+2025-10-05 21:38:16.392055 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 21:38:16.392055 - INFO - Terminando conteo de trabajos validos
+2025-10-05 21:38:16.394052 - INFO - Fin de Intento: 2
+2025-10-05 21:38:36.405590 - INFO - Fin de iteración
+2025-10-05 21:38:36.405590 - INFO - Obteniendo Credenciales
+2025-10-05 21:38:36.498837 - INFO - Inicio de Intento: 3
+2025-10-05 21:38:40.077772 - INFO - Se encontro un card de trabajo
+2025-10-05 21:38:40.077772 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 21:38:40.112630 - INFO - Existen: 1
+2025-10-05 21:38:40.112630 - INFO - Index: 1
+2025-10-05 21:38:40.143906 - INFO - Contiene: Amazon
+2025-10-05 21:38:40.143906 - INFO - Contiene: Amazon
+2025-10-05 21:38:40.143906 - INFO - No contiene FOLLOW-UP
+2025-10-05 21:38:40.143906 - INFO - Items Dashboard: 0
+2025-10-05 21:38:40.143906 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 21:38:40.143906 - INFO - Terminando conteo de trabajos validos
+2025-10-05 21:38:40.143906 - INFO - Fin de Intento: 3
+2025-10-05 21:39:00.170656 - INFO - Fin de iteración
+2025-10-05 21:39:00.170656 - INFO - Obteniendo Credenciales
+2025-10-05 21:39:00.266696 - INFO - Inicio de Intento: 4
+2025-10-05 21:39:03.859597 - INFO - Se encontro un card de trabajo
+2025-10-05 21:39:03.859597 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 21:39:03.866587 - INFO - Existen: 1
+2025-10-05 21:39:03.867594 - INFO - Index: 1
+2025-10-05 21:39:03.900367 - INFO - Contiene: Amazon
+2025-10-05 21:39:03.900367 - INFO - Contiene: Amazon
+2025-10-05 21:39:03.900367 - INFO - No contiene FOLLOW-UP
+2025-10-05 21:39:03.900367 - INFO - Items Dashboard: 0
+2025-10-05 21:39:03.900367 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 21:39:03.900367 - INFO - Terminando conteo de trabajos validos
+2025-10-05 21:39:03.900367 - INFO - Fin de Intento: 4
+2025-10-05 21:39:23.902239 - INFO - Fin de iteración
+2025-10-05 21:39:23.902239 - INFO - Obteniendo Credenciales
+2025-10-05 21:39:23.997758 - INFO - Inicio de Intento: 5
+2025-10-05 21:39:28.113056 - INFO - Se encontro un card de trabajo
+2025-10-05 21:39:28.113056 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 21:39:28.113056 - INFO - Existen: 1
+2025-10-05 21:39:28.113056 - INFO - Index: 1
+2025-10-05 21:39:28.144232 - INFO - Contiene: Amazon
+2025-10-05 21:39:28.144232 - INFO - Contiene: Amazon
+2025-10-05 21:39:28.144232 - INFO - No contiene FOLLOW-UP
+2025-10-05 21:39:28.144232 - INFO - Items Dashboard: 0
+2025-10-05 21:39:28.159853 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 21:39:28.159853 - INFO - Terminando conteo de trabajos validos
+2025-10-05 21:39:28.159853 - INFO - Fin de Intento: 5
+2025-10-05 21:39:48.159911 - INFO - Fin de iteración
+2025-10-05 21:39:48.159911 - INFO - Obteniendo Credenciales
+2025-10-05 21:39:48.256663 - INFO - Inicio de Intento: 6
+2025-10-05 21:39:51.884506 - INFO - Se encontro un card de trabajo
+2025-10-05 21:39:51.885503 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 21:39:51.892496 - INFO - Existen: 1
+2025-10-05 21:39:51.893508 - INFO - Index: 1
+2025-10-05 21:39:51.921878 - INFO - Contiene: Amazon
+2025-10-05 21:39:51.921878 - INFO - Contiene: Amazon
+2025-10-05 21:39:51.921878 - INFO - No contiene FOLLOW-UP
+2025-10-05 21:39:51.921878 - INFO - Items Dashboard: 0
+2025-10-05 21:39:51.921878 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 21:39:51.921878 - INFO - Terminando conteo de trabajos validos
+2025-10-05 21:39:51.921878 - INFO - Fin de Intento: 6
+2025-10-05 21:40:11.927695 - INFO - Fin de iteración
+2025-10-05 21:40:11.927695 - INFO - Obteniendo Credenciales
+2025-10-05 21:40:12.022386 - INFO - Inicio de Intento: 7
+2025-10-05 21:40:16.128170 - INFO - Se encontro un card de trabajo
+2025-10-05 21:40:16.128170 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 21:40:16.128170 - INFO - Existen: 1
+2025-10-05 21:40:16.143735 - INFO - Index: 1
+2025-10-05 21:40:16.174988 - INFO - Contiene: Amazon
+2025-10-05 21:40:16.174988 - INFO - Contiene: Amazon
+2025-10-05 21:40:16.174988 - INFO - No contiene FOLLOW-UP
+2025-10-05 21:40:16.174988 - INFO - Items Dashboard: 0
+2025-10-05 21:40:16.174988 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 21:40:16.174988 - INFO - Terminando conteo de trabajos validos
+2025-10-05 21:40:16.174988 - INFO - Fin de Intento: 7
+2025-10-05 21:40:36.175346 - INFO - Fin de iteración
+2025-10-05 21:40:36.175346 - INFO - Obteniendo Credenciales
+2025-10-05 21:40:36.274145 - INFO - Inicio de Intento: 8
+2025-10-05 21:40:39.860657 - INFO - Se encontro un card de trabajo
+2025-10-05 21:40:39.860657 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 21:40:39.860657 - INFO - Existen: 1
+2025-10-05 21:40:39.860657 - INFO - Index: 1
+2025-10-05 21:40:39.891865 - INFO - Contiene: Amazon
+2025-10-05 21:40:39.891865 - INFO - Contiene: Amazon
+2025-10-05 21:40:39.891865 - INFO - No contiene FOLLOW-UP
+2025-10-05 21:40:39.907487 - INFO - Items Dashboard: 0
+2025-10-05 21:40:39.907487 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 21:40:39.907487 - INFO - Terminando conteo de trabajos validos
+2025-10-05 21:40:39.907487 - INFO - Fin de Intento: 8
+2025-10-05 21:40:39.907487 - INFO - Ya se dio 8 intentos de busqueda
+2025-10-05 21:40:39.907487 - INFO - Validación de envio de correo por robot operativo
+2025-10-05 21:40:42.471480 - INFO - Correo enviado para notificar que el robot se encuentra operativo
+2025-10-05 21:43:19.820047 - INFO - Robot Lionbridge iniciado
+2025-10-05 21:43:19.820047 - INFO - Obteniendo Credenciales
+2025-10-05 21:43:19.851306 - INFO - Abrir navegador
+2025-10-05 21:43:26.825514 - INFO - Ingresando a ventana de Login
+2025-10-05 21:43:27.008877 - INFO - Iniciando inicio de sesión Lionbridge
+2025-10-05 21:43:48.440339 - INFO - Sesión iniciada
+2025-10-05 21:43:48.510335 - INFO - Inicio de Intento: 1
+2025-10-05 21:43:51.090111 - INFO - Se encontro un card de trabajo
+2025-10-05 21:43:51.090111 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 21:43:51.090111 - INFO - Existen: 1
+2025-10-05 21:43:51.105694 - INFO - Index: 1
+2025-10-05 21:43:51.136945 - INFO - Contiene: Amazon
+2025-10-05 21:43:51.136945 - INFO - Contiene: Amazon
+2025-10-05 21:43:51.136945 - INFO - No contiene FOLLOW-UP
+2025-10-05 21:43:51.136945 - INFO - Items Dashboard: 0
+2025-10-05 21:43:51.136945 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 21:43:51.136945 - INFO - Terminando conteo de trabajos validos
+2025-10-05 21:43:51.136945 - INFO - Fin de Intento: 1
+2025-10-05 21:44:11.152786 - INFO - Fin de iteración
+2025-10-05 21:44:11.152786 - INFO - Obteniendo Credenciales
+2025-10-05 21:44:11.255094 - INFO - Inicio de Intento: 2
+2025-10-05 21:44:14.840280 - INFO - Se encontro un card de trabajo
+2025-10-05 21:44:14.840280 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 21:44:14.859511 - INFO - Existen: 1
+2025-10-05 21:44:14.860514 - INFO - Index: 1
+2025-10-05 21:44:14.908513 - INFO - Contiene: Amazon
+2025-10-05 21:44:14.911514 - INFO - Contiene: Amazon
+2025-10-05 21:44:14.911514 - INFO - No contiene FOLLOW-UP
+2025-10-05 21:44:14.912513 - INFO - Items Dashboard: 0
+2025-10-05 21:44:14.913509 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 21:44:14.914506 - INFO - Terminando conteo de trabajos validos
+2025-10-05 21:44:14.915515 - INFO - Fin de Intento: 2
+2025-10-05 21:44:34.932142 - INFO - Fin de iteración
+2025-10-05 21:44:34.932142 - INFO - Obteniendo Credenciales
+2025-10-05 21:44:35.025897 - INFO - Inicio de Intento: 3
+2025-10-05 21:44:39.143332 - INFO - Se encontro un card de trabajo
+2025-10-05 21:44:39.144338 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 21:44:39.150330 - INFO - Existen: 1
+2025-10-05 21:44:39.152329 - INFO - Index: 1
+2025-10-05 21:44:39.169609 - INFO - Contiene: Amazon
+2025-10-05 21:44:39.169609 - INFO - Contiene: Amazon
+2025-10-05 21:44:39.169609 - INFO - No contiene FOLLOW-UP
+2025-10-05 21:44:39.184458 - INFO - Items Dashboard: 0
+2025-10-05 21:44:39.185478 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 21:44:39.185478 - INFO - Terminando conteo de trabajos validos
+2025-10-05 21:44:39.185478 - INFO - Fin de Intento: 3
+2025-10-05 21:44:59.199835 - INFO - Fin de iteración
+2025-10-05 21:44:59.199835 - INFO - Obteniendo Credenciales
+2025-10-05 21:44:59.295986 - INFO - Inicio de Intento: 4
+2025-10-05 21:45:02.858762 - INFO - Se encontro un card de trabajo
+2025-10-05 21:45:02.858762 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 21:45:02.865751 - INFO - Existen: 1
+2025-10-05 21:45:02.867857 - INFO - Index: 1
+2025-10-05 21:45:02.905456 - INFO - Contiene: Amazon
+2025-10-05 21:45:02.906448 - INFO - Contiene: Amazon
+2025-10-05 21:45:02.907446 - INFO - No contiene FOLLOW-UP
+2025-10-05 21:45:02.908449 - INFO - Items Dashboard: 0
+2025-10-05 21:45:02.909454 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 21:45:02.910447 - INFO - Terminando conteo de trabajos validos
+2025-10-05 21:45:02.918448 - INFO - Fin de Intento: 4
+2025-10-05 21:45:22.923614 - INFO - Fin de iteración
+2025-10-05 21:45:22.928615 - INFO - Obteniendo Credenciales
+2025-10-05 21:45:23.017654 - INFO - Inicio de Intento: 5
+2025-10-05 21:45:26.592353 - INFO - Se encontro un card de trabajo
+2025-10-05 21:45:26.592353 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 21:45:26.599343 - INFO - Existen: 1
+2025-10-05 21:45:26.600353 - INFO - Index: 1
+2025-10-05 21:45:26.646515 - INFO - Contiene: Amazon
+2025-10-05 21:45:26.646515 - INFO - Contiene: Amazon
+2025-10-05 21:45:26.646515 - INFO - No contiene FOLLOW-UP
+2025-10-05 21:45:26.651101 - INFO - Items Dashboard: 0
+2025-10-05 21:45:26.651101 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 21:45:26.651101 - INFO - Terminando conteo de trabajos validos
+2025-10-05 21:45:26.651101 - INFO - Fin de Intento: 5
+2025-10-05 21:45:46.663845 - INFO - Fin de iteración
+2025-10-05 21:45:46.663845 - INFO - Obteniendo Credenciales
+2025-10-05 21:45:46.769634 - INFO - Inicio de Intento: 6
+2025-10-05 21:45:50.376501 - INFO - Se encontro un card de trabajo
+2025-10-05 21:45:50.376501 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 21:45:50.383498 - INFO - Existen: 1
+2025-10-05 21:45:50.384502 - INFO - Index: 1
+2025-10-05 21:45:50.429503 - INFO - Contiene: Amazon
+2025-10-05 21:45:50.430689 - INFO - Contiene: Amazon
+2025-10-05 21:45:50.430689 - INFO - No contiene FOLLOW-UP
+2025-10-05 21:45:50.430689 - INFO - Items Dashboard: 0
+2025-10-05 21:45:50.430689 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 21:45:50.430689 - INFO - Terminando conteo de trabajos validos
+2025-10-05 21:45:50.435255 - INFO - Fin de Intento: 6
+2025-10-05 21:46:10.439620 - INFO - Fin de iteración
+2025-10-05 21:46:10.439620 - INFO - Obteniendo Credenciales
+2025-10-05 21:46:10.535600 - INFO - Inicio de Intento: 7
+2025-10-05 21:46:14.133187 - INFO - Se encontro un card de trabajo
+2025-10-05 21:46:14.133187 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 21:46:14.142196 - INFO - Existen: 1
+2025-10-05 21:46:14.145194 - INFO - Index: 1
+2025-10-05 21:46:14.187541 - INFO - Contiene: Amazon
+2025-10-05 21:46:14.203184 - INFO - Contiene: Amazon
+2025-10-05 21:46:14.203184 - INFO - No contiene FOLLOW-UP
+2025-10-05 21:46:14.203184 - INFO - Items Dashboard: 0
+2025-10-05 21:46:14.203184 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 21:46:14.203184 - INFO - Terminando conteo de trabajos validos
+2025-10-05 21:46:14.203184 - INFO - Fin de Intento: 7
+2025-10-05 21:46:34.215236 - INFO - Fin de iteración
+2025-10-05 21:46:34.215236 - INFO - Obteniendo Credenciales
+2025-10-05 21:46:34.309580 - INFO - Inicio de Intento: 8
+2025-10-05 21:46:38.413500 - INFO - Se encontro un card de trabajo
+2025-10-05 21:46:38.413500 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 21:46:38.413500 - INFO - Existen: 1
+2025-10-05 21:46:38.413500 - INFO - Index: 1
+2025-10-05 21:46:38.444695 - INFO - Contiene: Amazon
+2025-10-05 21:46:38.444695 - INFO - Contiene: Amazon
+2025-10-05 21:46:38.444695 - INFO - No contiene FOLLOW-UP
+2025-10-05 21:46:38.460314 - INFO - Items Dashboard: 0
+2025-10-05 21:46:38.460314 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 21:46:38.460314 - INFO - Terminando conteo de trabajos validos
+2025-10-05 21:46:38.460314 - INFO - Fin de Intento: 8
+2025-10-05 21:46:38.460314 - INFO - Ya se dio 8 intentos de busqueda
+2025-10-05 21:46:38.460314 - INFO - Validación de envio de correo por robot operativo
+2025-10-05 21:46:40.850982 - INFO - Correo enviado para notificar que el robot se encuentra operativo
+2025-10-05 21:49:16.740014 - INFO - Robot Lionbridge iniciado
+2025-10-05 21:49:16.740014 - INFO - Obteniendo Credenciales
+2025-10-05 21:49:16.755629 - INFO - Abrir navegador
+2025-10-05 21:49:23.525323 - INFO - Ingresando a ventana de Login
+2025-10-05 21:49:23.739307 - INFO - Iniciando inicio de sesión Lionbridge
+2025-10-05 21:49:45.018588 - INFO - Sesión iniciada
+2025-10-05 21:49:45.105378 - INFO - Inicio de Intento: 1
+2025-10-05 21:49:47.663479 - INFO - Se encontro un card de trabajo
+2025-10-05 21:49:47.663479 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 21:49:47.679058 - INFO - Existen: 1
+2025-10-05 21:49:47.679058 - INFO - Index: 1
+2025-10-05 21:49:47.710330 - INFO - Contiene: Amazon
+2025-10-05 21:49:47.710330 - INFO - Contiene: Amazon
+2025-10-05 21:49:47.710330 - INFO - No contiene FOLLOW-UP
+2025-10-05 21:49:47.710330 - INFO - Items Dashboard: 0
+2025-10-05 21:49:47.710330 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 21:49:47.725938 - INFO - Terminando conteo de trabajos validos
+2025-10-05 21:49:47.725938 - INFO - Fin de Intento: 1
+2025-10-05 21:50:07.741263 - INFO - Fin de iteración
+2025-10-05 21:50:07.741263 - INFO - Obteniendo Credenciales
+2025-10-05 21:50:07.844366 - INFO - Inicio de Intento: 2
+2025-10-05 21:50:11.448890 - INFO - Se encontro un card de trabajo
+2025-10-05 21:50:11.448890 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 21:50:11.455889 - INFO - Existen: 1
+2025-10-05 21:50:11.456897 - INFO - Index: 1
+2025-10-05 21:50:11.486901 - INFO - Contiene: Amazon
+2025-10-05 21:50:11.486901 - INFO - Contiene: Amazon
+2025-10-05 21:50:11.486901 - INFO - No contiene FOLLOW-UP
+2025-10-05 21:50:11.486901 - INFO - Items Dashboard: 0
+2025-10-05 21:50:11.486901 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 21:50:11.486901 - INFO - Terminando conteo de trabajos validos
+2025-10-05 21:50:11.486901 - INFO - Fin de Intento: 2
+2025-10-05 21:50:31.492123 - INFO - Fin de iteración
+2025-10-05 21:50:31.492123 - INFO - Obteniendo Credenciales
+2025-10-05 21:50:31.596544 - INFO - Inicio de Intento: 3
+2025-10-05 21:50:35.711230 - INFO - Se encontro un card de trabajo
+2025-10-05 21:50:35.711230 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 21:50:35.726848 - INFO - Existen: 1
+2025-10-05 21:50:35.726848 - INFO - Index: 1
+2025-10-05 21:50:35.758094 - INFO - Contiene: Amazon
+2025-10-05 21:50:35.758094 - INFO - Contiene: Amazon
+2025-10-05 21:50:35.758094 - INFO - No contiene FOLLOW-UP
+2025-10-05 21:50:35.758094 - INFO - Items Dashboard: 0
+2025-10-05 21:50:35.758094 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 21:50:35.758094 - INFO - Terminando conteo de trabajos validos
+2025-10-05 21:50:35.758094 - INFO - Fin de Intento: 3
+2025-10-05 21:50:55.762073 - INFO - Fin de iteración
+2025-10-05 21:50:55.762073 - INFO - Obteniendo Credenciales
+2025-10-05 21:50:55.855198 - INFO - Inicio de Intento: 4
+2025-10-05 21:50:59.465600 - INFO - Se encontro un card de trabajo
+2025-10-05 21:50:59.465600 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 21:50:59.473552 - INFO - Existen: 1
+2025-10-05 21:50:59.474868 - INFO - Index: 1
+2025-10-05 21:50:59.521602 - INFO - Contiene: Amazon
+2025-10-05 21:50:59.521602 - INFO - Contiene: Amazon
+2025-10-05 21:50:59.521602 - INFO - No contiene FOLLOW-UP
+2025-10-05 21:50:59.521602 - INFO - Items Dashboard: 0
+2025-10-05 21:50:59.521602 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 21:50:59.521602 - INFO - Terminando conteo de trabajos validos
+2025-10-05 21:50:59.521602 - INFO - Fin de Intento: 4
+2025-10-05 21:51:19.526685 - INFO - Fin de iteración
+2025-10-05 21:51:19.526685 - INFO - Obteniendo Credenciales
+2025-10-05 21:51:19.623162 - INFO - Inicio de Intento: 5
+2025-10-05 21:51:23.220197 - INFO - Se encontro un card de trabajo
+2025-10-05 21:51:23.221162 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 21:51:23.228151 - INFO - Existen: 1
+2025-10-05 21:51:23.230698 - INFO - Index: 1
+2025-10-05 21:51:23.259957 - INFO - Contiene: Amazon
+2025-10-05 21:51:23.259957 - INFO - Contiene: Amazon
+2025-10-05 21:51:23.259957 - INFO - No contiene FOLLOW-UP
+2025-10-05 21:51:23.259957 - INFO - Items Dashboard: 0
+2025-10-05 21:51:23.259957 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 21:51:23.259957 - INFO - Terminando conteo de trabajos validos
+2025-10-05 21:51:23.259957 - INFO - Fin de Intento: 5
+2025-10-05 21:51:43.276656 - INFO - Fin de iteración
+2025-10-05 21:51:43.276656 - INFO - Obteniendo Credenciales
+2025-10-05 21:51:43.374464 - INFO - Inicio de Intento: 6
+2025-10-05 21:51:46.959641 - INFO - Se encontro un card de trabajo
+2025-10-05 21:51:46.959641 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 21:51:46.959641 - INFO - Existen: 1
+2025-10-05 21:51:46.959641 - INFO - Index: 1
+2025-10-05 21:51:46.990826 - INFO - Contiene: Amazon
+2025-10-05 21:51:46.990826 - INFO - Contiene: Amazon
+2025-10-05 21:51:47.006454 - INFO - No contiene FOLLOW-UP
+2025-10-05 21:51:47.006454 - INFO - Items Dashboard: 0
+2025-10-05 21:51:47.006454 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 21:51:47.006454 - INFO - Terminando conteo de trabajos validos
+2025-10-05 21:51:47.006454 - INFO - Fin de Intento: 6
+2025-10-05 21:52:07.015297 - INFO - Fin de iteración
+2025-10-05 21:52:07.015297 - INFO - Obteniendo Credenciales
+2025-10-05 21:52:07.112489 - INFO - Inicio de Intento: 7
+2025-10-05 21:52:10.702488 - INFO - Se encontro un card de trabajo
+2025-10-05 21:52:10.703450 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 21:52:10.709454 - INFO - Existen: 1
+2025-10-05 21:52:10.711460 - INFO - Index: 1
+2025-10-05 21:52:10.741463 - INFO - Contiene: Amazon
+2025-10-05 21:52:10.741463 - INFO - Contiene: Amazon
+2025-10-05 21:52:10.742459 - INFO - No contiene FOLLOW-UP
+2025-10-05 21:52:10.745454 - INFO - Items Dashboard: 0
+2025-10-05 21:52:10.746460 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 21:52:10.746460 - INFO - Terminando conteo de trabajos validos
+2025-10-05 21:52:10.748456 - INFO - Fin de Intento: 7
+2025-10-05 21:52:30.761881 - INFO - Fin de iteración
+2025-10-05 21:52:30.761881 - INFO - Obteniendo Credenciales
+2025-10-05 21:52:30.859638 - INFO - Inicio de Intento: 8
+2025-10-05 21:52:34.942627 - INFO - Se encontro un card de trabajo
+2025-10-05 21:52:34.942627 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 21:52:34.942627 - INFO - Existen: 1
+2025-10-05 21:52:34.958238 - INFO - Index: 1
+2025-10-05 21:52:34.989461 - INFO - Contiene: Amazon
+2025-10-05 21:52:34.989461 - INFO - Contiene: Amazon
+2025-10-05 21:52:34.989461 - INFO - No contiene FOLLOW-UP
+2025-10-05 21:52:35.005086 - INFO - Items Dashboard: 0
+2025-10-05 21:52:35.005086 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 21:52:35.005086 - INFO - Terminando conteo de trabajos validos
+2025-10-05 21:52:35.005086 - INFO - Fin de Intento: 8
+2025-10-05 21:52:35.005086 - INFO - Ya se dio 8 intentos de busqueda
+2025-10-05 21:52:35.020711 - INFO - Validación de envio de correo por robot operativo
+2025-10-05 21:52:37.598900 - INFO - Correo enviado para notificar que el robot se encuentra operativo
+2025-10-05 21:55:10.893757 - INFO - Robot Lionbridge iniciado
+2025-10-05 21:55:10.893757 - INFO - Obteniendo Credenciales
+2025-10-05 21:55:10.909379 - INFO - Abrir navegador
+2025-10-05 21:55:17.611793 - INFO - Ingresando a ventana de Login
+2025-10-05 21:55:17.803262 - INFO - Iniciando inicio de sesión Lionbridge
+2025-10-05 21:55:38.743460 - INFO - Sesión iniciada
+2025-10-05 21:55:38.814776 - INFO - Inicio de Intento: 1
+2025-10-05 21:55:41.884380 - INFO - Se encontro un card de trabajo
+2025-10-05 21:55:41.884380 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 21:55:41.884380 - INFO - Existen: 1
+2025-10-05 21:55:41.884380 - INFO - Index: 1
+2025-10-05 21:55:41.931179 - INFO - Contiene: Amazon
+2025-10-05 21:55:41.931179 - INFO - Contiene: Amazon
+2025-10-05 21:55:41.931179 - INFO - No contiene FOLLOW-UP
+2025-10-05 21:55:41.931179 - INFO - Items Dashboard: 0
+2025-10-05 21:55:41.931179 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 21:55:41.931179 - INFO - Terminando conteo de trabajos validos
+2025-10-05 21:55:41.931179 - INFO - Fin de Intento: 1
+2025-10-05 21:56:01.931997 - INFO - Fin de iteración
+2025-10-05 21:56:01.931997 - INFO - Obteniendo Credenciales
+2025-10-05 21:56:02.024717 - INFO - Inicio de Intento: 2
+2025-10-05 21:56:05.628313 - INFO - Se encontro un card de trabajo
+2025-10-05 21:56:05.628313 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 21:56:05.635329 - INFO - Existen: 1
+2025-10-05 21:56:05.636324 - INFO - Index: 1
+2025-10-05 21:56:05.666319 - INFO - Contiene: Amazon
+2025-10-05 21:56:05.667320 - INFO - Contiene: Amazon
+2025-10-05 21:56:05.668320 - INFO - No contiene FOLLOW-UP
+2025-10-05 21:56:05.669326 - INFO - Items Dashboard: 0
+2025-10-05 21:56:05.669326 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 21:56:05.672328 - INFO - Terminando conteo de trabajos validos
+2025-10-05 21:56:05.673322 - INFO - Fin de Intento: 2
+2025-10-05 21:56:25.684250 - INFO - Fin de iteración
+2025-10-05 21:56:25.684250 - INFO - Obteniendo Credenciales
+2025-10-05 21:56:25.780074 - INFO - Inicio de Intento: 3
+2025-10-05 21:56:29.892984 - INFO - Se encontro un card de trabajo
+2025-10-05 21:56:29.892984 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 21:56:29.892984 - INFO - Existen: 1
+2025-10-05 21:56:29.892984 - INFO - Index: 1
+2025-10-05 21:56:29.924221 - INFO - Contiene: Amazon
+2025-10-05 21:56:29.939799 - INFO - Contiene: Amazon
+2025-10-05 21:56:29.939799 - INFO - No contiene FOLLOW-UP
+2025-10-05 21:56:29.939799 - INFO - Items Dashboard: 0
+2025-10-05 21:56:29.939799 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 21:56:29.939799 - INFO - Terminando conteo de trabajos validos
+2025-10-05 21:56:29.939799 - INFO - Fin de Intento: 3
+2025-10-05 21:56:49.946344 - INFO - Fin de iteración
+2025-10-05 21:56:49.946344 - INFO - Obteniendo Credenciales
+2025-10-05 21:56:50.050934 - INFO - Inicio de Intento: 4
+2025-10-05 21:56:53.640514 - INFO - Se encontro un card de trabajo
+2025-10-05 21:56:53.640514 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 21:56:53.640514 - INFO - Existen: 1
+2025-10-05 21:56:53.640514 - INFO - Index: 1
+2025-10-05 21:56:53.687405 - INFO - Contiene: Amazon
+2025-10-05 21:56:53.687405 - INFO - Contiene: Amazon
+2025-10-05 21:56:53.687405 - INFO - No contiene FOLLOW-UP
+2025-10-05 21:56:53.687405 - INFO - Items Dashboard: 0
+2025-10-05 21:56:53.687405 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 21:56:53.687405 - INFO - Terminando conteo de trabajos validos
+2025-10-05 21:56:53.687405 - INFO - Fin de Intento: 4
+2025-10-05 21:57:13.719234 - INFO - Fin de iteración
+2025-10-05 21:57:13.805032 - INFO - Obteniendo Credenciales
+2025-10-05 21:57:13.902025 - INFO - Inicio de Intento: 5
+2025-10-05 21:57:17.483679 - INFO - Se encontro un card de trabajo
+2025-10-05 21:57:17.484623 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 21:57:17.492377 - INFO - Existen: 1
+2025-10-05 21:57:17.492377 - INFO - Index: 1
+2025-10-05 21:57:17.522032 - INFO - Contiene: Amazon
+2025-10-05 21:57:17.522032 - INFO - Contiene: Amazon
+2025-10-05 21:57:17.522032 - INFO - No contiene FOLLOW-UP
+2025-10-05 21:57:17.522032 - INFO - Items Dashboard: 0
+2025-10-05 21:57:17.522032 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 21:57:17.522032 - INFO - Terminando conteo de trabajos validos
+2025-10-05 21:57:17.537658 - INFO - Fin de Intento: 5
+2025-10-05 21:57:37.538806 - INFO - Fin de iteración
+2025-10-05 21:57:37.538806 - INFO - Obteniendo Credenciales
+2025-10-05 21:57:37.637480 - INFO - Inicio de Intento: 6
+2025-10-05 21:57:41.243736 - INFO - Se encontro un card de trabajo
+2025-10-05 21:57:41.243736 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 21:57:41.250732 - INFO - Existen: 1
+2025-10-05 21:57:41.251729 - INFO - Index: 1
+2025-10-05 21:57:41.282740 - INFO - Contiene: Amazon
+2025-10-05 21:57:41.282740 - INFO - Contiene: Amazon
+2025-10-05 21:57:41.283734 - INFO - No contiene FOLLOW-UP
+2025-10-05 21:57:41.284735 - INFO - Items Dashboard: 0
+2025-10-05 21:57:41.285732 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 21:57:41.286733 - INFO - Terminando conteo de trabajos validos
+2025-10-05 21:57:41.289729 - INFO - Fin de Intento: 6
+2025-10-05 21:58:01.302524 - INFO - Fin de iteración
+2025-10-05 21:58:01.302524 - INFO - Obteniendo Credenciales
+2025-10-05 21:58:01.396513 - INFO - Inicio de Intento: 7
+2025-10-05 21:58:05.502942 - INFO - Se encontro un card de trabajo
+2025-10-05 21:58:05.502942 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 21:58:05.518525 - INFO - Existen: 1
+2025-10-05 21:58:05.518525 - INFO - Index: 1
+2025-10-05 21:58:05.549775 - INFO - Contiene: Amazon
+2025-10-05 21:58:05.549775 - INFO - Contiene: Amazon
+2025-10-05 21:58:05.549775 - INFO - No contiene FOLLOW-UP
+2025-10-05 21:58:05.549775 - INFO - Items Dashboard: 0
+2025-10-05 21:58:05.549775 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 21:58:05.549775 - INFO - Terminando conteo de trabajos validos
+2025-10-05 21:58:05.565397 - INFO - Fin de Intento: 7
+2025-10-05 21:58:25.570730 - INFO - Fin de iteración
+2025-10-05 21:58:25.570730 - INFO - Obteniendo Credenciales
+2025-10-05 21:58:25.666057 - INFO - Inicio de Intento: 8
+2025-10-05 21:58:29.738114 - INFO - Se encontro un card de trabajo
+2025-10-05 21:58:29.738114 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 21:58:29.738114 - INFO - Existen: 1
+2025-10-05 21:58:29.738114 - INFO - Index: 1
+2025-10-05 21:58:29.769376 - INFO - Contiene: Amazon
+2025-10-05 21:58:29.769376 - INFO - Contiene: Amazon
+2025-10-05 21:58:29.769376 - INFO - No contiene FOLLOW-UP
+2025-10-05 21:58:29.769376 - INFO - Items Dashboard: 0
+2025-10-05 21:58:29.784955 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 21:58:29.784955 - INFO - Terminando conteo de trabajos validos
+2025-10-05 21:58:29.784955 - INFO - Fin de Intento: 8
+2025-10-05 21:58:29.800586 - INFO - Ya se dio 8 intentos de busqueda
+2025-10-05 21:58:29.800586 - INFO - Validación de envio de correo por robot operativo
+2025-10-05 21:58:31.628751 - INFO - Correo enviado para notificar que el robot se encuentra operativo
+2025-10-05 22:01:12.601421 - INFO - Robot Lionbridge iniciado
+2025-10-05 22:01:12.601421 - INFO - Obteniendo Credenciales
+2025-10-05 22:01:12.632677 - INFO - Abrir navegador
+2025-10-05 22:01:19.389319 - INFO - Ingresando a ventana de Login
+2025-10-05 22:01:19.582660 - INFO - Iniciando inicio de sesión Lionbridge
+2025-10-05 22:01:41.756875 - INFO - Sesión iniciada
+2025-10-05 22:01:41.823258 - INFO - Inicio de Intento: 1
+2025-10-05 22:01:44.428837 - INFO - Se encontro un card de trabajo
+2025-10-05 22:01:44.428837 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:01:44.428837 - INFO - Existen: 1
+2025-10-05 22:01:44.444419 - INFO - Index: 1
+2025-10-05 22:01:44.491286 - INFO - Contiene: Amazon
+2025-10-05 22:01:44.491286 - INFO - Contiene: Amazon
+2025-10-05 22:01:44.491286 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:01:44.491286 - INFO - Items Dashboard: 0
+2025-10-05 22:01:44.491286 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:01:44.491286 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:01:44.506919 - INFO - Fin de Intento: 1
+2025-10-05 22:02:04.507691 - INFO - Fin de iteración
+2025-10-05 22:02:04.507691 - INFO - Obteniendo Credenciales
+2025-10-05 22:02:04.599265 - INFO - Inicio de Intento: 2
+2025-10-05 22:02:08.198456 - INFO - Se encontro un card de trabajo
+2025-10-05 22:02:08.198456 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:02:08.205453 - INFO - Existen: 1
+2025-10-05 22:02:08.206453 - INFO - Index: 1
+2025-10-05 22:02:08.236455 - INFO - Contiene: Amazon
+2025-10-05 22:02:08.237451 - INFO - Contiene: Amazon
+2025-10-05 22:02:08.238451 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:02:08.239457 - INFO - Items Dashboard: 0
+2025-10-05 22:02:08.239457 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:02:08.240456 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:02:08.243456 - INFO - Fin de Intento: 2
+2025-10-05 22:02:28.256981 - INFO - Fin de iteración
+2025-10-05 22:02:28.256981 - INFO - Obteniendo Credenciales
+2025-10-05 22:02:28.349788 - INFO - Inicio de Intento: 3
+2025-10-05 22:02:31.941354 - INFO - Se encontro un card de trabajo
+2025-10-05 22:02:31.942361 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:02:31.956470 - INFO - Existen: 1
+2025-10-05 22:02:31.956470 - INFO - Index: 1
+2025-10-05 22:02:31.988139 - INFO - Contiene: Amazon
+2025-10-05 22:02:31.988139 - INFO - Contiene: Amazon
+2025-10-05 22:02:31.988139 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:02:31.988139 - INFO - Items Dashboard: 0
+2025-10-05 22:02:31.988139 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:02:31.988139 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:02:31.988139 - INFO - Fin de Intento: 3
+2025-10-05 22:02:52.003522 - INFO - Fin de iteración
+2025-10-05 22:02:52.003522 - INFO - Obteniendo Credenciales
+2025-10-05 22:02:52.095760 - INFO - Inicio de Intento: 4
+2025-10-05 22:02:56.238859 - INFO - Se encontro un card de trabajo
+2025-10-05 22:02:56.239873 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:02:56.262575 - INFO - Existen: 1
+2025-10-05 22:02:56.265428 - INFO - Index: 1
+2025-10-05 22:02:56.307092 - INFO - Contiene: Amazon
+2025-10-05 22:02:56.309086 - INFO - Contiene: Amazon
+2025-10-05 22:02:56.309086 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:02:56.311087 - INFO - Items Dashboard: 0
+2025-10-05 22:02:56.311087 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:02:56.312085 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:02:56.313082 - INFO - Fin de Intento: 4
+2025-10-05 22:03:16.320910 - INFO - Fin de iteración
+2025-10-05 22:03:16.320910 - INFO - Obteniendo Credenciales
+2025-10-05 22:03:16.407846 - INFO - Inicio de Intento: 5
+2025-10-05 22:03:20.530378 - INFO - Se encontro un card de trabajo
+2025-10-05 22:03:20.530378 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:03:20.530378 - INFO - Existen: 1
+2025-10-05 22:03:20.530378 - INFO - Index: 1
+2025-10-05 22:03:20.577258 - INFO - Contiene: Amazon
+2025-10-05 22:03:20.577258 - INFO - Contiene: Amazon
+2025-10-05 22:03:20.577258 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:03:20.592842 - INFO - Items Dashboard: 0
+2025-10-05 22:03:20.592842 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:03:20.592842 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:03:20.592842 - INFO - Fin de Intento: 5
+2025-10-05 22:03:40.597307 - INFO - Fin de iteración
+2025-10-05 22:03:40.597307 - INFO - Obteniendo Credenciales
+2025-10-05 22:03:40.696390 - INFO - Inicio de Intento: 6
+2025-10-05 22:03:44.293830 - INFO - Se encontro un card de trabajo
+2025-10-05 22:03:44.293830 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:03:44.300819 - INFO - Existen: 1
+2025-10-05 22:03:44.301821 - INFO - Index: 1
+2025-10-05 22:03:44.332591 - INFO - Contiene: Amazon
+2025-10-05 22:03:44.332591 - INFO - Contiene: Amazon
+2025-10-05 22:03:44.332591 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:03:44.332591 - INFO - Items Dashboard: 0
+2025-10-05 22:03:44.332591 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:03:44.332591 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:03:44.332591 - INFO - Fin de Intento: 6
+2025-10-05 22:04:04.342162 - INFO - Fin de iteración
+2025-10-05 22:04:04.342162 - INFO - Obteniendo Credenciales
+2025-10-05 22:04:04.431735 - INFO - Inicio de Intento: 7
+2025-10-05 22:04:08.019691 - INFO - Se encontro un card de trabajo
+2025-10-05 22:04:08.019691 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:04:08.026695 - INFO - Existen: 1
+2025-10-05 22:04:08.027699 - INFO - Index: 1
+2025-10-05 22:04:08.061505 - INFO - Contiene: Amazon
+2025-10-05 22:04:08.062516 - INFO - Contiene: Amazon
+2025-10-05 22:04:08.062516 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:04:08.064509 - INFO - Items Dashboard: 0
+2025-10-05 22:04:08.066506 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:04:08.066506 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:04:08.074511 - INFO - Fin de Intento: 7
+2025-10-05 22:04:28.091304 - INFO - Fin de iteración
+2025-10-05 22:04:28.091304 - INFO - Obteniendo Credenciales
+2025-10-05 22:04:28.199194 - INFO - Inicio de Intento: 8
+2025-10-05 22:04:32.289637 - INFO - Se encontro un card de trabajo
+2025-10-05 22:04:32.289637 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:04:32.289637 - INFO - Existen: 1
+2025-10-05 22:04:32.289637 - INFO - Index: 1
+2025-10-05 22:04:32.320910 - INFO - Contiene: Amazon
+2025-10-05 22:04:32.320910 - INFO - Contiene: Amazon
+2025-10-05 22:04:32.320910 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:04:32.336532 - INFO - Items Dashboard: 0
+2025-10-05 22:04:32.336532 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:04:32.336532 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:04:32.336532 - INFO - Fin de Intento: 8
+2025-10-05 22:04:32.336532 - INFO - Ya se dio 8 intentos de busqueda
+2025-10-05 22:04:32.336532 - INFO - Validación de envio de correo por robot operativo
+2025-10-05 22:04:34.839708 - INFO - Correo enviado para notificar que el robot se encuentra operativo
+2025-10-05 22:07:10.403210 - INFO - Robot Lionbridge iniciado
+2025-10-05 22:07:10.403210 - INFO - Obteniendo Credenciales
+2025-10-05 22:07:10.418839 - INFO - Abrir navegador
+2025-10-05 22:07:17.217348 - INFO - Ingresando a ventana de Login
+2025-10-05 22:07:17.392386 - INFO - Iniciando inicio de sesión Lionbridge
+2025-10-05 22:08:12.922342 - INFO - Sesión iniciada
+2025-10-05 22:08:12.996774 - INFO - Inicio de Intento: 1
+2025-10-05 22:08:15.573974 - INFO - Se encontro un card de trabajo
+2025-10-05 22:08:15.573974 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:08:15.573974 - INFO - Existen: 1
+2025-10-05 22:08:15.589550 - INFO - Index: 1
+2025-10-05 22:08:15.620799 - INFO - Contiene: Amazon
+2025-10-05 22:08:15.620799 - INFO - Contiene: Amazon
+2025-10-05 22:08:15.620799 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:08:15.620799 - INFO - Items Dashboard: 0
+2025-10-05 22:08:15.636437 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:08:15.636437 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:08:15.636437 - INFO - Fin de Intento: 1
+2025-10-05 22:08:35.648388 - INFO - Fin de iteración
+2025-10-05 22:08:35.648388 - INFO - Obteniendo Credenciales
+2025-10-05 22:08:35.746043 - INFO - Inicio de Intento: 2
+2025-10-05 22:08:39.859002 - INFO - Se encontro un card de trabajo
+2025-10-05 22:08:39.859002 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:08:39.859002 - INFO - Existen: 1
+2025-10-05 22:08:39.859002 - INFO - Index: 1
+2025-10-05 22:08:39.890266 - INFO - Contiene: Amazon
+2025-10-05 22:08:39.890266 - INFO - Contiene: Amazon
+2025-10-05 22:08:39.905903 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:08:39.905903 - INFO - Items Dashboard: 0
+2025-10-05 22:08:39.905903 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:08:39.905903 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:08:39.905903 - INFO - Fin de Intento: 2
+2025-10-05 22:08:59.911570 - INFO - Fin de iteración
+2025-10-05 22:08:59.911570 - INFO - Obteniendo Credenciales
+2025-10-05 22:09:00.005711 - INFO - Inicio de Intento: 3
+2025-10-05 22:09:03.591051 - INFO - Se encontro un card de trabajo
+2025-10-05 22:09:03.591051 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:09:03.599055 - INFO - Existen: 1
+2025-10-05 22:09:03.600049 - INFO - Index: 1
+2025-10-05 22:09:03.628079 - INFO - Contiene: Amazon
+2025-10-05 22:09:03.628079 - INFO - Contiene: Amazon
+2025-10-05 22:09:03.628079 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:09:03.628079 - INFO - Items Dashboard: 0
+2025-10-05 22:09:03.628079 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:09:03.628079 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:09:03.628079 - INFO - Fin de Intento: 3
+2025-10-05 22:09:23.659212 - INFO - Fin de iteración
+2025-10-05 22:09:23.659212 - INFO - Obteniendo Credenciales
+2025-10-05 22:09:23.753522 - INFO - Inicio de Intento: 4
+2025-10-05 22:09:27.364876 - INFO - Se encontro un card de trabajo
+2025-10-05 22:09:27.364876 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:09:27.371871 - INFO - Existen: 1
+2025-10-05 22:09:27.373869 - INFO - Index: 1
+2025-10-05 22:09:27.402875 - INFO - Contiene: Amazon
+2025-10-05 22:09:27.403879 - INFO - Contiene: Amazon
+2025-10-05 22:09:27.403879 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:09:27.404873 - INFO - Items Dashboard: 0
+2025-10-05 22:09:27.406187 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:09:27.406187 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:09:27.406187 - INFO - Fin de Intento: 4
+2025-10-05 22:09:47.408069 - INFO - Fin de iteración
+2025-10-05 22:09:47.408069 - INFO - Obteniendo Credenciales
+2025-10-05 22:09:47.508740 - INFO - Inicio de Intento: 5
+2025-10-05 22:09:51.133319 - INFO - Se encontro un card de trabajo
+2025-10-05 22:09:51.133319 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:09:51.140312 - INFO - Existen: 1
+2025-10-05 22:09:51.141310 - INFO - Index: 1
+2025-10-05 22:09:51.174436 - INFO - Contiene: Amazon
+2025-10-05 22:09:51.174981 - INFO - Contiene: Amazon
+2025-10-05 22:09:51.175975 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:09:51.176973 - INFO - Items Dashboard: 0
+2025-10-05 22:09:51.177972 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:09:51.178972 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:09:51.186978 - INFO - Fin de Intento: 5
+2025-10-05 22:10:11.190115 - INFO - Fin de iteración
+2025-10-05 22:10:11.190115 - INFO - Obteniendo Credenciales
+2025-10-05 22:10:11.289045 - INFO - Inicio de Intento: 6
+2025-10-05 22:10:14.875477 - INFO - Se encontro un card de trabajo
+2025-10-05 22:10:14.876432 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:10:14.883427 - INFO - Existen: 1
+2025-10-05 22:10:14.886435 - INFO - Index: 1
+2025-10-05 22:10:14.933238 - INFO - Contiene: Amazon
+2025-10-05 22:10:14.933238 - INFO - Contiene: Amazon
+2025-10-05 22:10:14.933238 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:10:14.933238 - INFO - Items Dashboard: 0
+2025-10-05 22:10:14.933238 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:10:14.933238 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:10:14.933238 - INFO - Fin de Intento: 6
+2025-10-05 22:10:34.940011 - INFO - Fin de iteración
+2025-10-05 22:10:34.940011 - INFO - Obteniendo Credenciales
+2025-10-05 22:10:35.039059 - INFO - Inicio de Intento: 7
+2025-10-05 22:10:39.137974 - INFO - Se encontro un card de trabajo
+2025-10-05 22:10:39.138980 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:10:39.146976 - INFO - Existen: 1
+2025-10-05 22:10:39.149982 - INFO - Index: 1
+2025-10-05 22:10:39.182978 - INFO - Contiene: Amazon
+2025-10-05 22:10:39.182978 - INFO - Contiene: Amazon
+2025-10-05 22:10:39.183978 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:10:39.184978 - INFO - Items Dashboard: 0
+2025-10-05 22:10:39.185978 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:10:39.186974 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:10:39.187977 - INFO - Fin de Intento: 7
+2025-10-05 22:10:59.192665 - INFO - Fin de iteración
+2025-10-05 22:10:59.192665 - INFO - Obteniendo Credenciales
+2025-10-05 22:10:59.283222 - INFO - Inicio de Intento: 8
+2025-10-05 22:11:02.904056 - INFO - Se encontro un card de trabajo
+2025-10-05 22:11:02.904056 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:11:02.927058 - INFO - Existen: 1
+2025-10-05 22:11:02.934054 - INFO - Index: 1
+2025-10-05 22:11:02.965060 - INFO - Contiene: Amazon
+2025-10-05 22:11:02.966058 - INFO - Contiene: Amazon
+2025-10-05 22:11:02.967053 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:11:02.968061 - INFO - Items Dashboard: 0
+2025-10-05 22:11:02.969372 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:11:02.970054 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:11:02.979055 - INFO - Fin de Intento: 8
+2025-10-05 22:11:02.980063 - INFO - Ya se dio 8 intentos de busqueda
+2025-10-05 22:11:02.982054 - INFO - Validación de envio de correo por robot operativo
+2025-10-05 22:11:04.860362 - INFO - Correo enviado para notificar que el robot se encuentra operativo
+2025-10-05 22:13:39.397531 - INFO - Robot Lionbridge iniciado
+2025-10-05 22:13:39.397531 - INFO - Obteniendo Credenciales
+2025-10-05 22:13:39.428791 - INFO - Abrir navegador
+2025-10-05 22:13:46.344751 - INFO - Ingresando a ventana de Login
+2025-10-05 22:13:46.541790 - INFO - Iniciando inicio de sesión Lionbridge
+2025-10-05 22:14:51.029084 - ERROR - No se logró cargar el dashboard en el periodo indicado
+2025-10-05 22:14:51.029084 - INFO - Fin de iteración
+2025-10-05 22:14:51.029084 - INFO - Obteniendo Credenciales
+2025-10-05 22:14:51.044670 - INFO - Ingresando a ventana de Login
+2025-10-05 22:14:51.740567 - INFO - Iniciando inicio de sesión Lionbridge
+2025-10-05 22:15:23.934023 - ERROR - No se logró cargar el dashboard en el periodo indicado
+2025-10-05 22:15:23.934023 - INFO - Fin de iteración
+2025-10-05 22:15:23.934023 - INFO - Obteniendo Credenciales
+2025-10-05 22:15:23.965676 - INFO - Ingresando a ventana de Login
+2025-10-05 22:15:24.564930 - INFO - Iniciando inicio de sesión Lionbridge
+2025-10-05 22:15:43.791286 - INFO - Sesión iniciada
+2025-10-05 22:15:43.861251 - INFO - Inicio de Intento: 1
+2025-10-05 22:15:46.429523 - INFO - Se encontro un card de trabajo
+2025-10-05 22:15:46.429523 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:15:46.429523 - INFO - Existen: 1
+2025-10-05 22:15:46.445107 - INFO - Index: 1
+2025-10-05 22:15:46.476359 - INFO - Contiene: Amazon
+2025-10-05 22:15:46.476359 - INFO - Contiene: Amazon
+2025-10-05 22:15:46.476359 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:15:46.476359 - INFO - Items Dashboard: 0
+2025-10-05 22:15:46.476359 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:15:46.491979 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:15:46.491979 - INFO - Fin de Intento: 1
+2025-10-05 22:16:06.505671 - INFO - Fin de iteración
+2025-10-05 22:16:06.505671 - INFO - Obteniendo Credenciales
+2025-10-05 22:16:06.609639 - INFO - Inicio de Intento: 2
+2025-10-05 22:16:10.696753 - INFO - Se encontro un card de trabajo
+2025-10-05 22:16:10.696753 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:16:10.696753 - INFO - Existen: 1
+2025-10-05 22:16:10.696753 - INFO - Index: 1
+2025-10-05 22:16:10.727963 - INFO - Contiene: Amazon
+2025-10-05 22:16:10.727963 - INFO - Contiene: Amazon
+2025-10-05 22:16:10.727963 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:16:10.727963 - INFO - Items Dashboard: 0
+2025-10-05 22:16:10.743593 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:16:10.743593 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:16:10.743593 - INFO - Fin de Intento: 2
+2025-10-05 22:16:30.759004 - INFO - Fin de iteración
+2025-10-05 22:16:30.759004 - INFO - Obteniendo Credenciales
+2025-10-05 22:16:30.849503 - INFO - Inicio de Intento: 3
+2025-10-05 22:16:34.409665 - INFO - Se encontro un card de trabajo
+2025-10-05 22:16:34.409665 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:16:34.416668 - INFO - Existen: 1
+2025-10-05 22:16:34.418671 - INFO - Index: 1
+2025-10-05 22:16:34.448666 - INFO - Contiene: Amazon
+2025-10-05 22:16:34.448666 - INFO - Contiene: Amazon
+2025-10-05 22:16:34.449664 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:16:34.450671 - INFO - Items Dashboard: 0
+2025-10-05 22:16:34.451664 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:16:34.452671 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:16:34.453667 - INFO - Fin de Intento: 3
+2025-10-05 22:16:54.465646 - INFO - Fin de iteración
+2025-10-05 22:16:54.465646 - INFO - Obteniendo Credenciales
+2025-10-05 22:16:54.562137 - INFO - Inicio de Intento: 4
+2025-10-05 22:16:58.693670 - INFO - Se encontro un card de trabajo
+2025-10-05 22:16:58.694677 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:16:58.714239 - INFO - Existen: 1
+2025-10-05 22:16:58.716236 - INFO - Index: 1
+2025-10-05 22:16:58.750867 - INFO - Contiene: Amazon
+2025-10-05 22:16:58.751864 - INFO - Contiene: Amazon
+2025-10-05 22:16:58.751864 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:16:58.753871 - INFO - Items Dashboard: 0
+2025-10-05 22:16:58.753871 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:16:58.754862 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:16:58.755871 - INFO - Fin de Intento: 4
+2025-10-05 22:17:18.766139 - INFO - Fin de iteración
+2025-10-05 22:17:18.766139 - INFO - Obteniendo Credenciales
+2025-10-05 22:17:18.857480 - INFO - Inicio de Intento: 5
+2025-10-05 22:17:22.440433 - INFO - Se encontro un card de trabajo
+2025-10-05 22:17:22.441429 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:17:22.448432 - INFO - Existen: 1
+2025-10-05 22:17:22.449430 - INFO - Index: 1
+2025-10-05 22:17:22.479204 - INFO - Contiene: Amazon
+2025-10-05 22:17:22.479204 - INFO - Contiene: Amazon
+2025-10-05 22:17:22.479204 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:17:22.479204 - INFO - Items Dashboard: 0
+2025-10-05 22:17:22.479204 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:17:22.479204 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:17:22.479204 - INFO - Fin de Intento: 5
+2025-10-05 22:17:42.485130 - INFO - Fin de iteración
+2025-10-05 22:17:42.485130 - INFO - Obteniendo Credenciales
+2025-10-05 22:17:42.582132 - INFO - Inicio de Intento: 6
+2025-10-05 22:17:46.181606 - INFO - Se encontro un card de trabajo
+2025-10-05 22:17:46.181606 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:17:46.188603 - INFO - Existen: 1
+2025-10-05 22:17:46.189938 - INFO - Index: 1
+2025-10-05 22:17:46.221382 - INFO - Contiene: Amazon
+2025-10-05 22:17:46.221382 - INFO - Contiene: Amazon
+2025-10-05 22:17:46.221382 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:17:46.221382 - INFO - Items Dashboard: 0
+2025-10-05 22:17:46.221382 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:17:46.221382 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:17:46.221382 - INFO - Fin de Intento: 6
+2025-10-05 22:18:06.231848 - INFO - Fin de iteración
+2025-10-05 22:18:06.231848 - INFO - Obteniendo Credenciales
+2025-10-05 22:18:06.326846 - INFO - Inicio de Intento: 7
+2025-10-05 22:18:09.893923 - INFO - Se encontro un card de trabajo
+2025-10-05 22:18:09.894882 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:18:09.901885 - INFO - Existen: 1
+2025-10-05 22:18:09.902881 - INFO - Index: 1
+2025-10-05 22:18:09.938893 - INFO - Contiene: Amazon
+2025-10-05 22:18:09.939878 - INFO - Contiene: Amazon
+2025-10-05 22:18:09.940887 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:18:09.941880 - INFO - Items Dashboard: 0
+2025-10-05 22:18:09.942887 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:18:09.942887 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:18:09.944883 - INFO - Fin de Intento: 7
+2025-10-05 22:18:29.963505 - INFO - Fin de iteración
+2025-10-05 22:18:29.963505 - INFO - Obteniendo Credenciales
+2025-10-05 22:18:30.058946 - INFO - Inicio de Intento: 8
+2025-10-05 22:18:33.623227 - INFO - Se encontro un card de trabajo
+2025-10-05 22:18:33.624178 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:18:33.631182 - INFO - Existen: 1
+2025-10-05 22:18:33.634187 - INFO - Index: 1
+2025-10-05 22:18:33.662955 - INFO - Contiene: Amazon
+2025-10-05 22:18:33.662955 - INFO - Contiene: Amazon
+2025-10-05 22:18:33.662955 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:18:33.662955 - INFO - Items Dashboard: 0
+2025-10-05 22:18:33.662955 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:18:33.662955 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:18:33.678606 - INFO - Fin de Intento: 8
+2025-10-05 22:18:33.678606 - INFO - Ya se dio 8 intentos de busqueda
+2025-10-05 22:18:33.678606 - INFO - Validación de envio de correo por robot operativo
+2025-10-05 22:18:34.912759 - INFO - Correo enviado para notificar que el robot se encuentra operativo
+2025-10-05 22:21:15.261380 - INFO - Robot Lionbridge iniciado
+2025-10-05 22:21:15.277007 - INFO - Obteniendo Credenciales
+2025-10-05 22:21:15.292629 - INFO - Abrir navegador
+2025-10-05 22:21:22.206658 - INFO - Ingresando a ventana de Login
+2025-10-05 22:21:22.392394 - INFO - Iniciando inicio de sesión Lionbridge
+2025-10-05 22:21:56.735822 - ERROR - No se logró cargar el dashboard en el periodo indicado
+2025-10-05 22:21:56.735822 - INFO - Fin de iteración
+2025-10-05 22:21:56.735822 - INFO - Obteniendo Credenciales
+2025-10-05 22:21:56.751370 - INFO - Ingresando a ventana de Login
+2025-10-05 22:21:57.381636 - INFO - Iniciando inicio de sesión Lionbridge
+2025-10-05 22:22:16.150646 - INFO - Sesión iniciada
+2025-10-05 22:22:16.217692 - INFO - Inicio de Intento: 1
+2025-10-05 22:22:18.806155 - INFO - Se encontro un card de trabajo
+2025-10-05 22:22:18.806155 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:22:18.806155 - INFO - Existen: 1
+2025-10-05 22:22:18.821741 - INFO - Index: 1
+2025-10-05 22:22:18.853033 - INFO - Contiene: Amazon
+2025-10-05 22:22:18.868615 - INFO - Contiene: Amazon
+2025-10-05 22:22:18.868615 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:22:18.868615 - INFO - Items Dashboard: 0
+2025-10-05 22:22:18.868615 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:22:18.868615 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:22:18.868615 - INFO - Fin de Intento: 1
+2025-10-05 22:22:38.889675 - INFO - Fin de iteración
+2025-10-05 22:22:38.889675 - INFO - Obteniendo Credenciales
+2025-10-05 22:22:38.987919 - INFO - Inicio de Intento: 2
+2025-10-05 22:22:43.088669 - INFO - Se encontro un card de trabajo
+2025-10-05 22:22:43.088669 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:22:43.088669 - INFO - Existen: 1
+2025-10-05 22:22:43.088669 - INFO - Index: 1
+2025-10-05 22:22:43.119875 - INFO - Contiene: Amazon
+2025-10-05 22:22:43.135502 - INFO - Contiene: Amazon
+2025-10-05 22:22:43.135502 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:22:43.135502 - INFO - Items Dashboard: 0
+2025-10-05 22:22:43.135502 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:22:43.135502 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:22:43.135502 - INFO - Fin de Intento: 2
+2025-10-05 22:23:03.148143 - INFO - Fin de iteración
+2025-10-05 22:23:03.148143 - INFO - Obteniendo Credenciales
+2025-10-05 22:23:03.238719 - INFO - Inicio de Intento: 3
+2025-10-05 22:23:07.347736 - INFO - Se encontro un card de trabajo
+2025-10-05 22:23:07.347736 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:23:07.347736 - INFO - Existen: 1
+2025-10-05 22:23:07.347736 - INFO - Index: 1
+2025-10-05 22:23:07.378937 - INFO - Contiene: Amazon
+2025-10-05 22:23:07.394553 - INFO - Contiene: Amazon
+2025-10-05 22:23:07.394553 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:23:07.394553 - INFO - Items Dashboard: 0
+2025-10-05 22:23:07.394553 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:23:07.394553 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:23:07.394553 - INFO - Fin de Intento: 3
+2025-10-05 22:23:27.402209 - INFO - Fin de iteración
+2025-10-05 22:23:27.406213 - INFO - Obteniendo Credenciales
+2025-10-05 22:23:27.504291 - INFO - Inicio de Intento: 4
+2025-10-05 22:23:31.643053 - INFO - Se encontro un card de trabajo
+2025-10-05 22:23:31.643053 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:23:31.643053 - INFO - Existen: 1
+2025-10-05 22:23:31.643053 - INFO - Index: 1
+2025-10-05 22:23:31.674250 - INFO - Contiene: Amazon
+2025-10-05 22:23:31.674250 - INFO - Contiene: Amazon
+2025-10-05 22:23:31.674250 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:23:31.689880 - INFO - Items Dashboard: 0
+2025-10-05 22:23:31.689880 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:23:31.689880 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:23:31.689880 - INFO - Fin de Intento: 4
+2025-10-05 22:23:51.689927 - INFO - Fin de iteración
+2025-10-05 22:23:51.689927 - INFO - Obteniendo Credenciales
+2025-10-05 22:23:51.781648 - INFO - Inicio de Intento: 5
+2025-10-05 22:23:55.368299 - INFO - Se encontro un card de trabajo
+2025-10-05 22:23:55.368299 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:23:55.375291 - INFO - Existen: 1
+2025-10-05 22:23:55.376301 - INFO - Index: 1
+2025-10-05 22:23:55.406300 - INFO - Contiene: Amazon
+2025-10-05 22:23:55.407298 - INFO - Contiene: Amazon
+2025-10-05 22:23:55.408294 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:23:55.409293 - INFO - Items Dashboard: 0
+2025-10-05 22:23:55.410294 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:23:55.410294 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:23:55.412296 - INFO - Fin de Intento: 5
+2025-10-05 22:24:15.428674 - INFO - Fin de iteración
+2025-10-05 22:24:15.428674 - INFO - Obteniendo Credenciales
+2025-10-05 22:24:15.526782 - INFO - Inicio de Intento: 6
+2025-10-05 22:24:19.121172 - INFO - Se encontro un card de trabajo
+2025-10-05 22:24:19.122164 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:24:19.129175 - INFO - Existen: 1
+2025-10-05 22:24:19.132172 - INFO - Index: 1
+2025-10-05 22:24:19.160933 - INFO - Contiene: Amazon
+2025-10-05 22:24:19.160933 - INFO - Contiene: Amazon
+2025-10-05 22:24:19.160933 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:24:19.160933 - INFO - Items Dashboard: 0
+2025-10-05 22:24:19.160933 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:24:19.160933 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:24:19.160933 - INFO - Fin de Intento: 6
+2025-10-05 22:24:39.188542 - INFO - Fin de iteración
+2025-10-05 22:24:39.188542 - INFO - Obteniendo Credenciales
+2025-10-05 22:24:39.280850 - INFO - Inicio de Intento: 7
+2025-10-05 22:24:43.396423 - INFO - Se encontro un card de trabajo
+2025-10-05 22:24:43.396423 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:24:43.396423 - INFO - Existen: 1
+2025-10-05 22:24:43.396423 - INFO - Index: 1
+2025-10-05 22:24:43.427612 - INFO - Contiene: Amazon
+2025-10-05 22:24:43.427612 - INFO - Contiene: Amazon
+2025-10-05 22:24:43.427612 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:24:43.427612 - INFO - Items Dashboard: 0
+2025-10-05 22:24:43.427612 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:24:43.443236 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:24:43.443236 - INFO - Fin de Intento: 7
+2025-10-05 22:25:03.461169 - INFO - Fin de iteración
+2025-10-05 22:25:03.496262 - INFO - Obteniendo Credenciales
+2025-10-05 22:25:03.596942 - INFO - Inicio de Intento: 8
+2025-10-05 22:25:07.195023 - INFO - Se encontro un card de trabajo
+2025-10-05 22:25:07.196000 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:25:07.202986 - INFO - Existen: 1
+2025-10-05 22:25:07.214997 - INFO - Index: 1
+2025-10-05 22:25:07.235007 - INFO - Contiene: Amazon
+2025-10-05 22:25:07.250657 - INFO - Contiene: Amazon
+2025-10-05 22:25:07.250657 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:25:07.250657 - INFO - Items Dashboard: 0
+2025-10-05 22:25:07.250657 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:25:07.250657 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:25:07.250657 - INFO - Fin de Intento: 8
+2025-10-05 22:25:07.250657 - INFO - Ya se dio 8 intentos de busqueda
+2025-10-05 22:25:07.266276 - INFO - Validación de envio de correo por robot operativo
+2025-10-05 22:25:09.829919 - INFO - Correo enviado para notificar que el robot se encuentra operativo
+2025-10-05 22:27:44.409007 - INFO - Robot Lionbridge iniciado
+2025-10-05 22:27:44.409007 - INFO - Obteniendo Credenciales
+2025-10-05 22:27:44.424629 - INFO - Abrir navegador
+2025-10-05 22:27:51.324511 - INFO - Ingresando a ventana de Login
+2025-10-05 22:27:51.500527 - INFO - Iniciando inicio de sesión Lionbridge
+2025-10-05 22:28:11.919885 - INFO - Sesión iniciada
+2025-10-05 22:28:11.997002 - INFO - Inicio de Intento: 1
+2025-10-05 22:28:15.076185 - INFO - Se encontro un card de trabajo
+2025-10-05 22:28:15.076185 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:28:15.076185 - INFO - Existen: 1
+2025-10-05 22:28:15.091774 - INFO - Index: 1
+2025-10-05 22:28:15.123016 - INFO - Contiene: Amazon
+2025-10-05 22:28:15.123016 - INFO - Contiene: Amazon
+2025-10-05 22:28:15.123016 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:28:15.123016 - INFO - Items Dashboard: 0
+2025-10-05 22:28:15.138649 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:28:15.138649 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:28:15.138649 - INFO - Fin de Intento: 1
+2025-10-05 22:28:35.140751 - INFO - Fin de iteración
+2025-10-05 22:28:35.140751 - INFO - Obteniendo Credenciales
+2025-10-05 22:28:35.245611 - INFO - Inicio de Intento: 2
+2025-10-05 22:28:38.839089 - INFO - Se encontro un card de trabajo
+2025-10-05 22:28:38.840090 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:28:38.846092 - INFO - Existen: 1
+2025-10-05 22:28:38.860235 - INFO - Index: 1
+2025-10-05 22:28:38.893052 - INFO - Contiene: Amazon
+2025-10-05 22:28:38.894048 - INFO - Contiene: Amazon
+2025-10-05 22:28:38.895056 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:28:38.896052 - INFO - Items Dashboard: 0
+2025-10-05 22:28:38.897055 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:28:38.897055 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:28:38.901046 - INFO - Fin de Intento: 2
+2025-10-05 22:28:58.909235 - INFO - Fin de iteración
+2025-10-05 22:28:58.909235 - INFO - Obteniendo Credenciales
+2025-10-05 22:28:58.998799 - INFO - Inicio de Intento: 3
+2025-10-05 22:29:03.110774 - INFO - Se encontro un card de trabajo
+2025-10-05 22:29:03.110774 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:29:03.110774 - INFO - Existen: 1
+2025-10-05 22:29:03.126365 - INFO - Index: 1
+2025-10-05 22:29:03.142036 - INFO - Contiene: Amazon
+2025-10-05 22:29:03.157605 - INFO - Contiene: Amazon
+2025-10-05 22:29:03.157605 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:29:03.157605 - INFO - Items Dashboard: 0
+2025-10-05 22:29:03.157605 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:29:03.157605 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:29:03.157605 - INFO - Fin de Intento: 3
+2025-10-05 22:29:23.157666 - INFO - Fin de iteración
+2025-10-05 22:29:23.157666 - INFO - Obteniendo Credenciales
+2025-10-05 22:29:23.264398 - INFO - Inicio de Intento: 4
+2025-10-05 22:29:26.891819 - INFO - Se encontro un card de trabajo
+2025-10-05 22:29:26.891819 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:29:26.898816 - INFO - Existen: 1
+2025-10-05 22:29:26.901817 - INFO - Index: 1
+2025-10-05 22:29:26.934598 - INFO - Contiene: Amazon
+2025-10-05 22:29:26.935596 - INFO - Contiene: Amazon
+2025-10-05 22:29:26.936603 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:29:26.937602 - INFO - Items Dashboard: 0
+2025-10-05 22:29:26.938600 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:29:26.938600 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:29:26.940596 - INFO - Fin de Intento: 4
+2025-10-05 22:29:46.947421 - INFO - Fin de iteración
+2025-10-05 22:29:46.947421 - INFO - Obteniendo Credenciales
+2025-10-05 22:29:47.039837 - INFO - Inicio de Intento: 5
+2025-10-05 22:29:50.604419 - INFO - Se encontro un card de trabajo
+2025-10-05 22:29:50.605412 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:29:50.611412 - INFO - Existen: 1
+2025-10-05 22:29:50.614408 - INFO - Index: 1
+2025-10-05 22:29:50.646415 - INFO - Contiene: Amazon
+2025-10-05 22:29:50.647416 - INFO - Contiene: Amazon
+2025-10-05 22:29:50.648418 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:29:50.650412 - INFO - Items Dashboard: 0
+2025-10-05 22:29:50.650412 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:29:50.651413 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:29:50.652409 - INFO - Fin de Intento: 5
+2025-10-05 22:30:10.666271 - INFO - Fin de iteración
+2025-10-05 22:30:10.666271 - INFO - Obteniendo Credenciales
+2025-10-05 22:30:10.763609 - INFO - Inicio de Intento: 6
+2025-10-05 22:30:14.363894 - INFO - Se encontro un card de trabajo
+2025-10-05 22:30:14.363894 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:30:14.371295 - INFO - Existen: 1
+2025-10-05 22:30:14.371295 - INFO - Index: 1
+2025-10-05 22:30:14.402299 - INFO - Contiene: Amazon
+2025-10-05 22:30:14.402299 - INFO - Contiene: Amazon
+2025-10-05 22:30:14.402299 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:30:14.402299 - INFO - Items Dashboard: 0
+2025-10-05 22:30:14.402299 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:30:14.402299 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:30:14.402299 - INFO - Fin de Intento: 6
+2025-10-05 22:30:34.403062 - INFO - Fin de iteración
+2025-10-05 22:30:34.418686 - INFO - Obteniendo Credenciales
+2025-10-05 22:30:34.518299 - INFO - Inicio de Intento: 7
+2025-10-05 22:30:38.112990 - INFO - Se encontro un card de trabajo
+2025-10-05 22:30:38.112990 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:30:38.120989 - INFO - Existen: 1
+2025-10-05 22:30:38.121990 - INFO - Index: 1
+2025-10-05 22:30:38.158230 - INFO - Contiene: Amazon
+2025-10-05 22:30:38.159223 - INFO - Contiene: Amazon
+2025-10-05 22:30:38.160220 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:30:38.161225 - INFO - Items Dashboard: 0
+2025-10-05 22:30:38.161225 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:30:38.162220 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:30:38.165865 - INFO - Fin de Intento: 7
+2025-10-05 22:30:58.181473 - INFO - Fin de iteración
+2025-10-05 22:30:58.181473 - INFO - Obteniendo Credenciales
+2025-10-05 22:30:58.279566 - INFO - Inicio de Intento: 8
+2025-10-05 22:31:02.387048 - INFO - Se encontro un card de trabajo
+2025-10-05 22:31:02.387048 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:31:02.394045 - INFO - Existen: 1
+2025-10-05 22:31:02.395052 - INFO - Index: 1
+2025-10-05 22:31:02.424052 - INFO - Contiene: Amazon
+2025-10-05 22:31:02.425047 - INFO - Contiene: Amazon
+2025-10-05 22:31:02.426046 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:31:02.427045 - INFO - Items Dashboard: 0
+2025-10-05 22:31:02.428053 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:31:02.429049 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:31:02.430045 - INFO - Fin de Intento: 8
+2025-10-05 22:31:02.432045 - INFO - Ya se dio 8 intentos de busqueda
+2025-10-05 22:31:02.435049 - INFO - Validación de envio de correo por robot operativo
+2025-10-05 22:31:04.317964 - INFO - Correo enviado para notificar que el robot se encuentra operativo
+2025-10-05 22:33:41.199589 - INFO - Robot Lionbridge iniciado
+2025-10-05 22:33:41.215206 - INFO - Obteniendo Credenciales
+2025-10-05 22:33:41.230834 - INFO - Abrir navegador
+2025-10-05 22:33:48.434907 - INFO - Ingresando a ventana de Login
+2025-10-05 22:33:48.619170 - INFO - Iniciando inicio de sesión Lionbridge
+2025-10-05 22:34:09.535347 - INFO - Sesión iniciada
+2025-10-05 22:34:09.609447 - INFO - Inicio de Intento: 1
+2025-10-05 22:34:12.176363 - INFO - Se encontro un card de trabajo
+2025-10-05 22:34:12.176363 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:34:12.191989 - INFO - Existen: 1
+2025-10-05 22:34:12.207566 - INFO - Index: 1
+2025-10-05 22:34:12.238805 - INFO - Contiene: Amazon
+2025-10-05 22:34:12.238805 - INFO - Contiene: Amazon
+2025-10-05 22:34:12.238805 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:34:12.238805 - INFO - Items Dashboard: 0
+2025-10-05 22:34:12.238805 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:34:12.238805 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:34:12.238805 - INFO - Fin de Intento: 1
+2025-10-05 22:34:32.241683 - INFO - Fin de iteración
+2025-10-05 22:34:32.241683 - INFO - Obteniendo Credenciales
+2025-10-05 22:34:32.335407 - INFO - Inicio de Intento: 2
+2025-10-05 22:34:35.918109 - INFO - Se encontro un card de trabajo
+2025-10-05 22:34:35.919061 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:34:35.926069 - INFO - Existen: 1
+2025-10-05 22:34:35.927063 - INFO - Index: 1
+2025-10-05 22:34:35.957828 - INFO - Contiene: Amazon
+2025-10-05 22:34:35.957828 - INFO - Contiene: Amazon
+2025-10-05 22:34:35.957828 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:34:35.957828 - INFO - Items Dashboard: 0
+2025-10-05 22:34:35.957828 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:34:35.957828 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:34:35.957828 - INFO - Fin de Intento: 2
+2025-10-05 22:34:55.971287 - INFO - Fin de iteración
+2025-10-05 22:34:55.971287 - INFO - Obteniendo Credenciales
+2025-10-05 22:34:56.067760 - INFO - Inicio de Intento: 3
+2025-10-05 22:35:00.141967 - INFO - Se encontro un card de trabajo
+2025-10-05 22:35:00.141967 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:35:00.141967 - INFO - Existen: 1
+2025-10-05 22:35:00.141967 - INFO - Index: 1
+2025-10-05 22:35:00.188875 - INFO - Contiene: Amazon
+2025-10-05 22:35:00.188875 - INFO - Contiene: Amazon
+2025-10-05 22:35:00.188875 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:35:00.188875 - INFO - Items Dashboard: 0
+2025-10-05 22:35:00.188875 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:35:00.188875 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:35:00.188875 - INFO - Fin de Intento: 3
+2025-10-05 22:35:20.188915 - INFO - Fin de iteración
+2025-10-05 22:35:20.188915 - INFO - Obteniendo Credenciales
+2025-10-05 22:35:20.283780 - INFO - Inicio de Intento: 4
+2025-10-05 22:35:24.385177 - INFO - Se encontro un card de trabajo
+2025-10-05 22:35:24.385177 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:35:24.385177 - INFO - Existen: 1
+2025-10-05 22:35:24.385177 - INFO - Index: 1
+2025-10-05 22:35:24.432007 - INFO - Contiene: Amazon
+2025-10-05 22:35:24.432007 - INFO - Contiene: Amazon
+2025-10-05 22:35:24.432007 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:35:24.432007 - INFO - Items Dashboard: 0
+2025-10-05 22:35:24.447634 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:35:24.447634 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:35:24.447634 - INFO - Fin de Intento: 4
+2025-10-05 22:35:44.447690 - INFO - Fin de iteración
+2025-10-05 22:35:44.447690 - INFO - Obteniendo Credenciales
+2025-10-05 22:35:44.544254 - INFO - Inicio de Intento: 5
+2025-10-05 22:35:48.142444 - INFO - Se encontro un card de trabajo
+2025-10-05 22:35:48.142444 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:35:48.159886 - INFO - Existen: 1
+2025-10-05 22:35:48.160892 - INFO - Index: 1
+2025-10-05 22:35:48.193869 - INFO - Contiene: Amazon
+2025-10-05 22:35:48.194865 - INFO - Contiene: Amazon
+2025-10-05 22:35:48.195865 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:35:48.196870 - INFO - Items Dashboard: 0
+2025-10-05 22:35:48.197872 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:35:48.197872 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:35:48.206912 - INFO - Fin de Intento: 5
+2025-10-05 22:36:08.215624 - INFO - Fin de iteración
+2025-10-05 22:36:08.215624 - INFO - Obteniendo Credenciales
+2025-10-05 22:36:08.310329 - INFO - Inicio de Intento: 6
+2025-10-05 22:36:12.394084 - INFO - Se encontro un card de trabajo
+2025-10-05 22:36:12.394084 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:36:12.394084 - INFO - Existen: 1
+2025-10-05 22:36:12.394084 - INFO - Index: 1
+2025-10-05 22:36:12.425291 - INFO - Contiene: Amazon
+2025-10-05 22:36:12.425291 - INFO - Contiene: Amazon
+2025-10-05 22:36:12.425291 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:36:12.440924 - INFO - Items Dashboard: 0
+2025-10-05 22:36:12.440924 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:36:12.456543 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:36:12.456543 - INFO - Fin de Intento: 6
+2025-10-05 22:36:32.468912 - INFO - Fin de iteración
+2025-10-05 22:36:32.468912 - INFO - Obteniendo Credenciales
+2025-10-05 22:36:32.562346 - INFO - Inicio de Intento: 7
+2025-10-05 22:36:36.669201 - INFO - Se encontro un card de trabajo
+2025-10-05 22:36:36.669201 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:36:36.669201 - INFO - Existen: 1
+2025-10-05 22:36:36.669201 - INFO - Index: 1
+2025-10-05 22:36:36.700405 - INFO - Contiene: Amazon
+2025-10-05 22:36:36.700405 - INFO - Contiene: Amazon
+2025-10-05 22:36:36.716036 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:36:36.716036 - INFO - Items Dashboard: 0
+2025-10-05 22:36:36.716036 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:36:36.716036 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:36:36.716036 - INFO - Fin de Intento: 7
+2025-10-05 22:36:56.716101 - INFO - Fin de iteración
+2025-10-05 22:36:56.716101 - INFO - Obteniendo Credenciales
+2025-10-05 22:36:56.809353 - INFO - Inicio de Intento: 8
+2025-10-05 22:37:00.924526 - INFO - Se encontro un card de trabajo
+2025-10-05 22:37:00.924526 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:37:00.924526 - INFO - Existen: 1
+2025-10-05 22:37:00.940111 - INFO - Index: 1
+2025-10-05 22:37:00.971364 - INFO - Contiene: Amazon
+2025-10-05 22:37:00.971364 - INFO - Contiene: Amazon
+2025-10-05 22:37:00.971364 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:37:00.971364 - INFO - Items Dashboard: 0
+2025-10-05 22:37:00.971364 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:37:00.971364 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:37:00.971364 - INFO - Fin de Intento: 8
+2025-10-05 22:37:00.971364 - INFO - Ya se dio 8 intentos de busqueda
+2025-10-05 22:37:00.986980 - INFO - Validación de envio de correo por robot operativo
+2025-10-05 22:37:02.893287 - INFO - Correo enviado para notificar que el robot se encuentra operativo
+2025-10-05 22:39:39.455679 - INFO - Robot Lionbridge iniciado
+2025-10-05 22:39:39.455679 - INFO - Obteniendo Credenciales
+2025-10-05 22:39:39.471298 - INFO - Abrir navegador
+2025-10-05 22:39:46.217247 - INFO - Ingresando a ventana de Login
+2025-10-05 22:39:46.400343 - INFO - Iniciando inicio de sesión Lionbridge
+2025-10-05 22:40:20.407420 - ERROR - No se logró cargar el dashboard en el periodo indicado
+2025-10-05 22:40:20.407420 - INFO - Fin de iteración
+2025-10-05 22:40:20.407420 - INFO - Obteniendo Credenciales
+2025-10-05 22:40:20.422990 - INFO - Ingresando a ventana de Login
+2025-10-05 22:40:21.059461 - INFO - Iniciando inicio de sesión Lionbridge
+2025-10-05 22:40:53.150267 - ERROR - No se logró cargar el dashboard en el periodo indicado
+2025-10-05 22:40:53.150267 - INFO - Fin de iteración
+2025-10-05 22:40:53.150267 - INFO - Obteniendo Credenciales
+2025-10-05 22:40:53.165820 - INFO - Ingresando a ventana de Login
+2025-10-05 22:40:53.844571 - INFO - Iniciando inicio de sesión Lionbridge
+2025-10-05 22:41:13.267075 - INFO - Sesión iniciada
+2025-10-05 22:41:13.345960 - INFO - Inicio de Intento: 1
+2025-10-05 22:41:15.415927 - INFO - Se encontro un card de trabajo
+2025-10-05 22:41:15.416945 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:41:15.423942 - INFO - Existen: 1
+2025-10-05 22:41:15.427935 - INFO - Index: 1
+2025-10-05 22:41:15.468807 - INFO - Contiene: Amazon
+2025-10-05 22:41:15.470083 - INFO - Contiene: Amazon
+2025-10-05 22:41:15.470805 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:41:15.471803 - INFO - Items Dashboard: 0
+2025-10-05 22:41:15.473813 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:41:15.474810 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:41:15.482803 - INFO - Fin de Intento: 1
+2025-10-05 22:41:35.484423 - INFO - Fin de iteración
+2025-10-05 22:41:35.484423 - INFO - Obteniendo Credenciales
+2025-10-05 22:41:35.578436 - INFO - Inicio de Intento: 2
+2025-10-05 22:41:39.168141 - INFO - Se encontro un card de trabajo
+2025-10-05 22:41:39.168141 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:41:39.168141 - INFO - Existen: 1
+2025-10-05 22:41:39.168141 - INFO - Index: 1
+2025-10-05 22:41:39.199407 - INFO - Contiene: Amazon
+2025-10-05 22:41:39.199407 - INFO - Contiene: Amazon
+2025-10-05 22:41:39.215042 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:41:39.215042 - INFO - Items Dashboard: 0
+2025-10-05 22:41:39.215042 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:41:39.215042 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:41:39.215042 - INFO - Fin de Intento: 2
+2025-10-05 22:41:59.217181 - INFO - Fin de iteración
+2025-10-05 22:41:59.217181 - INFO - Obteniendo Credenciales
+2025-10-05 22:41:59.315991 - INFO - Inicio de Intento: 3
+2025-10-05 22:42:03.420391 - INFO - Se encontro un card de trabajo
+2025-10-05 22:42:03.420391 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:42:03.420391 - INFO - Existen: 1
+2025-10-05 22:42:03.420391 - INFO - Index: 1
+2025-10-05 22:42:03.451638 - INFO - Contiene: Amazon
+2025-10-05 22:42:03.451638 - INFO - Contiene: Amazon
+2025-10-05 22:42:03.451638 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:42:03.451638 - INFO - Items Dashboard: 0
+2025-10-05 22:42:03.451638 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:42:03.467213 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:42:03.467213 - INFO - Fin de Intento: 3
+2025-10-05 22:42:23.467272 - INFO - Fin de iteración
+2025-10-05 22:42:23.467272 - INFO - Obteniendo Credenciales
+2025-10-05 22:42:23.560924 - INFO - Inicio de Intento: 4
+2025-10-05 22:42:27.709476 - INFO - Se encontro un card de trabajo
+2025-10-05 22:42:27.709476 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:42:27.709476 - INFO - Existen: 1
+2025-10-05 22:42:27.709476 - INFO - Index: 1
+2025-10-05 22:42:27.740656 - INFO - Contiene: Amazon
+2025-10-05 22:42:27.740656 - INFO - Contiene: Amazon
+2025-10-05 22:42:27.740656 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:42:27.740656 - INFO - Items Dashboard: 0
+2025-10-05 22:42:27.756287 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:42:27.756287 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:42:27.756287 - INFO - Fin de Intento: 4
+2025-10-05 22:42:47.756338 - INFO - Fin de iteración
+2025-10-05 22:42:47.756338 - INFO - Obteniendo Credenciales
+2025-10-05 22:42:47.852454 - INFO - Inicio de Intento: 5
+2025-10-05 22:42:51.471031 - INFO - Se encontro un card de trabajo
+2025-10-05 22:42:51.471031 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:42:51.479033 - INFO - Existen: 1
+2025-10-05 22:42:51.482030 - INFO - Index: 1
+2025-10-05 22:42:51.516935 - INFO - Contiene: Amazon
+2025-10-05 22:42:51.517930 - INFO - Contiene: Amazon
+2025-10-05 22:42:51.518930 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:42:51.519925 - INFO - Items Dashboard: 0
+2025-10-05 22:42:51.520923 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:42:51.521928 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:42:51.522926 - INFO - Fin de Intento: 5
+2025-10-05 22:43:11.527868 - INFO - Fin de iteración
+2025-10-05 22:43:11.527868 - INFO - Obteniendo Credenciales
+2025-10-05 22:43:11.620238 - INFO - Inicio de Intento: 6
+2025-10-05 22:43:15.209937 - INFO - Se encontro un card de trabajo
+2025-10-05 22:43:15.210884 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:43:15.216890 - INFO - Existen: 1
+2025-10-05 22:43:15.226892 - INFO - Index: 1
+2025-10-05 22:43:15.258899 - INFO - Contiene: Amazon
+2025-10-05 22:43:15.259900 - INFO - Contiene: Amazon
+2025-10-05 22:43:15.260893 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:43:15.261894 - INFO - Items Dashboard: 0
+2025-10-05 22:43:15.262889 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:43:15.264097 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:43:15.272890 - INFO - Fin de Intento: 6
+2025-10-05 22:43:35.281211 - INFO - Fin de iteración
+2025-10-05 22:43:35.281211 - INFO - Obteniendo Credenciales
+2025-10-05 22:43:35.379665 - INFO - Inicio de Intento: 7
+2025-10-05 22:43:38.984446 - INFO - Se encontro un card de trabajo
+2025-10-05 22:43:38.985393 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:43:38.993077 - INFO - Existen: 1
+2025-10-05 22:43:38.996113 - INFO - Index: 1
+2025-10-05 22:43:39.045077 - INFO - Contiene: Amazon
+2025-10-05 22:43:39.046082 - INFO - Contiene: Amazon
+2025-10-05 22:43:39.047076 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:43:39.048077 - INFO - Items Dashboard: 0
+2025-10-05 22:43:39.048077 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:43:39.049076 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:43:39.051084 - INFO - Fin de Intento: 7
+2025-10-05 22:43:59.056301 - INFO - Fin de iteración
+2025-10-05 22:43:59.056301 - INFO - Obteniendo Credenciales
+2025-10-05 22:43:59.147867 - INFO - Inicio de Intento: 8
+2025-10-05 22:44:02.726179 - INFO - Se encontro un card de trabajo
+2025-10-05 22:44:02.727134 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:44:02.734143 - INFO - Existen: 1
+2025-10-05 22:44:02.735136 - INFO - Index: 1
+2025-10-05 22:44:02.770140 - INFO - Contiene: Amazon
+2025-10-05 22:44:02.771141 - INFO - Contiene: Amazon
+2025-10-05 22:44:02.771141 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:44:02.779140 - INFO - Items Dashboard: 0
+2025-10-05 22:44:02.780146 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:44:02.781139 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:44:02.789139 - INFO - Fin de Intento: 8
+2025-10-05 22:44:02.790139 - INFO - Ya se dio 8 intentos de busqueda
+2025-10-05 22:44:02.793141 - INFO - Validación de envio de correo por robot operativo
+2025-10-05 22:44:04.008262 - INFO - Correo enviado para notificar que el robot se encuentra operativo
+2025-10-05 22:46:40.606496 - INFO - Robot Lionbridge iniciado
+2025-10-05 22:46:40.606496 - INFO - Obteniendo Credenciales
+2025-10-05 22:46:40.637750 - INFO - Abrir navegador
+2025-10-05 22:46:47.453128 - INFO - Ingresando a ventana de Login
+2025-10-05 22:46:47.653632 - INFO - Iniciando inicio de sesión Lionbridge
+2025-10-05 22:47:09.158922 - INFO - Sesión iniciada
+2025-10-05 22:47:09.221900 - INFO - Inicio de Intento: 1
+2025-10-05 22:47:11.804976 - INFO - Se encontro un card de trabajo
+2025-10-05 22:47:11.804976 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:47:11.804976 - INFO - Existen: 1
+2025-10-05 22:47:11.820568 - INFO - Index: 1
+2025-10-05 22:47:11.851822 - INFO - Contiene: Amazon
+2025-10-05 22:47:11.851822 - INFO - Contiene: Amazon
+2025-10-05 22:47:11.851822 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:47:11.851822 - INFO - Items Dashboard: 0
+2025-10-05 22:47:11.851822 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:47:11.851822 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:47:11.851822 - INFO - Fin de Intento: 1
+2025-10-05 22:47:31.856112 - INFO - Fin de iteración
+2025-10-05 22:47:31.856112 - INFO - Obteniendo Credenciales
+2025-10-05 22:47:31.957916 - INFO - Inicio de Intento: 2
+2025-10-05 22:47:36.048050 - INFO - Se encontro un card de trabajo
+2025-10-05 22:47:36.048050 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:47:36.048050 - INFO - Existen: 1
+2025-10-05 22:47:36.063634 - INFO - Index: 1
+2025-10-05 22:47:36.094878 - INFO - Contiene: Amazon
+2025-10-05 22:47:36.094878 - INFO - Contiene: Amazon
+2025-10-05 22:47:36.094878 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:47:36.094878 - INFO - Items Dashboard: 0
+2025-10-05 22:47:36.094878 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:47:36.094878 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:47:36.110507 - INFO - Fin de Intento: 2
+2025-10-05 22:47:56.125130 - INFO - Fin de iteración
+2025-10-05 22:47:56.125130 - INFO - Obteniendo Credenciales
+2025-10-05 22:47:56.223494 - INFO - Inicio de Intento: 3
+2025-10-05 22:47:59.815591 - INFO - Se encontro un card de trabajo
+2025-10-05 22:47:59.815591 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:47:59.815591 - INFO - Existen: 1
+2025-10-05 22:47:59.815591 - INFO - Index: 1
+2025-10-05 22:47:59.846783 - INFO - Contiene: Amazon
+2025-10-05 22:47:59.846783 - INFO - Contiene: Amazon
+2025-10-05 22:47:59.862410 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:47:59.862410 - INFO - Items Dashboard: 0
+2025-10-05 22:47:59.862410 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:47:59.862410 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:47:59.862410 - INFO - Fin de Intento: 3
+2025-10-05 22:48:19.863307 - INFO - Fin de iteración
+2025-10-05 22:48:19.863307 - INFO - Obteniendo Credenciales
+2025-10-05 22:48:19.961491 - INFO - Inicio de Intento: 4
+2025-10-05 22:48:23.565916 - INFO - Se encontro un card de trabajo
+2025-10-05 22:48:23.566924 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:48:23.573935 - INFO - Existen: 1
+2025-10-05 22:48:23.574923 - INFO - Index: 1
+2025-10-05 22:48:23.603926 - INFO - Contiene: Amazon
+2025-10-05 22:48:23.603926 - INFO - Contiene: Amazon
+2025-10-05 22:48:23.606929 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:48:23.606929 - INFO - Items Dashboard: 0
+2025-10-05 22:48:23.606929 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:48:23.606929 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:48:23.606929 - INFO - Fin de Intento: 4
+2025-10-05 22:48:43.621114 - INFO - Fin de iteración
+2025-10-05 22:48:43.621114 - INFO - Obteniendo Credenciales
+2025-10-05 22:48:43.713958 - INFO - Inicio de Intento: 5
+2025-10-05 22:48:47.314967 - INFO - Se encontro un card de trabajo
+2025-10-05 22:48:47.314967 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:48:47.322235 - INFO - Existen: 1
+2025-10-05 22:48:47.323962 - INFO - Index: 1
+2025-10-05 22:48:47.369731 - INFO - Contiene: Amazon
+2025-10-05 22:48:47.369731 - INFO - Contiene: Amazon
+2025-10-05 22:48:47.369731 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:48:47.369731 - INFO - Items Dashboard: 0
+2025-10-05 22:48:47.369731 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:48:47.369731 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:48:47.369731 - INFO - Fin de Intento: 5
+2025-10-05 22:49:07.382687 - INFO - Fin de iteración
+2025-10-05 22:49:07.382687 - INFO - Obteniendo Credenciales
+2025-10-05 22:49:07.481670 - INFO - Inicio de Intento: 6
+2025-10-05 22:49:11.075109 - INFO - Se encontro un card de trabajo
+2025-10-05 22:49:11.076067 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:49:11.083831 - INFO - Existen: 1
+2025-10-05 22:49:11.093836 - INFO - Index: 1
+2025-10-05 22:49:11.127828 - INFO - Contiene: Amazon
+2025-10-05 22:49:11.128838 - INFO - Contiene: Amazon
+2025-10-05 22:49:11.129833 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:49:11.131831 - INFO - Items Dashboard: 0
+2025-10-05 22:49:11.131831 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:49:11.133834 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:49:11.141831 - INFO - Fin de Intento: 6
+2025-10-05 22:49:31.155823 - INFO - Fin de iteración
+2025-10-05 22:49:31.155823 - INFO - Obteniendo Credenciales
+2025-10-05 22:49:31.247384 - INFO - Inicio de Intento: 7
+2025-10-05 22:49:34.837106 - INFO - Se encontro un card de trabajo
+2025-10-05 22:49:34.838098 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:49:34.845095 - INFO - Existen: 1
+2025-10-05 22:49:34.846099 - INFO - Index: 1
+2025-10-05 22:49:34.876097 - INFO - Contiene: Amazon
+2025-10-05 22:49:34.877092 - INFO - Contiene: Amazon
+2025-10-05 22:49:34.877092 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:49:34.879092 - INFO - Items Dashboard: 0
+2025-10-05 22:49:34.879092 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:49:34.880098 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:49:34.882093 - INFO - Fin de Intento: 7
+2025-10-05 22:49:54.893499 - INFO - Fin de iteración
+2025-10-05 22:49:54.893499 - INFO - Obteniendo Credenciales
+2025-10-05 22:49:54.986666 - INFO - Inicio de Intento: 8
+2025-10-05 22:49:59.064495 - INFO - Se encontro un card de trabajo
+2025-10-05 22:49:59.064495 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:49:59.071492 - INFO - Existen: 1
+2025-10-05 22:49:59.076499 - INFO - Index: 1
+2025-10-05 22:49:59.112677 - INFO - Contiene: Amazon
+2025-10-05 22:49:59.113677 - INFO - Contiene: Amazon
+2025-10-05 22:49:59.114671 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:49:59.115670 - INFO - Items Dashboard: 0
+2025-10-05 22:49:59.116668 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:49:59.117666 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:49:59.118667 - INFO - Fin de Intento: 8
+2025-10-05 22:49:59.119666 - INFO - Ya se dio 8 intentos de busqueda
+2025-10-05 22:49:59.123675 - INFO - Validación de envio de correo por robot operativo
+2025-10-05 22:50:00.357717 - INFO - Correo enviado para notificar que el robot se encuentra operativo
+2025-10-05 22:52:34.126313 - INFO - Robot Lionbridge iniciado
+2025-10-05 22:52:34.126313 - INFO - Obteniendo Credenciales
+2025-10-05 22:52:34.141933 - INFO - Abrir navegador
+2025-10-05 22:52:40.959821 - INFO - Ingresando a ventana de Login
+2025-10-05 22:52:41.158610 - INFO - Iniciando inicio de sesión Lionbridge
+2025-10-05 22:53:06.318845 - INFO - Sesión iniciada
+2025-10-05 22:53:06.395276 - INFO - Inicio de Intento: 1
+2025-10-05 22:53:08.464598 - INFO - Se encontro un card de trabajo
+2025-10-05 22:53:08.465599 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:53:08.473601 - INFO - Existen: 1
+2025-10-05 22:53:08.476605 - INFO - Index: 1
+2025-10-05 22:53:08.517601 - INFO - Contiene: Amazon
+2025-10-05 22:53:08.518611 - INFO - Contiene: Amazon
+2025-10-05 22:53:08.519607 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:53:08.520607 - INFO - Items Dashboard: 0
+2025-10-05 22:53:08.521602 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:53:08.521602 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:53:08.529602 - INFO - Fin de Intento: 1
+2025-10-05 22:53:28.538205 - INFO - Fin de iteración
+2025-10-05 22:53:28.538205 - INFO - Obteniendo Credenciales
+2025-10-05 22:53:28.638210 - INFO - Inicio de Intento: 2
+2025-10-05 22:53:32.768710 - INFO - Se encontro un card de trabajo
+2025-10-05 22:53:32.768710 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:53:32.768710 - INFO - Existen: 1
+2025-10-05 22:53:32.784304 - INFO - Index: 1
+2025-10-05 22:53:32.815547 - INFO - Contiene: Amazon
+2025-10-05 22:53:32.815547 - INFO - Contiene: Amazon
+2025-10-05 22:53:32.815547 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:53:32.815547 - INFO - Items Dashboard: 0
+2025-10-05 22:53:32.815547 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:53:32.815547 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:53:32.831174 - INFO - Fin de Intento: 2
+2025-10-05 22:53:52.843122 - INFO - Fin de iteración
+2025-10-05 22:53:52.843122 - INFO - Obteniendo Credenciales
+2025-10-05 22:53:52.938396 - INFO - Inicio de Intento: 3
+2025-10-05 22:53:56.503162 - INFO - Se encontro un card de trabajo
+2025-10-05 22:53:56.503162 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:53:56.510170 - INFO - Existen: 1
+2025-10-05 22:53:56.511165 - INFO - Index: 1
+2025-10-05 22:53:56.545165 - INFO - Contiene: Amazon
+2025-10-05 22:53:56.546162 - INFO - Contiene: Amazon
+2025-10-05 22:53:56.547161 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:53:56.548167 - INFO - Items Dashboard: 0
+2025-10-05 22:53:56.549161 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:53:56.550166 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:53:56.551159 - INFO - Fin de Intento: 3
+2025-10-05 22:54:16.559953 - INFO - Fin de iteración
+2025-10-05 22:54:16.559953 - INFO - Obteniendo Credenciales
+2025-10-05 22:54:16.652392 - INFO - Inicio de Intento: 4
+2025-10-05 22:54:20.265281 - INFO - Se encontro un card de trabajo
+2025-10-05 22:54:20.265281 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:54:20.272292 - INFO - Existen: 1
+2025-10-05 22:54:20.273295 - INFO - Index: 1
+2025-10-05 22:54:20.303282 - INFO - Contiene: Amazon
+2025-10-05 22:54:20.304297 - INFO - Contiene: Amazon
+2025-10-05 22:54:20.305282 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:54:20.306281 - INFO - Items Dashboard: 0
+2025-10-05 22:54:20.306281 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:54:20.307290 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:54:20.308291 - INFO - Fin de Intento: 4
+2025-10-05 22:54:40.321214 - INFO - Fin de iteración
+2025-10-05 22:54:40.321214 - INFO - Obteniendo Credenciales
+2025-10-05 22:54:40.412791 - INFO - Inicio de Intento: 5
+2025-10-05 22:54:43.999416 - INFO - Se encontro un card de trabajo
+2025-10-05 22:54:43.999416 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:54:44.030627 - INFO - Existen: 1
+2025-10-05 22:54:44.030627 - INFO - Index: 1
+2025-10-05 22:54:44.077497 - INFO - Contiene: Amazon
+2025-10-05 22:54:44.077497 - INFO - Contiene: Amazon
+2025-10-05 22:54:44.077497 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:54:44.077497 - INFO - Items Dashboard: 0
+2025-10-05 22:54:44.077497 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:54:44.077497 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:54:44.077497 - INFO - Fin de Intento: 5
+2025-10-05 22:55:04.089498 - INFO - Fin de iteración
+2025-10-05 22:55:04.089498 - INFO - Obteniendo Credenciales
+2025-10-05 22:55:04.200016 - INFO - Inicio de Intento: 6
+2025-10-05 22:55:07.809106 - INFO - Se encontro un card de trabajo
+2025-10-05 22:55:07.809106 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:55:07.817093 - INFO - Existen: 1
+2025-10-05 22:55:07.818096 - INFO - Index: 1
+2025-10-05 22:55:07.843894 - INFO - Contiene: Amazon
+2025-10-05 22:55:07.843894 - INFO - Contiene: Amazon
+2025-10-05 22:55:07.843894 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:55:07.843894 - INFO - Items Dashboard: 0
+2025-10-05 22:55:07.843894 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:55:07.843894 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:55:07.859417 - INFO - Fin de Intento: 6
+2025-10-05 22:55:27.864227 - INFO - Fin de iteración
+2025-10-05 22:55:27.864227 - INFO - Obteniendo Credenciales
+2025-10-05 22:55:27.962121 - INFO - Inicio de Intento: 7
+2025-10-05 22:55:32.033138 - INFO - Se encontro un card de trabajo
+2025-10-05 22:55:32.033138 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:55:32.033138 - INFO - Existen: 1
+2025-10-05 22:55:32.033138 - INFO - Index: 1
+2025-10-05 22:55:32.080028 - INFO - Contiene: Amazon
+2025-10-05 22:55:32.080028 - INFO - Contiene: Amazon
+2025-10-05 22:55:32.080028 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:55:32.080028 - INFO - Items Dashboard: 0
+2025-10-05 22:55:32.080028 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:55:32.080028 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:55:32.080028 - INFO - Fin de Intento: 7
+2025-10-05 22:55:52.080099 - INFO - Fin de iteración
+2025-10-05 22:55:52.080099 - INFO - Obteniendo Credenciales
+2025-10-05 22:55:52.180134 - INFO - Inicio de Intento: 8
+2025-10-05 22:55:55.747882 - INFO - Se encontro un card de trabajo
+2025-10-05 22:55:55.747882 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 22:55:55.754893 - INFO - Existen: 1
+2025-10-05 22:55:55.756886 - INFO - Index: 1
+2025-10-05 22:55:55.786889 - INFO - Contiene: Amazon
+2025-10-05 22:55:55.788891 - INFO - Contiene: Amazon
+2025-10-05 22:55:55.789887 - INFO - No contiene FOLLOW-UP
+2025-10-05 22:55:55.790890 - INFO - Items Dashboard: 0
+2025-10-05 22:55:55.791891 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 22:55:55.791891 - INFO - Terminando conteo de trabajos validos
+2025-10-05 22:55:55.799894 - INFO - Fin de Intento: 8
+2025-10-05 22:55:55.808895 - INFO - Ya se dio 8 intentos de busqueda
+2025-10-05 22:55:55.811893 - INFO - Validación de envio de correo por robot operativo
+2025-10-05 22:55:57.099529 - INFO - Correo enviado para notificar que el robot se encuentra operativo
+2025-10-05 22:58:31.760465 - INFO - Robot Lionbridge iniciado
+2025-10-05 22:58:31.760465 - INFO - Obteniendo Credenciales
+2025-10-05 22:58:31.776086 - INFO - Abrir navegador
+2025-10-05 22:58:38.563142 - INFO - Ingresando a ventana de Login
+2025-10-05 22:58:38.755819 - INFO - Iniciando inicio de sesión Lionbridge
+2025-10-05 22:59:15.866370 - ERROR - No se logró cargar el dashboard en el periodo indicado
+2025-10-05 22:59:15.866370 - INFO - Fin de iteración
+2025-10-05 22:59:15.866370 - INFO - Obteniendo Credenciales
+2025-10-05 22:59:15.881940 - INFO - Ingresando a ventana de Login
+2025-10-05 22:59:16.502816 - INFO - Iniciando inicio de sesión Lionbridge
+2025-10-05 22:59:48.530523 - ERROR - No se logró cargar el dashboard en el periodo indicado
+2025-10-05 22:59:48.530523 - INFO - Fin de iteración
+2025-10-05 22:59:48.530523 - INFO - Obteniendo Credenciales
+2025-10-05 22:59:48.546079 - INFO - Ingresando a ventana de Login
+2025-10-05 22:59:49.227823 - INFO - Iniciando inicio de sesión Lionbridge
+2025-10-05 23:00:08.235294 - INFO - Sesión iniciada
+2025-10-05 23:00:08.300809 - INFO - Inicio de Intento: 1
+2025-10-05 23:00:11.382510 - INFO - Se encontro un card de trabajo
+2025-10-05 23:00:11.383471 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 23:00:11.390473 - INFO - Existen: 1
+2025-10-05 23:00:11.395434 - INFO - Index: 1
+2025-10-05 23:00:11.436426 - INFO - Contiene: Amazon
+2025-10-05 23:00:11.437426 - INFO - Contiene: Amazon
+2025-10-05 23:00:11.438434 - INFO - No contiene FOLLOW-UP
+2025-10-05 23:00:11.441427 - INFO - Items Dashboard: 0
+2025-10-05 23:00:11.442435 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 23:00:11.442435 - INFO - Terminando conteo de trabajos validos
+2025-10-05 23:00:11.444437 - INFO - Fin de Intento: 1
+2025-10-05 23:00:31.449260 - INFO - Fin de iteración
+2025-10-05 23:00:31.449260 - INFO - Obteniendo Credenciales
+2025-10-05 23:00:31.546001 - INFO - Inicio de Intento: 2
+2025-10-05 23:00:35.136933 - INFO - Se encontro un card de trabajo
+2025-10-05 23:00:35.137930 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 23:00:35.144944 - INFO - Existen: 1
+2025-10-05 23:00:35.146945 - INFO - Index: 1
+2025-10-05 23:00:35.178943 - INFO - Contiene: Amazon
+2025-10-05 23:00:35.179941 - INFO - Contiene: Amazon
+2025-10-05 23:00:35.180946 - INFO - No contiene FOLLOW-UP
+2025-10-05 23:00:35.181945 - INFO - Items Dashboard: 0
+2025-10-05 23:00:35.182938 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 23:00:35.183946 - INFO - Terminando conteo de trabajos validos
+2025-10-05 23:00:35.184948 - INFO - Fin de Intento: 2
+2025-10-05 23:00:55.193788 - INFO - Fin de iteración
+2025-10-05 23:00:55.198788 - INFO - Obteniendo Credenciales
+2025-10-05 23:00:55.300076 - INFO - Inicio de Intento: 3
+2025-10-05 23:00:59.419252 - INFO - Se encontro un card de trabajo
+2025-10-05 23:00:59.419252 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 23:00:59.419252 - INFO - Existen: 1
+2025-10-05 23:00:59.434829 - INFO - Index: 1
+2025-10-05 23:00:59.466072 - INFO - Contiene: Amazon
+2025-10-05 23:00:59.466072 - INFO - Contiene: Amazon
+2025-10-05 23:00:59.466072 - INFO - No contiene FOLLOW-UP
+2025-10-05 23:00:59.466072 - INFO - Items Dashboard: 0
+2025-10-05 23:00:59.466072 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 23:00:59.466072 - INFO - Terminando conteo de trabajos validos
+2025-10-05 23:00:59.466072 - INFO - Fin de Intento: 3
+2025-10-05 23:01:19.466132 - INFO - Fin de iteración
+2025-10-05 23:01:19.466132 - INFO - Obteniendo Credenciales
+2025-10-05 23:01:19.567499 - INFO - Inicio de Intento: 4
+2025-10-05 23:01:23.155525 - INFO - Se encontro un card de trabajo
+2025-10-05 23:01:23.155525 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 23:01:23.162535 - INFO - Existen: 1
+2025-10-05 23:01:23.163529 - INFO - Index: 1
+2025-10-05 23:01:23.195289 - INFO - Contiene: Amazon
+2025-10-05 23:01:23.195289 - INFO - Contiene: Amazon
+2025-10-05 23:01:23.195289 - INFO - No contiene FOLLOW-UP
+2025-10-05 23:01:23.195289 - INFO - Items Dashboard: 0
+2025-10-05 23:01:23.195289 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 23:01:23.195289 - INFO - Terminando conteo de trabajos validos
+2025-10-05 23:01:23.210940 - INFO - Fin de Intento: 4
+2025-10-05 23:01:43.216172 - INFO - Fin de iteración
+2025-10-05 23:01:43.216172 - INFO - Obteniendo Credenciales
+2025-10-05 23:01:43.307247 - INFO - Inicio de Intento: 5
+2025-10-05 23:01:46.893756 - INFO - Se encontro un card de trabajo
+2025-10-05 23:01:46.893756 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 23:01:46.914844 - INFO - Existen: 1
+2025-10-05 23:01:46.916847 - INFO - Index: 1
+2025-10-05 23:01:46.938098 - INFO - Contiene: Amazon
+2025-10-05 23:01:46.938098 - INFO - Contiene: Amazon
+2025-10-05 23:01:46.938098 - INFO - No contiene FOLLOW-UP
+2025-10-05 23:01:46.952617 - INFO - Items Dashboard: 0
+2025-10-05 23:01:46.952617 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 23:01:46.952617 - INFO - Terminando conteo de trabajos validos
+2025-10-05 23:01:46.952617 - INFO - Fin de Intento: 5
+2025-10-05 23:02:06.955043 - INFO - Fin de iteración
+2025-10-05 23:02:06.955043 - INFO - Obteniendo Credenciales
+2025-10-05 23:02:07.056759 - INFO - Inicio de Intento: 6
+2025-10-05 23:02:11.158070 - INFO - Se encontro un card de trabajo
+2025-10-05 23:02:11.158070 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 23:02:11.165078 - INFO - Existen: 1
+2025-10-05 23:02:11.167073 - INFO - Index: 1
+2025-10-05 23:02:11.204228 - INFO - Contiene: Amazon
+2025-10-05 23:02:11.207193 - INFO - Contiene: Amazon
+2025-10-05 23:02:11.207193 - INFO - No contiene FOLLOW-UP
+2025-10-05 23:02:11.209196 - INFO - Items Dashboard: 0
+2025-10-05 23:02:11.209196 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 23:02:11.210203 - INFO - Terminando conteo de trabajos validos
+2025-10-05 23:02:11.213199 - INFO - Fin de Intento: 6
+2025-10-05 23:02:31.227039 - INFO - Fin de iteración
+2025-10-05 23:02:31.227039 - INFO - Obteniendo Credenciales
+2025-10-05 23:02:31.320421 - INFO - Inicio de Intento: 7
+2025-10-05 23:02:34.915840 - INFO - Se encontro un card de trabajo
+2025-10-05 23:02:34.916844 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 23:02:34.923841 - INFO - Existen: 1
+2025-10-05 23:02:34.925850 - INFO - Index: 1
+2025-10-05 23:02:34.953913 - INFO - Contiene: Amazon
+2025-10-05 23:02:34.953913 - INFO - Contiene: Amazon
+2025-10-05 23:02:34.954909 - INFO - No contiene FOLLOW-UP
+2025-10-05 23:02:34.955916 - INFO - Items Dashboard: 0
+2025-10-05 23:02:34.956919 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 23:02:34.957923 - INFO - Terminando conteo de trabajos validos
+2025-10-05 23:02:34.966912 - INFO - Fin de Intento: 7
+2025-10-05 23:02:54.976373 - INFO - Fin de iteración
+2025-10-05 23:02:54.976373 - INFO - Obteniendo Credenciales
+2025-10-05 23:02:55.078208 - INFO - Inicio de Intento: 8
+2025-10-05 23:02:58.657234 - INFO - Se encontro un card de trabajo
+2025-10-05 23:02:58.658229 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 23:02:58.665225 - INFO - Existen: 1
+2025-10-05 23:02:58.666226 - INFO - Index: 1
+2025-10-05 23:02:58.694232 - INFO - Contiene: Amazon
+2025-10-05 23:02:58.695228 - INFO - Contiene: Amazon
+2025-10-05 23:02:58.696224 - INFO - No contiene FOLLOW-UP
+2025-10-05 23:02:58.697228 - INFO - Items Dashboard: 0
+2025-10-05 23:02:58.698234 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 23:02:58.698234 - INFO - Terminando conteo de trabajos validos
+2025-10-05 23:02:58.701231 - INFO - Fin de Intento: 8
+2025-10-05 23:02:58.706229 - INFO - Ya se dio 8 intentos de busqueda
+2025-10-05 23:02:58.716208 - INFO - Validación de envio de correo por robot operativo
+2025-10-05 23:02:59.869645 - INFO - Correo enviado para notificar que el robot se encuentra operativo
+2025-10-05 23:05:38.689147 - INFO - Robot Lionbridge iniciado
+2025-10-05 23:05:38.689147 - INFO - Obteniendo Credenciales
+2025-10-05 23:05:38.720394 - INFO - Abrir navegador
+2025-10-05 23:05:45.552663 - INFO - Ingresando a ventana de Login
+2025-10-05 23:05:45.731058 - INFO - Iniciando inicio de sesión Lionbridge
+2025-10-05 23:06:07.335769 - INFO - Sesión iniciada
+2025-10-05 23:06:07.401414 - INFO - Inicio de Intento: 1
+2025-10-05 23:06:09.972718 - INFO - Se encontro un card de trabajo
+2025-10-05 23:06:09.972718 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 23:06:09.972718 - INFO - Existen: 1
+2025-10-05 23:06:09.972718 - INFO - Index: 1
+2025-10-05 23:06:10.019551 - INFO - Contiene: Amazon
+2025-10-05 23:06:10.019551 - INFO - Contiene: Amazon
+2025-10-05 23:06:10.019551 - INFO - No contiene FOLLOW-UP
+2025-10-05 23:06:10.019551 - INFO - Items Dashboard: 0
+2025-10-05 23:06:10.019551 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 23:06:10.019551 - INFO - Terminando conteo de trabajos validos
+2025-10-05 23:06:10.019551 - INFO - Fin de Intento: 1
+2025-10-05 23:06:30.034297 - INFO - Fin de iteración
+2025-10-05 23:06:30.039295 - INFO - Obteniendo Credenciales
+2025-10-05 23:06:30.140415 - INFO - Inicio de Intento: 2
+2025-10-05 23:06:33.717460 - INFO - Se encontro un card de trabajo
+2025-10-05 23:06:33.717460 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 23:06:33.723454 - INFO - Existen: 1
+2025-10-05 23:06:33.723454 - INFO - Index: 1
+2025-10-05 23:06:33.754463 - INFO - Contiene: Amazon
+2025-10-05 23:06:33.754463 - INFO - Contiene: Amazon
+2025-10-05 23:06:33.754463 - INFO - No contiene FOLLOW-UP
+2025-10-05 23:06:33.754463 - INFO - Items Dashboard: 0
+2025-10-05 23:06:33.754463 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 23:06:33.754463 - INFO - Terminando conteo de trabajos validos
+2025-10-05 23:06:33.754463 - INFO - Fin de Intento: 2
+2025-10-05 23:06:53.755780 - INFO - Fin de iteración
+2025-10-05 23:06:53.755780 - INFO - Obteniendo Credenciales
+2025-10-05 23:06:53.848762 - INFO - Inicio de Intento: 3
+2025-10-05 23:06:57.961538 - INFO - Se encontro un card de trabajo
+2025-10-05 23:06:57.961538 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 23:06:57.961538 - INFO - Existen: 1
+2025-10-05 23:06:57.961538 - INFO - Index: 1
+2025-10-05 23:06:57.992783 - INFO - Contiene: Amazon
+2025-10-05 23:06:57.992783 - INFO - Contiene: Amazon
+2025-10-05 23:06:57.992783 - INFO - No contiene FOLLOW-UP
+2025-10-05 23:06:57.992783 - INFO - Items Dashboard: 0
+2025-10-05 23:06:58.008363 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 23:06:58.008363 - INFO - Terminando conteo de trabajos validos
+2025-10-05 23:06:58.008363 - INFO - Fin de Intento: 3
+2025-10-05 23:07:18.011373 - INFO - Fin de iteración
+2025-10-05 23:07:18.011373 - INFO - Obteniendo Credenciales
+2025-10-05 23:07:18.112878 - INFO - Inicio de Intento: 4
+2025-10-05 23:07:21.732465 - INFO - Se encontro un card de trabajo
+2025-10-05 23:07:21.732465 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 23:07:21.744480 - INFO - Existen: 1
+2025-10-05 23:07:21.744480 - INFO - Index: 1
+2025-10-05 23:07:21.775756 - INFO - Contiene: Amazon
+2025-10-05 23:07:21.775756 - INFO - Contiene: Amazon
+2025-10-05 23:07:21.775756 - INFO - No contiene FOLLOW-UP
+2025-10-05 23:07:21.775756 - INFO - Items Dashboard: 0
+2025-10-05 23:07:21.775756 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 23:07:21.775756 - INFO - Terminando conteo de trabajos validos
+2025-10-05 23:07:21.775756 - INFO - Fin de Intento: 4
+2025-10-05 23:07:41.779198 - INFO - Fin de iteración
+2025-10-05 23:07:41.779198 - INFO - Obteniendo Credenciales
+2025-10-05 23:07:41.871805 - INFO - Inicio de Intento: 5
+2025-10-05 23:07:45.463979 - INFO - Se encontro un card de trabajo
+2025-10-05 23:07:45.464966 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 23:07:45.471968 - INFO - Existen: 1
+2025-10-05 23:07:45.472971 - INFO - Index: 1
+2025-10-05 23:07:45.513785 - INFO - Contiene: Amazon
+2025-10-05 23:07:45.513785 - INFO - Contiene: Amazon
+2025-10-05 23:07:45.513785 - INFO - No contiene FOLLOW-UP
+2025-10-05 23:07:45.513785 - INFO - Items Dashboard: 0
+2025-10-05 23:07:45.513785 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 23:07:45.513785 - INFO - Terminando conteo de trabajos validos
+2025-10-05 23:07:45.513785 - INFO - Fin de Intento: 5
+2025-10-05 23:08:05.515187 - INFO - Fin de iteración
+2025-10-05 23:08:05.515187 - INFO - Obteniendo Credenciales
+2025-10-05 23:08:05.613353 - INFO - Inicio de Intento: 6
+2025-10-05 23:08:09.223811 - INFO - Se encontro un card de trabajo
+2025-10-05 23:08:09.224816 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 23:08:09.231814 - INFO - Existen: 1
+2025-10-05 23:08:09.232812 - INFO - Index: 1
+2025-10-05 23:08:09.272454 - INFO - Contiene: Amazon
+2025-10-05 23:08:09.272454 - INFO - Contiene: Amazon
+2025-10-05 23:08:09.273451 - INFO - No contiene FOLLOW-UP
+2025-10-05 23:08:09.274459 - INFO - Items Dashboard: 0
+2025-10-05 23:08:09.275457 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 23:08:09.276459 - INFO - Terminando conteo de trabajos validos
+2025-10-05 23:08:09.277456 - INFO - Fin de Intento: 6
+2025-10-05 23:08:29.280454 - INFO - Fin de iteración
+2025-10-05 23:08:29.280454 - INFO - Obteniendo Credenciales
+2025-10-05 23:08:29.375645 - INFO - Inicio de Intento: 7
+2025-10-05 23:08:32.979655 - INFO - Se encontro un card de trabajo
+2025-10-05 23:08:32.979655 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 23:08:32.986663 - INFO - Existen: 1
+2025-10-05 23:08:32.988654 - INFO - Index: 1
+2025-10-05 23:08:33.019655 - INFO - Contiene: Amazon
+2025-10-05 23:08:33.020663 - INFO - Contiene: Amazon
+2025-10-05 23:08:33.021662 - INFO - No contiene FOLLOW-UP
+2025-10-05 23:08:33.022660 - INFO - Items Dashboard: 0
+2025-10-05 23:08:33.023663 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 23:08:33.023663 - INFO - Terminando conteo de trabajos validos
+2025-10-05 23:08:33.026658 - INFO - Fin de Intento: 7
+2025-10-05 23:08:53.038996 - INFO - Fin de iteración
+2025-10-05 23:08:53.038996 - INFO - Obteniendo Credenciales
+2025-10-05 23:08:53.137554 - INFO - Inicio de Intento: 8
+2025-10-05 23:08:57.223800 - INFO - Se encontro un card de trabajo
+2025-10-05 23:08:57.223800 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 23:08:57.223800 - INFO - Existen: 1
+2025-10-05 23:08:57.239368 - INFO - Index: 1
+2025-10-05 23:08:57.270615 - INFO - Contiene: Amazon
+2025-10-05 23:08:57.270615 - INFO - Contiene: Amazon
+2025-10-05 23:08:57.270615 - INFO - No contiene FOLLOW-UP
+2025-10-05 23:08:57.270615 - INFO - Items Dashboard: 0
+2025-10-05 23:08:57.270615 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 23:08:57.270615 - INFO - Terminando conteo de trabajos validos
+2025-10-05 23:08:57.270615 - INFO - Fin de Intento: 8
+2025-10-05 23:08:57.270615 - INFO - Ya se dio 8 intentos de busqueda
+2025-10-05 23:08:57.286249 - INFO - Validación de envio de correo por robot operativo
+2025-10-05 23:08:59.192533 - INFO - Correo enviado para notificar que el robot se encuentra operativo
+2025-10-05 23:11:40.466585 - INFO - Robot Lionbridge iniciado
+2025-10-05 23:11:40.466585 - INFO - Obteniendo Credenciales
+2025-10-05 23:11:40.482206 - INFO - Abrir navegador
+2025-10-05 23:11:47.197902 - INFO - Ingresando a ventana de Login
+2025-10-05 23:11:47.414153 - INFO - Iniciando inicio de sesión Lionbridge
+2025-10-05 23:12:09.102332 - INFO - Sesión iniciada
+2025-10-05 23:12:09.166332 - INFO - Inicio de Intento: 1
+2025-10-05 23:12:11.755608 - INFO - Se encontro un card de trabajo
+2025-10-05 23:12:11.755608 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 23:12:11.755608 - INFO - Existen: 1
+2025-10-05 23:12:11.771167 - INFO - Index: 1
+2025-10-05 23:12:11.802426 - INFO - Contiene: Amazon
+2025-10-05 23:12:11.802426 - INFO - Contiene: Amazon
+2025-10-05 23:12:11.818050 - INFO - No contiene FOLLOW-UP
+2025-10-05 23:12:11.818050 - INFO - Items Dashboard: 0
+2025-10-05 23:12:11.818050 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 23:12:11.818050 - INFO - Terminando conteo de trabajos validos
+2025-10-05 23:12:11.818050 - INFO - Fin de Intento: 1
+2025-10-05 23:12:31.845442 - INFO - Fin de iteración
+2025-10-05 23:12:31.845442 - INFO - Obteniendo Credenciales
+2025-10-05 23:12:31.942914 - INFO - Inicio de Intento: 2
+2025-10-05 23:12:35.547290 - INFO - Se encontro un card de trabajo
+2025-10-05 23:12:35.547290 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 23:12:35.555292 - INFO - Existen: 1
+2025-10-05 23:12:35.557300 - INFO - Index: 1
+2025-10-05 23:12:35.592809 - INFO - Contiene: Amazon
+2025-10-05 23:12:35.592809 - INFO - Contiene: Amazon
+2025-10-05 23:12:35.593813 - INFO - No contiene FOLLOW-UP
+2025-10-05 23:12:35.594808 - INFO - Items Dashboard: 0
+2025-10-05 23:12:35.595814 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 23:12:35.596816 - INFO - Terminando conteo de trabajos validos
+2025-10-05 23:12:35.597809 - INFO - Fin de Intento: 2
+2025-10-05 23:12:55.603222 - INFO - Fin de iteración
+2025-10-05 23:12:55.603222 - INFO - Obteniendo Credenciales
+2025-10-05 23:12:55.693982 - INFO - Inicio de Intento: 3
+2025-10-05 23:12:59.844738 - INFO - Se encontro un card de trabajo
+2025-10-05 23:12:59.845732 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 23:12:59.852736 - INFO - Existen: 1
+2025-10-05 23:12:59.853741 - INFO - Index: 1
+2025-10-05 23:12:59.905452 - INFO - Contiene: Amazon
+2025-10-05 23:12:59.907457 - INFO - Contiene: Amazon
+2025-10-05 23:12:59.908453 - INFO - No contiene FOLLOW-UP
+2025-10-05 23:12:59.909450 - INFO - Items Dashboard: 0
+2025-10-05 23:12:59.910447 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 23:12:59.910447 - INFO - Terminando conteo de trabajos validos
+2025-10-05 23:12:59.912452 - INFO - Fin de Intento: 3
+2025-10-05 23:13:19.923432 - INFO - Fin de iteración
+2025-10-05 23:13:19.923432 - INFO - Obteniendo Credenciales
+2025-10-05 23:13:20.025205 - INFO - Inicio de Intento: 4
+2025-10-05 23:13:23.617862 - INFO - Se encontro un card de trabajo
+2025-10-05 23:13:23.617862 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 23:13:23.617862 - INFO - Existen: 1
+2025-10-05 23:13:23.617862 - INFO - Index: 1
+2025-10-05 23:13:23.645531 - INFO - Contiene: Amazon
+2025-10-05 23:13:23.645531 - INFO - Contiene: Amazon
+2025-10-05 23:13:23.645531 - INFO - No contiene FOLLOW-UP
+2025-10-05 23:13:23.661155 - INFO - Items Dashboard: 0
+2025-10-05 23:13:23.661155 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 23:13:23.661155 - INFO - Terminando conteo de trabajos validos
+2025-10-05 23:13:23.661155 - INFO - Fin de Intento: 4
+2025-10-05 23:13:43.666297 - INFO - Fin de iteración
+2025-10-05 23:13:43.666297 - INFO - Obteniendo Credenciales
+2025-10-05 23:13:43.763136 - INFO - Inicio de Intento: 5
+2025-10-05 23:13:47.345614 - INFO - Se encontro un card de trabajo
+2025-10-05 23:13:47.345614 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 23:13:47.352614 - INFO - Existen: 1
+2025-10-05 23:13:47.354613 - INFO - Index: 1
+2025-10-05 23:13:47.400936 - INFO - Contiene: Amazon
+2025-10-05 23:13:47.400936 - INFO - Contiene: Amazon
+2025-10-05 23:13:47.400936 - INFO - No contiene FOLLOW-UP
+2025-10-05 23:13:47.400936 - INFO - Items Dashboard: 0
+2025-10-05 23:13:47.400936 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 23:13:47.400936 - INFO - Terminando conteo de trabajos validos
+2025-10-05 23:13:47.400936 - INFO - Fin de Intento: 5
+2025-10-05 23:14:07.402833 - INFO - Fin de iteración
+2025-10-05 23:14:07.402833 - INFO - Obteniendo Credenciales
+2025-10-05 23:14:07.497849 - INFO - Inicio de Intento: 6
+2025-10-05 23:14:11.097627 - INFO - Se encontro un card de trabajo
+2025-10-05 23:14:11.097627 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 23:14:11.107641 - INFO - Existen: 1
+2025-10-05 23:14:11.107641 - INFO - Index: 1
+2025-10-05 23:14:11.138905 - INFO - Contiene: Amazon
+2025-10-05 23:14:11.138905 - INFO - Contiene: Amazon
+2025-10-05 23:14:11.138905 - INFO - No contiene FOLLOW-UP
+2025-10-05 23:14:11.138905 - INFO - Items Dashboard: 0
+2025-10-05 23:14:11.138905 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 23:14:11.138905 - INFO - Terminando conteo de trabajos validos
+2025-10-05 23:14:11.154541 - INFO - Fin de Intento: 6
+2025-10-05 23:14:31.154690 - INFO - Fin de iteración
+2025-10-05 23:14:31.154690 - INFO - Obteniendo Credenciales
+2025-10-05 23:14:31.245183 - INFO - Inicio de Intento: 7
+2025-10-05 23:14:35.355111 - INFO - Se encontro un card de trabajo
+2025-10-05 23:14:35.355111 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 23:14:35.370736 - INFO - Existen: 1
+2025-10-05 23:14:35.370736 - INFO - Index: 1
+2025-10-05 23:14:35.401982 - INFO - Contiene: Amazon
+2025-10-05 23:14:35.401982 - INFO - Contiene: Amazon
+2025-10-05 23:14:35.401982 - INFO - No contiene FOLLOW-UP
+2025-10-05 23:14:35.401982 - INFO - Items Dashboard: 0
+2025-10-05 23:14:35.401982 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 23:14:35.401982 - INFO - Terminando conteo de trabajos validos
+2025-10-05 23:14:35.417607 - INFO - Fin de Intento: 7
+2025-10-05 23:14:55.427807 - INFO - Fin de iteración
+2025-10-05 23:14:55.427807 - INFO - Obteniendo Credenciales
+2025-10-05 23:14:55.531737 - INFO - Inicio de Intento: 8
+2025-10-05 23:14:59.619385 - INFO - Se encontro un card de trabajo
+2025-10-05 23:14:59.619385 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 23:14:59.619385 - INFO - Existen: 1
+2025-10-05 23:14:59.619385 - INFO - Index: 1
+2025-10-05 23:14:59.650646 - INFO - Contiene: Amazon
+2025-10-05 23:14:59.650646 - INFO - Contiene: Amazon
+2025-10-05 23:14:59.650646 - INFO - No contiene FOLLOW-UP
+2025-10-05 23:14:59.650646 - INFO - Items Dashboard: 0
+2025-10-05 23:14:59.666225 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 23:14:59.666225 - INFO - Terminando conteo de trabajos validos
+2025-10-05 23:14:59.666225 - INFO - Fin de Intento: 8
+2025-10-05 23:14:59.666225 - INFO - Ya se dio 8 intentos de busqueda
+2025-10-05 23:14:59.666225 - INFO - Validación de envio de correo por robot operativo
+2025-10-05 23:15:01.244416 - INFO - Correo enviado para notificar que el robot se encuentra operativo
+2025-10-05 23:17:35.983432 - INFO - Robot Lionbridge iniciado
+2025-10-05 23:17:35.983432 - INFO - Obteniendo Credenciales
+2025-10-05 23:17:36.014683 - INFO - Abrir navegador
+2025-10-05 23:17:42.742359 - INFO - Ingresando a ventana de Login
+2025-10-05 23:17:42.914253 - INFO - Iniciando inicio de sesión Lionbridge
+2025-10-05 23:18:13.333130 - INFO - Sesión iniciada
+2025-10-05 23:18:13.399768 - INFO - Inicio de Intento: 1
+2025-10-05 23:18:17.004803 - INFO - Se encontro un card de trabajo
+2025-10-05 23:18:17.004803 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 23:18:17.004803 - INFO - Existen: 1
+2025-10-05 23:18:17.004803 - INFO - Index: 1
+2025-10-05 23:18:17.067267 - INFO - Contiene: Amazon
+2025-10-05 23:18:17.067267 - INFO - Contiene: Amazon
+2025-10-05 23:18:17.067267 - INFO - No contiene FOLLOW-UP
+2025-10-05 23:18:17.067267 - INFO - Items Dashboard: 0
+2025-10-05 23:18:17.067267 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 23:18:17.067267 - INFO - Terminando conteo de trabajos validos
+2025-10-05 23:18:17.067267 - INFO - Fin de Intento: 1
+2025-10-05 23:18:37.078988 - INFO - Fin de iteración
+2025-10-05 23:18:37.094566 - INFO - Obteniendo Credenciales
+2025-10-05 23:18:37.184045 - INFO - Inicio de Intento: 2
+2025-10-05 23:18:40.765093 - INFO - Se encontro un card de trabajo
+2025-10-05 23:18:40.765093 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 23:18:40.772089 - INFO - Existen: 1
+2025-10-05 23:18:40.773095 - INFO - Index: 1
+2025-10-05 23:18:40.802089 - INFO - Contiene: Amazon
+2025-10-05 23:18:40.803096 - INFO - Contiene: Amazon
+2025-10-05 23:18:40.804100 - INFO - No contiene FOLLOW-UP
+2025-10-05 23:18:40.805090 - INFO - Items Dashboard: 0
+2025-10-05 23:18:40.805090 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 23:18:40.806091 - INFO - Terminando conteo de trabajos validos
+2025-10-05 23:18:40.809091 - INFO - Fin de Intento: 2
+2025-10-05 23:19:00.817691 - INFO - Fin de iteración
+2025-10-05 23:19:00.817691 - INFO - Obteniendo Credenciales
+2025-10-05 23:19:00.909124 - INFO - Inicio de Intento: 3
+2025-10-05 23:19:04.997700 - INFO - Se encontro un card de trabajo
+2025-10-05 23:19:04.997700 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 23:19:04.997700 - INFO - Existen: 1
+2025-10-05 23:19:04.997700 - INFO - Index: 1
+2025-10-05 23:19:05.028911 - INFO - Contiene: Amazon
+2025-10-05 23:19:05.028911 - INFO - Contiene: Amazon
+2025-10-05 23:19:05.028911 - INFO - No contiene FOLLOW-UP
+2025-10-05 23:19:05.028911 - INFO - Items Dashboard: 0
+2025-10-05 23:19:05.028911 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 23:19:05.044532 - INFO - Terminando conteo de trabajos validos
+2025-10-05 23:19:05.044532 - INFO - Fin de Intento: 3
+2025-10-05 23:19:25.044596 - INFO - Fin de iteración
+2025-10-05 23:19:25.044596 - INFO - Obteniendo Credenciales
+2025-10-05 23:19:25.142365 - INFO - Inicio de Intento: 4
+2025-10-05 23:19:28.782006 - INFO - Se encontro un card de trabajo
+2025-10-05 23:19:28.782006 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 23:19:28.788008 - INFO - Existen: 1
+2025-10-05 23:19:28.790009 - INFO - Index: 1
+2025-10-05 23:19:28.826861 - INFO - Contiene: Amazon
+2025-10-05 23:19:28.827864 - INFO - Contiene: Amazon
+2025-10-05 23:19:28.827864 - INFO - No contiene FOLLOW-UP
+2025-10-05 23:19:28.829863 - INFO - Items Dashboard: 0
+2025-10-05 23:19:28.829863 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 23:19:28.830859 - INFO - Terminando conteo de trabajos validos
+2025-10-05 23:19:28.839912 - INFO - Fin de Intento: 4
+2025-10-05 23:19:48.850601 - INFO - Fin de iteración
+2025-10-05 23:19:48.850601 - INFO - Obteniendo Credenciales
+2025-10-05 23:19:48.947164 - INFO - Inicio de Intento: 5
+2025-10-05 23:19:52.548530 - INFO - Se encontro un card de trabajo
+2025-10-05 23:19:52.548530 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 23:19:52.564170 - INFO - Existen: 1
+2025-10-05 23:19:52.564170 - INFO - Index: 1
+2025-10-05 23:19:52.595477 - INFO - Contiene: Amazon
+2025-10-05 23:19:52.595477 - INFO - Contiene: Amazon
+2025-10-05 23:19:52.595477 - INFO - No contiene FOLLOW-UP
+2025-10-05 23:19:52.595477 - INFO - Items Dashboard: 0
+2025-10-05 23:19:52.595477 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 23:19:52.595477 - INFO - Terminando conteo de trabajos validos
+2025-10-05 23:19:52.611050 - INFO - Fin de Intento: 5
+2025-10-05 23:20:12.625981 - INFO - Fin de iteración
+2025-10-05 23:20:12.625981 - INFO - Obteniendo Credenciales
+2025-10-05 23:20:12.726039 - INFO - Inicio de Intento: 6
+2025-10-05 23:20:16.302377 - INFO - Se encontro un card de trabajo
+2025-10-05 23:20:16.302377 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 23:20:16.314396 - INFO - Existen: 1
+2025-10-05 23:20:16.314396 - INFO - Index: 1
+2025-10-05 23:20:16.361286 - INFO - Contiene: Amazon
+2025-10-05 23:20:16.361286 - INFO - Contiene: Amazon
+2025-10-05 23:20:16.361286 - INFO - No contiene FOLLOW-UP
+2025-10-05 23:20:16.361286 - INFO - Items Dashboard: 0
+2025-10-05 23:20:16.361286 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 23:20:16.361286 - INFO - Terminando conteo de trabajos validos
+2025-10-05 23:20:16.361286 - INFO - Fin de Intento: 6
+2025-10-05 23:20:36.373208 - INFO - Fin de iteración
+2025-10-05 23:20:36.373208 - INFO - Obteniendo Credenciales
+2025-10-05 23:20:36.475678 - INFO - Inicio de Intento: 7
+2025-10-05 23:20:40.056622 - INFO - Se encontro un card de trabajo
+2025-10-05 23:20:40.057581 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 23:20:40.064571 - INFO - Existen: 1
+2025-10-05 23:20:40.065573 - INFO - Index: 1
+2025-10-05 23:20:40.094577 - INFO - Contiene: Amazon
+2025-10-05 23:20:40.095581 - INFO - Contiene: Amazon
+2025-10-05 23:20:40.096574 - INFO - No contiene FOLLOW-UP
+2025-10-05 23:20:40.097586 - INFO - Items Dashboard: 0
+2025-10-05 23:20:40.098576 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 23:20:40.099571 - INFO - Terminando conteo de trabajos validos
+2025-10-05 23:20:40.101576 - INFO - Fin de Intento: 7
+2025-10-05 23:21:00.114919 - INFO - Fin de iteración
+2025-10-05 23:21:00.114919 - INFO - Obteniendo Credenciales
+2025-10-05 23:21:00.206614 - INFO - Inicio de Intento: 8
+2025-10-05 23:21:04.290414 - INFO - Se encontro un card de trabajo
+2025-10-05 23:21:04.291428 - INFO - Haciendo conteo de trabajos validos
+2025-10-05 23:21:04.307211 - INFO - Existen: 1
+2025-10-05 23:21:04.308218 - INFO - Index: 1
+2025-10-05 23:21:04.339911 - INFO - Contiene: Amazon
+2025-10-05 23:21:04.340903 - INFO - Contiene: Amazon
+2025-10-05 23:21:04.341910 - INFO - No contiene FOLLOW-UP
+2025-10-05 23:21:04.342905 - INFO - Items Dashboard: 0
+2025-10-05 23:21:04.342905 - INFO - No se encontraron elementos en la lista de Available Jobs
+2025-10-05 23:21:04.343911 - INFO - Terminando conteo de trabajos validos
+2025-10-05 23:21:04.345906 - INFO - Fin de Intento: 8
+2025-10-05 23:21:04.346914 - INFO - Ya se dio 8 intentos de busqueda
+2025-10-05 23:21:04.350912 - INFO - Validación de envio de correo por robot operativo
+2025-10-05 23:21:07.346435 - INFO - Correo enviado para notificar que el robot se encuentra operativo

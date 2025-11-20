@@ -1,0 +1,2 @@
+let input= (document.evaluate('/html/body/div[1]/div[4]/div[1]/div[3]/main/div/div/div[1]/div/div/div/section[2]/div[1]/div[2]/div', document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue).children.length;
+return input;

@@ -1,0 +1,1259 @@
+
+2025-09-25 20:46:40.745987 - INFO - Obteniendo Credenciales
+2025-09-25 20:46:40.902395 - INFO - Abrir navegador
+2025-09-25 20:46:47.336541 - INFO - Se aceptaron todas las Cookies
+2025-09-25 20:46:47.357546 - INFO - Ingresando a ventana de Login
+2025-09-25 20:46:47.362308 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 20:46:52.815523 - INFO - Sesión iniciada
+2025-09-25 20:46:52.815523 - INFO - Fin de iteración
+2025-09-25 20:46:52.831103 - INFO - Obteniendo Credenciales
+2025-09-25 20:46:53.357620 - INFO - Ingresando a ventana de Login
+2025-09-25 20:46:53.374902 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 20:47:03.443634 - INFO - Sesión iniciada
+2025-09-25 20:47:03.735371 - INFO - Inicio de Intento: 1
+2025-09-25 20:47:05.999281 - INFO - Haciendo busqueda de trabajos
+2025-09-25 20:47:11.088051 - INFO - Fin de Intento: 1
+2025-09-25 20:47:31.099179 - INFO - Fin de iteración
+2025-09-25 20:47:31.114769 - INFO - Obteniendo Credenciales
+2025-09-25 20:47:31.864302 - INFO - Inicio de Intento: 2
+2025-09-25 20:47:34.158993 - INFO - Haciendo busqueda de trabajos
+2025-09-25 20:47:39.264059 - INFO - Fin de Intento: 2
+2025-09-25 20:47:59.278088 - INFO - Fin de iteración
+2025-09-25 20:47:59.293669 - INFO - Obteniendo Credenciales
+2025-09-25 20:47:59.997969 - INFO - Inicio de Intento: 3
+2025-09-25 20:48:02.273244 - INFO - Haciendo busqueda de trabajos
+2025-09-25 20:48:07.387741 - INFO - Fin de Intento: 3
+2025-09-25 20:48:27.395458 - INFO - Fin de iteración
+2025-09-25 20:48:27.395458 - INFO - Obteniendo Credenciales
+2025-09-25 20:48:28.171217 - INFO - Inicio de Intento: 4
+2025-09-25 20:48:30.384080 - INFO - Haciendo busqueda de trabajos
+2025-09-25 20:48:35.516084 - INFO - Fin de Intento: 4
+2025-09-25 20:48:55.530031 - INFO - Fin de iteración
+2025-09-25 20:48:55.545580 - INFO - Obteniendo Credenciales
+2025-09-25 20:48:56.309193 - INFO - Inicio de Intento: 5
+2025-09-25 20:48:59.006592 - INFO - Haciendo busqueda de trabajos
+2025-09-25 20:49:04.135170 - INFO - Fin de Intento: 5
+2025-09-25 20:49:04.136180 - INFO - Ya se dio 5 intentos de busqueda
+2025-09-25 20:49:04.139168 - INFO - Validación de envio de correo por robot operativo
+2025-09-25 20:49:05.321973 - INFO - Correo enviado para notificar que el robot se encuentra operativo
+2025-09-25 20:52:33.274776 - INFO - Robot Transperfect iniciado
+2025-09-25 20:52:33.274776 - INFO - Obteniendo Credenciales
+2025-09-25 20:52:33.306029 - INFO - Abrir navegador
+2025-09-25 20:52:39.335366 - INFO - Se aceptaron todas las Cookies
+2025-09-25 20:52:39.363550 - INFO - Ingresando a ventana de Login
+2025-09-25 20:52:39.365554 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 20:52:44.740167 - INFO - Sesión iniciada
+2025-09-25 20:52:44.771364 - INFO - Fin de iteración
+2025-09-25 20:52:44.786987 - INFO - Obteniendo Credenciales
+2025-09-25 20:52:44.818236 - INFO - Ingresando a ventana de Login
+2025-09-25 20:52:44.818236 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 20:52:55.179695 - INFO - Sesión iniciada
+2025-09-25 20:52:55.520499 - INFO - Inicio de Intento: 1
+2025-09-25 20:52:57.705403 - INFO - Haciendo busqueda de trabajos
+2025-09-25 20:53:02.804142 - INFO - Fin de Intento: 1
+2025-09-25 20:53:22.805376 - INFO - Fin de iteración
+2025-09-25 20:53:22.805376 - INFO - Obteniendo Credenciales
+2025-09-25 20:53:23.607210 - INFO - Inicio de Intento: 2
+2025-09-25 20:53:25.898917 - INFO - Haciendo busqueda de trabajos
+2025-09-25 20:53:31.013263 - INFO - Fin de Intento: 2
+2025-09-25 20:53:51.016475 - INFO - Fin de iteración
+2025-09-25 20:53:51.030540 - INFO - Obteniendo Credenciales
+2025-09-25 20:53:51.815214 - INFO - Inicio de Intento: 3
+2025-09-25 20:53:53.970753 - INFO - Haciendo busqueda de trabajos
+2025-09-25 20:53:59.106895 - INFO - Fin de Intento: 3
+2025-09-25 20:54:19.107347 - INFO - Fin de iteración
+2025-09-25 20:54:19.122935 - INFO - Obteniendo Credenciales
+2025-09-25 20:54:19.893976 - INFO - Inicio de Intento: 4
+2025-09-25 20:54:22.129041 - INFO - Haciendo busqueda de trabajos
+2025-09-25 20:54:27.243724 - INFO - Fin de Intento: 4
+2025-09-25 20:54:47.249462 - INFO - Fin de iteración
+2025-09-25 20:54:47.249462 - INFO - Obteniendo Credenciales
+2025-09-25 20:54:48.016873 - INFO - Inicio de Intento: 5
+2025-09-25 20:54:50.782690 - INFO - Haciendo busqueda de trabajos
+2025-09-25 20:54:55.875045 - INFO - Fin de Intento: 5
+2025-09-25 20:54:55.875045 - INFO - Ya se dio 5 intentos de busqueda
+2025-09-25 20:54:55.875045 - INFO - Validación de envio de correo por robot operativo
+2025-09-25 20:54:57.772946 - INFO - Correo enviado para notificar que el robot se encuentra operativo
+2025-09-25 20:58:25.240014 - INFO - Robot Transperfect iniciado
+2025-09-25 20:58:25.240014 - INFO - Obteniendo Credenciales
+2025-09-25 20:58:25.255647 - INFO - Abrir navegador
+2025-09-25 20:58:34.706665 - INFO - Se aceptaron todas las Cookies
+2025-09-25 20:58:34.729926 - INFO - Ingresando a ventana de Login
+2025-09-25 20:58:34.731934 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 20:58:41.629363 - INFO - Sesión iniciada
+2025-09-25 20:58:41.633366 - INFO - Fin de iteración
+2025-09-25 20:58:41.646362 - INFO - Obteniendo Credenciales
+2025-09-25 20:58:41.670371 - INFO - Ingresando a ventana de Login
+2025-09-25 20:58:41.673369 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 20:58:51.878939 - INFO - Sesión iniciada
+2025-09-25 20:58:52.544333 - INFO - Inicio de Intento: 1
+2025-09-25 20:58:54.781499 - INFO - Haciendo busqueda de trabajos
+2025-09-25 20:58:59.858545 - INFO - Fin de Intento: 1
+2025-09-25 20:59:19.872842 - INFO - Fin de iteración
+2025-09-25 20:59:19.888403 - INFO - Obteniendo Credenciales
+2025-09-25 20:59:20.643990 - INFO - Inicio de Intento: 2
+2025-09-25 20:59:23.256920 - INFO - Haciendo busqueda de trabajos
+2025-09-25 20:59:28.365679 - INFO - Fin de Intento: 2
+2025-09-25 20:59:48.371917 - INFO - Fin de iteración
+2025-09-25 20:59:48.387490 - INFO - Obteniendo Credenciales
+2025-09-25 20:59:49.152033 - INFO - Inicio de Intento: 3
+2025-09-25 20:59:51.439717 - INFO - Haciendo busqueda de trabajos
+2025-09-25 20:59:56.529196 - INFO - Fin de Intento: 3
+2025-09-25 21:00:16.530042 - INFO - Fin de iteración
+2025-09-25 21:00:16.545611 - INFO - Obteniendo Credenciales
+2025-09-25 21:00:17.306141 - INFO - Inicio de Intento: 4
+2025-09-25 21:00:19.565741 - INFO - Haciendo busqueda de trabajos
+2025-09-25 21:00:24.656144 - INFO - Fin de Intento: 4
+2025-09-25 21:00:44.656649 - INFO - Fin de iteración
+2025-09-25 21:00:44.656649 - INFO - Obteniendo Credenciales
+2025-09-25 21:00:45.409187 - INFO - Inicio de Intento: 5
+2025-09-25 21:00:48.201263 - INFO - Haciendo busqueda de trabajos
+2025-09-25 21:00:53.340221 - INFO - Fin de Intento: 5
+2025-09-25 21:00:53.340221 - INFO - Ya se dio 5 intentos de busqueda
+2025-09-25 21:00:53.340221 - INFO - Validación de envio de correo por robot operativo
+2025-09-25 21:00:54.622746 - INFO - Correo enviado para notificar que el robot se encuentra operativo
+2025-09-25 21:04:27.550912 - INFO - Robot Transperfect iniciado
+2025-09-25 21:04:27.550912 - INFO - Obteniendo Credenciales
+2025-09-25 21:04:27.566542 - INFO - Abrir navegador
+2025-09-25 21:04:38.445135 - INFO - Se aceptaron todas las Cookies
+2025-09-25 21:04:48.898306 - ERROR - No se logró cargar la página en el periodo indicado
+2025-09-25 21:04:50.976450 - INFO - Fin de iteración
+2025-09-25 21:04:50.976450 - INFO - Obteniendo Credenciales
+2025-09-25 21:04:50.992018 - INFO - Abrir navegador
+2025-09-25 21:05:00.032482 - INFO - Se aceptaron todas las Cookies
+2025-09-25 21:05:00.091531 - INFO - Ingresando a ventana de Login
+2025-09-25 21:05:00.106473 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 21:05:05.664163 - INFO - Sesión iniciada
+2025-09-25 21:05:05.679743 - INFO - Fin de iteración
+2025-09-25 21:05:05.679743 - INFO - Obteniendo Credenciales
+2025-09-25 21:05:05.726620 - INFO - Ingresando a ventana de Login
+2025-09-25 21:05:05.726620 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 21:05:15.927540 - INFO - Sesión iniciada
+2025-09-25 21:05:16.217597 - INFO - Inicio de Intento: 1
+2025-09-25 21:05:18.959698 - INFO - Haciendo busqueda de trabajos
+2025-09-25 21:05:24.107955 - INFO - Fin de Intento: 1
+2025-09-25 21:05:44.117707 - INFO - Fin de iteración
+2025-09-25 21:05:44.117707 - INFO - Obteniendo Credenciales
+2025-09-25 21:05:44.890201 - INFO - Inicio de Intento: 2
+2025-09-25 21:05:47.091851 - INFO - Haciendo busqueda de trabajos
+2025-09-25 21:05:52.197939 - INFO - Fin de Intento: 2
+2025-09-25 21:06:12.202237 - INFO - Fin de iteración
+2025-09-25 21:06:12.217804 - INFO - Obteniendo Credenciales
+2025-09-25 21:06:12.947581 - INFO - Inicio de Intento: 3
+2025-09-25 21:06:15.164978 - INFO - Haciendo busqueda de trabajos
+2025-09-25 21:06:20.274266 - INFO - Fin de Intento: 3
+2025-09-25 21:06:40.283615 - INFO - Fin de iteración
+2025-09-25 21:06:40.299199 - INFO - Obteniendo Credenciales
+2025-09-25 21:06:41.025539 - INFO - Inicio de Intento: 4
+2025-09-25 21:06:43.287091 - INFO - Haciendo busqueda de trabajos
+2025-09-25 21:06:48.391955 - INFO - Fin de Intento: 4
+2025-09-25 21:07:08.402474 - INFO - Fin de iteración
+2025-09-25 21:07:08.402474 - INFO - Obteniendo Credenciales
+2025-09-25 21:07:09.175759 - INFO - Inicio de Intento: 5
+2025-09-25 21:07:11.804043 - INFO - Haciendo busqueda de trabajos
+2025-09-25 21:07:16.906374 - INFO - Fin de Intento: 5
+2025-09-25 21:07:16.906374 - INFO - Ya se dio 5 intentos de busqueda
+2025-09-25 21:07:16.906374 - INFO - Validación de envio de correo por robot operativo
+2025-09-25 21:07:18.146199 - INFO - Correo enviado para notificar que el robot se encuentra operativo
+2025-09-25 21:10:45.597848 - INFO - Robot Transperfect iniciado
+2025-09-25 21:10:45.597848 - INFO - Obteniendo Credenciales
+2025-09-25 21:10:45.613462 - INFO - Abrir navegador
+2025-09-25 21:10:55.001822 - INFO - Se aceptaron todas las Cookies
+2025-09-25 21:10:55.029090 - INFO - Ingresando a ventana de Login
+2025-09-25 21:10:55.031098 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 21:11:01.019288 - INFO - Sesión iniciada
+2025-09-25 21:11:01.034849 - INFO - Fin de iteración
+2025-09-25 21:11:01.050478 - INFO - Obteniendo Credenciales
+2025-09-25 21:11:01.066104 - INFO - Ingresando a ventana de Login
+2025-09-25 21:11:01.066104 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 21:11:11.299471 - INFO - Sesión iniciada
+2025-09-25 21:11:11.628406 - INFO - Inicio de Intento: 1
+2025-09-25 21:11:14.098280 - INFO - Haciendo busqueda de trabajos
+2025-09-25 21:11:19.257917 - INFO - Fin de Intento: 1
+2025-09-25 21:11:39.267741 - INFO - Fin de iteración
+2025-09-25 21:11:39.267741 - INFO - Obteniendo Credenciales
+2025-09-25 21:11:40.068056 - INFO - Inicio de Intento: 2
+2025-09-25 21:11:42.404946 - INFO - Haciendo busqueda de trabajos
+2025-09-25 21:11:47.527034 - INFO - Fin de Intento: 2
+2025-09-25 21:12:07.529201 - INFO - Fin de iteración
+2025-09-25 21:12:07.529201 - INFO - Obteniendo Credenciales
+2025-09-25 21:12:08.358000 - INFO - Inicio de Intento: 3
+2025-09-25 21:12:10.646467 - INFO - Haciendo busqueda de trabajos
+2025-09-25 21:12:15.730374 - INFO - Fin de Intento: 3
+2025-09-25 21:12:35.732877 - INFO - Fin de iteración
+2025-09-25 21:12:35.748457 - INFO - Obteniendo Credenciales
+2025-09-25 21:12:36.511326 - INFO - Inicio de Intento: 4
+2025-09-25 21:12:38.700742 - INFO - Haciendo busqueda de trabajos
+2025-09-25 21:12:43.814825 - INFO - Fin de Intento: 4
+2025-09-25 21:13:03.828723 - INFO - Fin de iteración
+2025-09-25 21:13:03.841782 - INFO - Obteniendo Credenciales
+2025-09-25 21:13:04.560348 - INFO - Inicio de Intento: 5
+2025-09-25 21:13:07.025783 - INFO - Haciendo busqueda de trabajos
+2025-09-25 21:13:12.131842 - INFO - Fin de Intento: 5
+2025-09-25 21:13:12.131842 - INFO - Ya se dio 5 intentos de busqueda
+2025-09-25 21:13:12.136775 - INFO - Validación de envio de correo por robot operativo
+2025-09-25 21:13:13.342286 - INFO - Correo enviado para notificar que el robot se encuentra operativo
+2025-09-25 21:16:40.919223 - INFO - Robot Transperfect iniciado
+2025-09-25 21:16:40.919223 - INFO - Obteniendo Credenciales
+2025-09-25 21:16:40.934839 - INFO - Abrir navegador
+2025-09-25 21:16:49.577876 - INFO - Se aceptaron todas las Cookies
+2025-09-25 21:16:49.603297 - INFO - Ingresando a ventana de Login
+2025-09-25 21:16:49.605287 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 21:16:55.539499 - INFO - Sesión iniciada
+2025-09-25 21:16:55.555074 - INFO - Fin de iteración
+2025-09-25 21:16:55.555074 - INFO - Obteniendo Credenciales
+2025-09-25 21:16:55.586333 - INFO - Ingresando a ventana de Login
+2025-09-25 21:16:55.586333 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 21:17:05.902798 - INFO - Sesión iniciada
+2025-09-25 21:17:06.205668 - INFO - Inicio de Intento: 1
+2025-09-25 21:17:08.975632 - INFO - Haciendo busqueda de trabajos
+2025-09-25 21:17:14.100231 - INFO - Fin de Intento: 1
+2025-09-25 21:17:34.110383 - INFO - Fin de iteración
+2025-09-25 21:17:34.125928 - INFO - Obteniendo Credenciales
+2025-09-25 21:17:34.879160 - INFO - Inicio de Intento: 2
+2025-09-25 21:17:37.124998 - INFO - Haciendo busqueda de trabajos
+2025-09-25 21:17:42.265764 - INFO - Fin de Intento: 2
+2025-09-25 21:18:02.269571 - INFO - Fin de iteración
+2025-09-25 21:18:02.285117 - INFO - Obteniendo Credenciales
+2025-09-25 21:18:03.004226 - INFO - Inicio de Intento: 3
+2025-09-25 21:18:05.201665 - INFO - Haciendo busqueda de trabajos
+2025-09-25 21:18:10.317899 - INFO - Fin de Intento: 3
+2025-09-25 21:18:30.319167 - INFO - Fin de iteración
+2025-09-25 21:18:30.334750 - INFO - Obteniendo Credenciales
+2025-09-25 21:18:31.090564 - INFO - Inicio de Intento: 4
+2025-09-25 21:18:33.393167 - INFO - Haciendo busqueda de trabajos
+2025-09-25 21:18:38.500086 - INFO - Fin de Intento: 4
+2025-09-25 21:18:58.514511 - INFO - Fin de iteración
+2025-09-25 21:18:58.530092 - INFO - Obteniendo Credenciales
+2025-09-25 21:18:59.279943 - INFO - Inicio de Intento: 5
+2025-09-25 21:19:02.083176 - INFO - Haciendo busqueda de trabajos
+2025-09-25 21:19:07.209201 - INFO - Fin de Intento: 5
+2025-09-25 21:19:07.209201 - INFO - Ya se dio 5 intentos de busqueda
+2025-09-25 21:19:07.209201 - INFO - Validación de envio de correo por robot operativo
+2025-09-25 21:19:08.366317 - INFO - Correo enviado para notificar que el robot se encuentra operativo
+2025-09-25 21:22:35.609645 - INFO - Robot Transperfect iniciado
+2025-09-25 21:22:35.625277 - INFO - Obteniendo Credenciales
+2025-09-25 21:22:35.640900 - INFO - Abrir navegador
+2025-09-25 21:22:45.147163 - INFO - Se aceptaron todas las Cookies
+2025-09-25 21:22:45.171749 - INFO - Ingresando a ventana de Login
+2025-09-25 21:22:45.177330 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 21:22:52.048604 - INFO - Sesión iniciada
+2025-09-25 21:22:52.060599 - INFO - Fin de iteración
+2025-09-25 21:22:52.064600 - INFO - Obteniendo Credenciales
+2025-09-25 21:22:52.088604 - INFO - Ingresando a ventana de Login
+2025-09-25 21:22:52.097597 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 21:23:02.292388 - INFO - Sesión iniciada
+2025-09-25 21:23:03.000929 - INFO - Inicio de Intento: 1
+2025-09-25 21:23:05.312081 - INFO - Haciendo busqueda de trabajos
+2025-09-25 21:23:10.422577 - INFO - Fin de Intento: 1
+2025-09-25 21:23:30.430584 - INFO - Fin de iteración
+2025-09-25 21:23:30.446150 - INFO - Obteniendo Credenciales
+2025-09-25 21:23:31.206908 - INFO - Inicio de Intento: 2
+2025-09-25 21:23:33.954239 - INFO - Haciendo busqueda de trabajos
+2025-09-25 21:23:39.071947 - INFO - Fin de Intento: 2
+2025-09-25 21:23:59.081049 - INFO - Fin de iteración
+2025-09-25 21:23:59.096597 - INFO - Obteniendo Credenciales
+2025-09-25 21:23:59.829210 - INFO - Inicio de Intento: 3
+2025-09-25 21:24:02.165661 - INFO - Haciendo busqueda de trabajos
+2025-09-25 21:24:07.298896 - INFO - Fin de Intento: 3
+2025-09-25 21:24:27.299986 - INFO - Fin de iteración
+2025-09-25 21:24:27.315559 - INFO - Obteniendo Credenciales
+2025-09-25 21:24:28.069686 - INFO - Inicio de Intento: 4
+2025-09-25 21:24:30.343432 - INFO - Haciendo busqueda de trabajos
+2025-09-25 21:24:35.457952 - INFO - Fin de Intento: 4
+2025-09-25 21:24:55.461110 - INFO - Fin de iteración
+2025-09-25 21:24:55.476678 - INFO - Obteniendo Credenciales
+2025-09-25 21:24:56.227388 - INFO - Inicio de Intento: 5
+2025-09-25 21:24:58.854272 - INFO - Haciendo busqueda de trabajos
+2025-09-25 21:25:03.953395 - INFO - Fin de Intento: 5
+2025-09-25 21:25:03.953395 - INFO - Ya se dio 5 intentos de busqueda
+2025-09-25 21:25:03.953395 - INFO - Validación de envio de correo por robot operativo
+2025-09-25 21:25:05.922122 - INFO - Correo enviado para notificar que el robot se encuentra operativo
+2025-09-25 21:28:35.792069 - INFO - Robot Transperfect iniciado
+2025-09-25 21:28:35.792069 - INFO - Obteniendo Credenciales
+2025-09-25 21:28:35.807691 - INFO - Abrir navegador
+2025-09-25 21:28:44.512237 - INFO - Se aceptaron todas las Cookies
+2025-09-25 21:28:44.535563 - INFO - Ingresando a ventana de Login
+2025-09-25 21:28:44.537565 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 21:28:50.255430 - INFO - Sesión iniciada
+2025-09-25 21:28:50.255430 - INFO - Fin de iteración
+2025-09-25 21:28:50.271002 - INFO - Obteniendo Credenciales
+2025-09-25 21:28:50.302236 - INFO - Ingresando a ventana de Login
+2025-09-25 21:28:50.302236 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 21:29:00.577476 - INFO - Sesión iniciada
+2025-09-25 21:29:00.873264 - INFO - Inicio de Intento: 1
+2025-09-25 21:29:03.657950 - INFO - Haciendo busqueda de trabajos
+2025-09-25 21:29:08.806861 - INFO - Fin de Intento: 1
+2025-09-25 21:29:28.819119 - INFO - Fin de iteración
+2025-09-25 21:29:28.819119 - INFO - Obteniendo Credenciales
+2025-09-25 21:29:29.600888 - INFO - Inicio de Intento: 2
+2025-09-25 21:29:31.857275 - INFO - Haciendo busqueda de trabajos
+2025-09-25 21:29:36.954639 - INFO - Fin de Intento: 2
+2025-09-25 21:29:56.963828 - INFO - Fin de iteración
+2025-09-25 21:29:56.978433 - INFO - Obteniendo Credenciales
+2025-09-25 21:29:57.712517 - INFO - Inicio de Intento: 3
+2025-09-25 21:29:59.891391 - INFO - Haciendo busqueda de trabajos
+2025-09-25 21:30:04.983658 - INFO - Fin de Intento: 3
+2025-09-25 21:30:24.998677 - INFO - Fin de iteración
+2025-09-25 21:30:25.014240 - INFO - Obteniendo Credenciales
+2025-09-25 21:30:25.827995 - INFO - Inicio de Intento: 4
+2025-09-25 21:30:28.069555 - INFO - Haciendo busqueda de trabajos
+2025-09-25 21:30:33.188045 - INFO - Fin de Intento: 4
+2025-09-25 21:30:53.189172 - INFO - Fin de iteración
+2025-09-25 21:30:53.189172 - INFO - Obteniendo Credenciales
+2025-09-25 21:30:53.902747 - INFO - Inicio de Intento: 5
+2025-09-25 21:30:56.336055 - INFO - Haciendo busqueda de trabajos
+2025-09-25 21:31:01.431185 - INFO - Fin de Intento: 5
+2025-09-25 21:31:01.432191 - INFO - Ya se dio 5 intentos de busqueda
+2025-09-25 21:31:01.435189 - INFO - Validación de envio de correo por robot operativo
+2025-09-25 21:31:02.704860 - INFO - Correo enviado para notificar que el robot se encuentra operativo
+2025-09-25 21:34:31.494680 - INFO - Robot Transperfect iniciado
+2025-09-25 21:34:31.494680 - INFO - Obteniendo Credenciales
+2025-09-25 21:34:31.510297 - INFO - Abrir navegador
+2025-09-25 21:34:38.117764 - INFO - Se aceptaron todas las Cookies
+2025-09-25 21:34:40.773231 - INFO - Ingresando a ventana de Login
+2025-09-25 21:34:40.779235 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 21:34:46.536294 - INFO - Sesión iniciada
+2025-09-25 21:34:46.536294 - INFO - Fin de iteración
+2025-09-25 21:34:46.551874 - INFO - Obteniendo Credenciales
+2025-09-25 21:34:46.567500 - INFO - Ingresando a ventana de Login
+2025-09-25 21:34:46.567500 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 21:34:56.794901 - INFO - Sesión iniciada
+2025-09-25 21:34:57.122425 - INFO - Inicio de Intento: 1
+2025-09-25 21:34:59.950379 - INFO - Haciendo busqueda de trabajos
+2025-09-25 21:35:05.063001 - INFO - Fin de Intento: 1
+2025-09-25 21:35:25.068284 - INFO - Fin de iteración
+2025-09-25 21:35:25.068284 - INFO - Obteniendo Credenciales
+2025-09-25 21:35:25.820822 - INFO - Inicio de Intento: 2
+2025-09-25 21:35:28.434501 - INFO - Haciendo busqueda de trabajos
+2025-09-25 21:35:33.594045 - INFO - Fin de Intento: 2
+2025-09-25 21:35:53.609355 - INFO - Fin de iteración
+2025-09-25 21:35:53.624912 - INFO - Obteniendo Credenciales
+2025-09-25 21:35:54.324552 - INFO - Inicio de Intento: 3
+2025-09-25 21:35:56.766727 - INFO - Haciendo busqueda de trabajos
+2025-09-25 21:36:01.884622 - INFO - Fin de Intento: 3
+2025-09-25 21:36:21.884764 - INFO - Fin de iteración
+2025-09-25 21:36:21.900331 - INFO - Obteniendo Credenciales
+2025-09-25 21:36:22.705262 - INFO - Inicio de Intento: 4
+2025-09-25 21:36:25.026654 - INFO - Haciendo busqueda de trabajos
+2025-09-25 21:36:30.178989 - INFO - Fin de Intento: 4
+2025-09-25 21:36:50.180746 - INFO - Fin de iteración
+2025-09-25 21:36:50.196330 - INFO - Obteniendo Credenciales
+2025-09-25 21:36:50.865389 - INFO - Inicio de Intento: 5
+2025-09-25 21:36:53.693414 - INFO - Haciendo busqueda de trabajos
+2025-09-25 21:36:58.808831 - INFO - Fin de Intento: 5
+2025-09-25 21:36:58.808831 - INFO - Ya se dio 5 intentos de busqueda
+2025-09-25 21:36:58.808831 - INFO - Validación de envio de correo por robot operativo
+2025-09-25 21:37:00.728962 - INFO - Correo enviado para notificar que el robot se encuentra operativo
+2025-09-25 21:40:29.679485 - INFO - Robot Transperfect iniciado
+2025-09-25 21:40:29.679485 - INFO - Obteniendo Credenciales
+2025-09-25 21:40:29.695099 - INFO - Abrir navegador
+2025-09-25 21:40:38.755245 - INFO - Se aceptaron todas las Cookies
+2025-09-25 21:40:38.787509 - INFO - Ingresando a ventana de Login
+2025-09-25 21:40:38.795503 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 21:40:44.353916 - INFO - Sesión iniciada
+2025-09-25 21:40:44.353916 - INFO - Fin de iteración
+2025-09-25 21:40:44.369495 - INFO - Obteniendo Credenciales
+2025-09-25 21:40:44.385120 - INFO - Ingresando a ventana de Login
+2025-09-25 21:40:44.400745 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 21:40:54.667988 - INFO - Sesión iniciada
+2025-09-25 21:40:54.971899 - INFO - Inicio de Intento: 1
+2025-09-25 21:40:57.763251 - INFO - Haciendo busqueda de trabajos
+2025-09-25 21:41:02.836157 - INFO - Fin de Intento: 1
+2025-09-25 21:41:22.846760 - INFO - Fin de iteración
+2025-09-25 21:41:22.862335 - INFO - Obteniendo Credenciales
+2025-09-25 21:41:23.623533 - INFO - Inicio de Intento: 2
+2025-09-25 21:41:25.830513 - INFO - Haciendo busqueda de trabajos
+2025-09-25 21:41:30.963332 - INFO - Fin de Intento: 2
+2025-09-25 21:41:50.978867 - INFO - Fin de iteración
+2025-09-25 21:41:50.994449 - INFO - Obteniendo Credenciales
+2025-09-25 21:41:51.803534 - INFO - Inicio de Intento: 3
+2025-09-25 21:41:54.133336 - INFO - Haciendo busqueda de trabajos
+2025-09-25 21:41:59.226719 - INFO - Fin de Intento: 3
+2025-09-25 21:42:19.242010 - INFO - Fin de iteración
+2025-09-25 21:42:19.242010 - INFO - Obteniendo Credenciales
+2025-09-25 21:42:20.080023 - INFO - Inicio de Intento: 4
+2025-09-25 21:42:22.333698 - INFO - Haciendo busqueda de trabajos
+2025-09-25 21:42:27.447334 - INFO - Fin de Intento: 4
+2025-09-25 21:42:47.450616 - INFO - Fin de iteración
+2025-09-25 21:42:47.466167 - INFO - Obteniendo Credenciales
+2025-09-25 21:42:48.206909 - INFO - Inicio de Intento: 5
+2025-09-25 21:42:50.453751 - INFO - Haciendo busqueda de trabajos
+2025-09-25 21:42:55.556303 - INFO - Fin de Intento: 5
+2025-09-25 21:42:55.556303 - INFO - Ya se dio 5 intentos de busqueda
+2025-09-25 21:42:55.556303 - INFO - Validación de envio de correo por robot operativo
+2025-09-25 21:42:58.119362 - INFO - Correo enviado para notificar que el robot se encuentra operativo
+2025-09-25 21:46:27.415678 - INFO - Robot Transperfect iniciado
+2025-09-25 21:46:27.431312 - INFO - Obteniendo Credenciales
+2025-09-25 21:46:27.446933 - INFO - Abrir navegador
+2025-09-25 21:46:36.398677 - INFO - Se aceptaron todas las Cookies
+2025-09-25 21:46:36.422632 - INFO - Ingresando a ventana de Login
+2025-09-25 21:46:36.424643 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 21:46:42.268488 - INFO - Sesión iniciada
+2025-09-25 21:46:42.315307 - INFO - Fin de iteración
+2025-09-25 21:46:42.315307 - INFO - Obteniendo Credenciales
+2025-09-25 21:46:42.330933 - INFO - Ingresando a ventana de Login
+2025-09-25 21:46:42.346555 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 21:46:52.545206 - INFO - Sesión iniciada
+2025-09-25 21:46:52.836282 - INFO - Inicio de Intento: 1
+2025-09-25 21:46:55.219403 - INFO - Haciendo busqueda de trabajos
+2025-09-25 21:47:00.346449 - INFO - Fin de Intento: 1
+2025-09-25 21:47:20.346841 - INFO - Fin de iteración
+2025-09-25 21:47:20.362425 - INFO - Obteniendo Credenciales
+2025-09-25 21:47:21.130506 - INFO - Inicio de Intento: 2
+2025-09-25 21:47:23.402852 - INFO - Haciendo busqueda de trabajos
+2025-09-25 21:47:28.539464 - INFO - Fin de Intento: 2
+2025-09-25 21:47:48.541104 - INFO - Fin de iteración
+2025-09-25 21:47:48.556675 - INFO - Obteniendo Credenciales
+2025-09-25 21:47:49.308207 - INFO - Inicio de Intento: 3
+2025-09-25 21:47:51.573077 - INFO - Haciendo busqueda de trabajos
+2025-09-25 21:47:56.710384 - INFO - Fin de Intento: 3
+2025-09-25 21:48:16.725358 - INFO - Fin de iteración
+2025-09-25 21:48:16.725358 - INFO - Obteniendo Credenciales
+2025-09-25 21:48:17.512552 - INFO - Inicio de Intento: 4
+2025-09-25 21:48:19.814972 - INFO - Haciendo busqueda de trabajos
+2025-09-25 21:48:24.917224 - INFO - Fin de Intento: 4
+2025-09-25 21:48:44.921547 - INFO - Fin de iteración
+2025-09-25 21:48:44.937131 - INFO - Obteniendo Credenciales
+2025-09-25 21:48:45.610112 - INFO - Inicio de Intento: 5
+2025-09-25 21:48:48.353223 - INFO - Haciendo busqueda de trabajos
+2025-09-25 21:48:53.469127 - INFO - Fin de Intento: 5
+2025-09-25 21:48:53.469127 - INFO - Ya se dio 5 intentos de busqueda
+2025-09-25 21:48:53.469127 - INFO - Validación de envio de correo por robot operativo
+2025-09-25 21:48:54.750180 - INFO - Correo enviado para notificar que el robot se encuentra operativo
+2025-09-25 21:52:23.338531 - INFO - Robot Transperfect iniciado
+2025-09-25 21:52:23.338531 - INFO - Obteniendo Credenciales
+2025-09-25 21:52:23.354159 - INFO - Abrir navegador
+2025-09-25 21:52:32.270593 - INFO - Se aceptaron todas las Cookies
+2025-09-25 21:52:32.296610 - INFO - Ingresando a ventana de Login
+2025-09-25 21:52:32.305602 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 21:52:38.393229 - INFO - Sesión iniciada
+2025-09-25 21:52:38.408799 - INFO - Fin de iteración
+2025-09-25 21:52:38.408799 - INFO - Obteniendo Credenciales
+2025-09-25 21:52:38.440043 - INFO - Ingresando a ventana de Login
+2025-09-25 21:52:38.440043 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 21:52:48.753167 - INFO - Sesión iniciada
+2025-09-25 21:52:49.097282 - INFO - Inicio de Intento: 1
+2025-09-25 21:52:52.105663 - INFO - Haciendo busqueda de trabajos
+2025-09-25 21:52:57.187866 - INFO - Fin de Intento: 1
+2025-09-25 21:53:17.188590 - INFO - Fin de iteración
+2025-09-25 21:53:17.204166 - INFO - Obteniendo Credenciales
+2025-09-25 21:53:17.946442 - INFO - Inicio de Intento: 2
+2025-09-25 21:53:20.389261 - INFO - Haciendo busqueda de trabajos
+2025-09-25 21:53:25.521221 - INFO - Fin de Intento: 2
+2025-09-25 21:53:45.536765 - INFO - Fin de iteración
+2025-09-25 21:53:45.536765 - INFO - Obteniendo Credenciales
+2025-09-25 21:53:46.242050 - INFO - Inicio de Intento: 3
+2025-09-25 21:53:48.502352 - INFO - Haciendo busqueda de trabajos
+2025-09-25 21:53:53.661815 - INFO - Fin de Intento: 3
+2025-09-25 21:54:13.664331 - INFO - Fin de iteración
+2025-09-25 21:54:13.664331 - INFO - Obteniendo Credenciales
+2025-09-25 21:54:14.467985 - INFO - Inicio de Intento: 4
+2025-09-25 21:54:16.705652 - INFO - Haciendo busqueda de trabajos
+2025-09-25 21:54:21.836293 - INFO - Fin de Intento: 4
+2025-09-25 21:54:41.837709 - INFO - Fin de iteración
+2025-09-25 21:54:41.837709 - INFO - Obteniendo Credenciales
+2025-09-25 21:54:42.598839 - INFO - Inicio de Intento: 5
+2025-09-25 21:54:45.374426 - INFO - Haciendo busqueda de trabajos
+2025-09-25 21:54:50.474626 - INFO - Fin de Intento: 5
+2025-09-25 21:54:50.474626 - INFO - Ya se dio 5 intentos de busqueda
+2025-09-25 21:54:50.474626 - INFO - Validación de envio de correo por robot operativo
+2025-09-25 21:54:52.351050 - INFO - Correo enviado para notificar que el robot se encuentra operativo
+2025-09-25 21:58:20.876200 - INFO - Robot Transperfect iniciado
+2025-09-25 21:58:20.876200 - INFO - Obteniendo Credenciales
+2025-09-25 21:58:20.891832 - INFO - Abrir navegador
+2025-09-25 21:58:27.105939 - INFO - Se aceptaron todas las Cookies
+2025-09-25 21:58:29.621482 - INFO - Ingresando a ventana de Login
+2025-09-25 21:58:29.623486 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 21:58:42.195089 - INFO - Sesión iniciada
+2025-09-25 21:58:42.207159 - INFO - Fin de iteración
+2025-09-25 21:58:42.207969 - INFO - Obteniendo Credenciales
+2025-09-25 21:58:42.222988 - INFO - Ingresando a ventana de Login
+2025-09-25 21:58:42.222988 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 21:58:52.457501 - INFO - Sesión iniciada
+2025-09-25 21:58:52.823207 - INFO - Inicio de Intento: 1
+2025-09-25 21:58:55.108216 - INFO - Haciendo busqueda de trabajos
+2025-09-25 21:59:00.257121 - INFO - Fin de Intento: 1
+2025-09-25 21:59:20.271580 - INFO - Fin de iteración
+2025-09-25 21:59:20.271580 - INFO - Obteniendo Credenciales
+2025-09-25 21:59:21.048684 - INFO - Inicio de Intento: 2
+2025-09-25 21:59:23.300967 - INFO - Haciendo busqueda de trabajos
+2025-09-25 21:59:28.403925 - INFO - Fin de Intento: 2
+2025-09-25 21:59:48.419903 - INFO - Fin de iteración
+2025-09-25 21:59:48.419903 - INFO - Obteniendo Credenciales
+2025-09-25 21:59:49.195504 - INFO - Inicio de Intento: 3
+2025-09-25 21:59:51.486711 - INFO - Haciendo busqueda de trabajos
+2025-09-25 21:59:56.621332 - INFO - Fin de Intento: 3
+2025-09-25 22:00:16.622230 - INFO - Fin de iteración
+2025-09-25 22:00:16.622230 - INFO - Obteniendo Credenciales
+2025-09-25 22:00:17.406015 - INFO - Inicio de Intento: 4
+2025-09-25 22:00:19.635688 - INFO - Haciendo busqueda de trabajos
+2025-09-25 22:00:24.805606 - INFO - Fin de Intento: 4
+2025-09-25 22:00:44.820719 - INFO - Fin de iteración
+2025-09-25 22:00:44.820719 - INFO - Obteniendo Credenciales
+2025-09-25 22:00:45.555989 - INFO - Inicio de Intento: 5
+2025-09-25 22:00:48.315569 - INFO - Haciendo busqueda de trabajos
+2025-09-25 22:00:53.445488 - INFO - Fin de Intento: 5
+2025-09-25 22:00:53.445488 - INFO - Ya se dio 5 intentos de busqueda
+2025-09-25 22:00:53.445488 - INFO - Validación de envio de correo por robot operativo
+2025-09-25 22:00:55.977913 - INFO - Correo enviado para notificar que el robot se encuentra operativo
+2025-09-25 22:04:29.007437 - INFO - Robot Transperfect iniciado
+2025-09-25 22:04:29.007437 - INFO - Obteniendo Credenciales
+2025-09-25 22:04:29.023063 - INFO - Abrir navegador
+2025-09-25 22:04:35.837944 - INFO - Se aceptaron todas las Cookies
+2025-09-25 22:04:38.016791 - INFO - Ingresando a ventana de Login
+2025-09-25 22:04:38.018795 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 22:04:43.750146 - INFO - Sesión iniciada
+2025-09-25 22:04:43.765731 - INFO - Fin de iteración
+2025-09-25 22:04:43.765731 - INFO - Obteniendo Credenciales
+2025-09-25 22:04:43.796974 - INFO - Ingresando a ventana de Login
+2025-09-25 22:04:43.796974 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 22:04:53.995217 - INFO - Sesión iniciada
+2025-09-25 22:04:54.311415 - INFO - Inicio de Intento: 1
+2025-09-25 22:04:56.943004 - INFO - Haciendo busqueda de trabajos
+2025-09-25 22:05:02.078903 - INFO - Fin de Intento: 1
+2025-09-25 22:05:22.078915 - INFO - Fin de iteración
+2025-09-25 22:05:22.094479 - INFO - Obteniendo Credenciales
+2025-09-25 22:05:22.862906 - INFO - Inicio de Intento: 2
+2025-09-25 22:05:25.027009 - INFO - Haciendo busqueda de trabajos
+2025-09-25 22:05:30.138492 - INFO - Fin de Intento: 2
+2025-09-25 22:05:50.141867 - INFO - Fin de iteración
+2025-09-25 22:05:50.141867 - INFO - Obteniendo Credenciales
+2025-09-25 22:05:50.851173 - INFO - Inicio de Intento: 3
+2025-09-25 22:05:53.041974 - INFO - Haciendo busqueda de trabajos
+2025-09-25 22:05:58.154189 - INFO - Fin de Intento: 3
+2025-09-25 22:06:18.160800 - INFO - Fin de iteración
+2025-09-25 22:06:18.160800 - INFO - Obteniendo Credenciales
+2025-09-25 22:06:18.925288 - INFO - Inicio de Intento: 4
+2025-09-25 22:06:21.161686 - INFO - Haciendo busqueda de trabajos
+2025-09-25 22:06:26.280154 - INFO - Fin de Intento: 4
+2025-09-25 22:06:46.286590 - INFO - Fin de iteración
+2025-09-25 22:06:46.286590 - INFO - Obteniendo Credenciales
+2025-09-25 22:06:47.050259 - INFO - Inicio de Intento: 5
+2025-09-25 22:06:49.320674 - INFO - Haciendo busqueda de trabajos
+2025-09-25 22:06:54.428495 - INFO - Fin de Intento: 5
+2025-09-25 22:06:54.428495 - INFO - Ya se dio 5 intentos de busqueda
+2025-09-25 22:06:54.428495 - INFO - Validación de envio de correo por robot operativo
+2025-09-25 22:06:55.693140 - INFO - Correo enviado para notificar que el robot se encuentra operativo
+2025-09-25 22:10:23.936510 - INFO - Robot Transperfect iniciado
+2025-09-25 22:10:23.936510 - INFO - Obteniendo Credenciales
+2025-09-25 22:10:23.967756 - INFO - Abrir navegador
+2025-09-25 22:10:33.105315 - INFO - Se aceptaron todas las Cookies
+2025-09-25 22:10:33.132521 - INFO - Ingresando a ventana de Login
+2025-09-25 22:10:33.134523 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 22:10:38.676948 - INFO - Sesión iniciada
+2025-09-25 22:10:38.692538 - INFO - Fin de iteración
+2025-09-25 22:10:38.692538 - INFO - Obteniendo Credenciales
+2025-09-25 22:10:38.755025 - INFO - Ingresando a ventana de Login
+2025-09-25 22:10:38.755025 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 22:10:48.897905 - INFO - Sesión iniciada
+2025-09-25 22:10:49.225286 - INFO - Inicio de Intento: 1
+2025-09-25 22:10:51.835671 - INFO - Haciendo busqueda de trabajos
+2025-09-25 22:10:56.960513 - INFO - Fin de Intento: 1
+2025-09-25 22:11:16.961151 - INFO - Fin de iteración
+2025-09-25 22:11:16.976731 - INFO - Obteniendo Credenciales
+2025-09-25 22:11:17.741722 - INFO - Inicio de Intento: 2
+2025-09-25 22:11:19.959846 - INFO - Haciendo busqueda de trabajos
+2025-09-25 22:11:25.089934 - INFO - Fin de Intento: 2
+2025-09-25 22:11:45.102636 - INFO - Fin de iteración
+2025-09-25 22:11:45.102636 - INFO - Obteniendo Credenciales
+2025-09-25 22:11:45.874985 - INFO - Inicio de Intento: 3
+2025-09-25 22:11:48.083459 - INFO - Haciendo busqueda de trabajos
+2025-09-25 22:11:53.218103 - INFO - Fin de Intento: 3
+2025-09-25 22:12:13.226261 - INFO - Fin de iteración
+2025-09-25 22:12:13.226261 - INFO - Obteniendo Credenciales
+2025-09-25 22:12:14.015124 - INFO - Inicio de Intento: 4
+2025-09-25 22:12:16.305334 - INFO - Haciendo busqueda de trabajos
+2025-09-25 22:12:21.422746 - INFO - Fin de Intento: 4
+2025-09-25 22:12:41.429243 - INFO - Fin de iteración
+2025-09-25 22:12:41.444825 - INFO - Obteniendo Credenciales
+2025-09-25 22:12:42.123057 - INFO - Inicio de Intento: 5
+2025-09-25 22:12:44.421549 - INFO - Haciendo busqueda de trabajos
+2025-09-25 22:12:49.546860 - INFO - Fin de Intento: 5
+2025-09-25 22:12:49.546860 - INFO - Ya se dio 5 intentos de busqueda
+2025-09-25 22:12:49.546860 - INFO - Validación de envio de correo por robot operativo
+2025-09-25 22:12:50.782203 - INFO - Correo enviado para notificar que el robot se encuentra operativo
+2025-09-25 22:16:20.267342 - INFO - Robot Transperfect iniciado
+2025-09-25 22:16:20.267342 - INFO - Obteniendo Credenciales
+2025-09-25 22:16:20.282969 - INFO - Abrir navegador
+2025-09-25 22:16:29.093865 - INFO - Se aceptaron todas las Cookies
+2025-09-25 22:16:29.116444 - INFO - Ingresando a ventana de Login
+2025-09-25 22:16:29.118433 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 22:16:35.162381 - INFO - Sesión iniciada
+2025-09-25 22:16:35.162381 - INFO - Fin de iteración
+2025-09-25 22:16:35.177959 - INFO - Obteniendo Credenciales
+2025-09-25 22:16:35.193586 - INFO - Ingresando a ventana de Login
+2025-09-25 22:16:35.193586 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 22:16:45.363220 - INFO - Sesión iniciada
+2025-09-25 22:16:45.685047 - INFO - Inicio de Intento: 1
+2025-09-25 22:16:48.271483 - INFO - Haciendo busqueda de trabajos
+2025-09-25 22:16:53.370416 - INFO - Fin de Intento: 1
+2025-09-25 22:17:13.383483 - INFO - Fin de iteración
+2025-09-25 22:17:13.399058 - INFO - Obteniendo Credenciales
+2025-09-25 22:17:14.147470 - INFO - Inicio de Intento: 2
+2025-09-25 22:17:16.334418 - INFO - Haciendo busqueda de trabajos
+2025-09-25 22:17:21.447683 - INFO - Fin de Intento: 2
+2025-09-25 22:17:41.456144 - INFO - Fin de iteración
+2025-09-25 22:17:41.456144 - INFO - Obteniendo Credenciales
+2025-09-25 22:17:42.221691 - INFO - Inicio de Intento: 3
+2025-09-25 22:17:44.420274 - INFO - Haciendo busqueda de trabajos
+2025-09-25 22:17:49.546597 - INFO - Fin de Intento: 3
+2025-09-25 22:18:09.546851 - INFO - Fin de iteración
+2025-09-25 22:18:09.562396 - INFO - Obteniendo Credenciales
+2025-09-25 22:18:10.276665 - INFO - Inicio de Intento: 4
+2025-09-25 22:18:12.586438 - INFO - Haciendo busqueda de trabajos
+2025-09-25 22:18:17.698161 - INFO - Fin de Intento: 4
+2025-09-25 22:18:37.713688 - INFO - Fin de iteración
+2025-09-25 22:18:37.729267 - INFO - Obteniendo Credenciales
+2025-09-25 22:18:38.432706 - INFO - Inicio de Intento: 5
+2025-09-25 22:18:40.855143 - INFO - Haciendo busqueda de trabajos
+2025-09-25 22:18:45.944894 - INFO - Fin de Intento: 5
+2025-09-25 22:18:45.944894 - INFO - Ya se dio 5 intentos de busqueda
+2025-09-25 22:18:45.944894 - INFO - Validación de envio de correo por robot operativo
+2025-09-25 22:18:47.241781 - INFO - Correo enviado para notificar que el robot se encuentra operativo
+2025-09-25 22:22:16.582666 - INFO - Robot Transperfect iniciado
+2025-09-25 22:22:16.582666 - INFO - Obteniendo Credenciales
+2025-09-25 22:22:16.598289 - INFO - Abrir navegador
+2025-09-25 22:22:26.129327 - INFO - Se aceptaron todas las Cookies
+2025-09-25 22:22:26.155331 - INFO - Ingresando a ventana de Login
+2025-09-25 22:22:26.160333 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 22:22:31.902132 - INFO - Sesión iniciada
+2025-09-25 22:22:31.917722 - INFO - Fin de iteración
+2025-09-25 22:22:31.917722 - INFO - Obteniendo Credenciales
+2025-09-25 22:22:31.933353 - INFO - Ingresando a ventana de Login
+2025-09-25 22:22:31.933353 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 22:22:42.185919 - INFO - Sesión iniciada
+2025-09-25 22:22:42.864442 - INFO - Inicio de Intento: 1
+2025-09-25 22:22:45.228794 - INFO - Haciendo busqueda de trabajos
+2025-09-25 22:22:50.355983 - INFO - Fin de Intento: 1
+2025-09-25 22:23:10.367871 - INFO - Fin de iteración
+2025-09-25 22:23:10.383423 - INFO - Obteniendo Credenciales
+2025-09-25 22:23:11.135251 - INFO - Inicio de Intento: 2
+2025-09-25 22:23:13.690642 - INFO - Haciendo busqueda de trabajos
+2025-09-25 22:23:18.838828 - INFO - Fin de Intento: 2
+2025-09-25 22:23:38.853991 - INFO - Fin de iteración
+2025-09-25 22:23:38.869587 - INFO - Obteniendo Credenciales
+2025-09-25 22:23:39.639763 - INFO - Inicio de Intento: 3
+2025-09-25 22:23:41.835513 - INFO - Haciendo busqueda de trabajos
+2025-09-25 22:23:46.977875 - INFO - Fin de Intento: 3
+2025-09-25 22:24:06.993178 - INFO - Fin de iteración
+2025-09-25 22:24:07.008750 - INFO - Obteniendo Credenciales
+2025-09-25 22:24:07.769527 - INFO - Inicio de Intento: 4
+2025-09-25 22:24:10.029048 - INFO - Haciendo busqueda de trabajos
+2025-09-25 22:24:15.114527 - INFO - Fin de Intento: 4
+2025-09-25 22:24:35.127867 - INFO - Fin de iteración
+2025-09-25 22:24:35.143444 - INFO - Obteniendo Credenciales
+2025-09-25 22:24:35.848793 - INFO - Inicio de Intento: 5
+2025-09-25 22:24:38.505921 - INFO - Haciendo busqueda de trabajos
+2025-09-25 22:24:43.644340 - INFO - Fin de Intento: 5
+2025-09-25 22:24:43.644340 - INFO - Ya se dio 5 intentos de busqueda
+2025-09-25 22:24:43.644340 - INFO - Validación de envio de correo por robot operativo
+2025-09-25 22:24:44.815774 - INFO - Correo enviado para notificar que el robot se encuentra operativo
+2025-09-25 22:28:12.206736 - INFO - Robot Transperfect iniciado
+2025-09-25 22:28:12.206736 - INFO - Obteniendo Credenciales
+2025-09-25 22:28:12.222361 - INFO - Abrir navegador
+2025-09-25 22:28:21.410204 - INFO - Se aceptaron todas las Cookies
+2025-09-25 22:28:21.438999 - INFO - Ingresando a ventana de Login
+2025-09-25 22:28:21.442003 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 22:28:28.416062 - INFO - Sesión iniciada
+2025-09-25 22:28:28.421046 - INFO - Fin de iteración
+2025-09-25 22:28:28.435057 - INFO - Obteniendo Credenciales
+2025-09-25 22:28:28.457052 - INFO - Ingresando a ventana de Login
+2025-09-25 22:28:28.460287 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 22:28:38.626014 - INFO - Sesión iniciada
+2025-09-25 22:28:39.296006 - INFO - Inicio de Intento: 1
+2025-09-25 22:28:41.552100 - INFO - Haciendo busqueda de trabajos
+2025-09-25 22:28:46.691709 - INFO - Fin de Intento: 1
+2025-09-25 22:29:06.696842 - INFO - Fin de iteración
+2025-09-25 22:29:06.696842 - INFO - Obteniendo Credenciales
+2025-09-25 22:29:07.467409 - INFO - Inicio de Intento: 2
+2025-09-25 22:29:10.130407 - INFO - Haciendo busqueda de trabajos
+2025-09-25 22:29:15.272875 - INFO - Fin de Intento: 2
+2025-09-25 22:29:35.278356 - INFO - Fin de iteración
+2025-09-25 22:29:35.293937 - INFO - Obteniendo Credenciales
+2025-09-25 22:29:36.075619 - INFO - Inicio de Intento: 3
+2025-09-25 22:29:38.363033 - INFO - Haciendo busqueda de trabajos
+2025-09-25 22:29:43.456623 - INFO - Fin de Intento: 3
+2025-09-25 22:30:03.456680 - INFO - Fin de iteración
+2025-09-25 22:30:03.456680 - INFO - Obteniendo Credenciales
+2025-09-25 22:30:04.238991 - INFO - Inicio de Intento: 4
+2025-09-25 22:30:06.459141 - INFO - Haciendo busqueda de trabajos
+2025-09-25 22:30:11.588710 - INFO - Fin de Intento: 4
+2025-09-25 22:30:31.604932 - INFO - Fin de iteración
+2025-09-25 22:30:31.616885 - INFO - Obteniendo Credenciales
+2025-09-25 22:30:32.316123 - INFO - Inicio de Intento: 5
+2025-09-25 22:30:34.577331 - INFO - Haciendo busqueda de trabajos
+2025-09-25 22:30:39.686715 - INFO - Fin de Intento: 5
+2025-09-25 22:30:39.687504 - INFO - Ya se dio 5 intentos de busqueda
+2025-09-25 22:30:39.689516 - INFO - Validación de envio de correo por robot operativo
+2025-09-25 22:30:40.985301 - INFO - Correo enviado para notificar que el robot se encuentra operativo
+2025-09-25 22:34:14.210169 - INFO - Robot Transperfect iniciado
+2025-09-25 22:34:14.210169 - INFO - Obteniendo Credenciales
+2025-09-25 22:34:14.225806 - INFO - Abrir navegador
+2025-09-25 22:34:23.187186 - INFO - Se aceptaron todas las Cookies
+2025-09-25 22:34:23.215032 - INFO - Ingresando a ventana de Login
+2025-09-25 22:34:23.218034 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 22:34:29.246983 - INFO - Sesión iniciada
+2025-09-25 22:34:29.262551 - INFO - Fin de iteración
+2025-09-25 22:34:29.262551 - INFO - Obteniendo Credenciales
+2025-09-25 22:34:29.309423 - INFO - Ingresando a ventana de Login
+2025-09-25 22:34:29.309423 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 22:34:39.556277 - INFO - Sesión iniciada
+2025-09-25 22:34:39.906270 - INFO - Inicio de Intento: 1
+2025-09-25 22:34:42.646917 - INFO - Haciendo busqueda de trabajos
+2025-09-25 22:34:47.729472 - INFO - Fin de Intento: 1
+2025-09-25 22:35:07.739708 - INFO - Fin de iteración
+2025-09-25 22:35:07.755271 - INFO - Obteniendo Credenciales
+2025-09-25 22:35:08.521950 - INFO - Inicio de Intento: 2
+2025-09-25 22:35:10.891036 - INFO - Haciendo busqueda de trabajos
+2025-09-25 22:35:15.999140 - INFO - Fin de Intento: 2
+2025-09-25 22:35:36.008163 - INFO - Fin de iteración
+2025-09-25 22:35:36.008163 - INFO - Obteniendo Credenciales
+2025-09-25 22:35:36.732476 - INFO - Inicio de Intento: 3
+2025-09-25 22:35:38.918022 - INFO - Haciendo busqueda de trabajos
+2025-09-25 22:35:44.029956 - INFO - Fin de Intento: 3
+2025-09-25 22:36:04.042149 - INFO - Fin de iteración
+2025-09-25 22:36:04.042149 - INFO - Obteniendo Credenciales
+2025-09-25 22:36:04.807965 - INFO - Inicio de Intento: 4
+2025-09-25 22:36:07.077353 - INFO - Haciendo busqueda de trabajos
+2025-09-25 22:36:12.236902 - INFO - Fin de Intento: 4
+2025-09-25 22:36:32.251737 - INFO - Fin de iteración
+2025-09-25 22:36:32.251737 - INFO - Obteniendo Credenciales
+2025-09-25 22:36:33.026836 - INFO - Inicio de Intento: 5
+2025-09-25 22:36:35.287069 - INFO - Haciendo busqueda de trabajos
+2025-09-25 22:36:40.381580 - INFO - Fin de Intento: 5
+2025-09-25 22:36:40.381580 - INFO - Ya se dio 5 intentos de busqueda
+2025-09-25 22:36:40.381580 - INFO - Validación de envio de correo por robot operativo
+2025-09-25 22:36:42.258226 - INFO - Correo enviado para notificar que el robot se encuentra operativo
+2025-09-25 22:40:10.787428 - INFO - Robot Transperfect iniciado
+2025-09-25 22:40:10.787428 - INFO - Obteniendo Credenciales
+2025-09-25 22:40:10.803049 - INFO - Abrir navegador
+2025-09-25 22:40:19.877523 - INFO - Se aceptaron todas las Cookies
+2025-09-25 22:40:19.905861 - INFO - Ingresando a ventana de Login
+2025-09-25 22:40:19.907861 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 22:40:25.959485 - INFO - Sesión iniciada
+2025-09-25 22:40:25.975066 - INFO - Fin de iteración
+2025-09-25 22:40:26.006323 - INFO - Obteniendo Credenciales
+2025-09-25 22:40:26.037568 - INFO - Ingresando a ventana de Login
+2025-09-25 22:40:26.037568 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 22:40:36.257890 - INFO - Sesión iniciada
+2025-09-25 22:40:36.577956 - INFO - Inicio de Intento: 1
+2025-09-25 22:40:39.353958 - INFO - Haciendo busqueda de trabajos
+2025-09-25 22:40:44.496301 - INFO - Fin de Intento: 1
+2025-09-25 22:41:04.498684 - INFO - Fin de iteración
+2025-09-25 22:41:04.514237 - INFO - Obteniendo Credenciales
+2025-09-25 22:41:05.272754 - INFO - Inicio de Intento: 2
+2025-09-25 22:41:07.945516 - INFO - Haciendo busqueda de trabajos
+2025-09-25 22:41:13.036164 - INFO - Fin de Intento: 2
+2025-09-25 22:41:33.045686 - INFO - Fin de iteración
+2025-09-25 22:41:33.061265 - INFO - Obteniendo Credenciales
+2025-09-25 22:41:33.862345 - INFO - Inicio de Intento: 3
+2025-09-25 22:41:36.134874 - INFO - Haciendo busqueda de trabajos
+2025-09-25 22:41:41.235420 - INFO - Fin de Intento: 3
+2025-09-25 22:42:01.243049 - INFO - Fin de iteración
+2025-09-25 22:42:01.243049 - INFO - Obteniendo Credenciales
+2025-09-25 22:42:02.016320 - INFO - Inicio de Intento: 4
+2025-09-25 22:42:04.242870 - INFO - Haciendo busqueda de trabajos
+2025-09-25 22:42:09.388644 - INFO - Fin de Intento: 4
+2025-09-25 22:42:29.401237 - INFO - Fin de iteración
+2025-09-25 22:42:29.416815 - INFO - Obteniendo Credenciales
+2025-09-25 22:42:30.092698 - INFO - Inicio de Intento: 5
+2025-09-25 22:42:32.456779 - INFO - Haciendo busqueda de trabajos
+2025-09-25 22:42:37.592765 - INFO - Fin de Intento: 5
+2025-09-25 22:42:37.592765 - INFO - Ya se dio 5 intentos de busqueda
+2025-09-25 22:42:37.592765 - INFO - Validación de envio de correo por robot operativo
+2025-09-25 22:42:39.483937 - INFO - Correo enviado para notificar que el robot se encuentra operativo
+2025-09-25 22:46:08.044551 - INFO - Robot Transperfect iniciado
+2025-09-25 22:46:08.044551 - INFO - Obteniendo Credenciales
+2025-09-25 22:46:08.060168 - INFO - Abrir navegador
+2025-09-25 22:46:16.782187 - INFO - Se aceptaron todas las Cookies
+2025-09-25 22:46:16.808792 - INFO - Ingresando a ventana de Login
+2025-09-25 22:46:16.810801 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 22:46:23.543928 - INFO - Sesión iniciada
+2025-09-25 22:46:23.547926 - INFO - Fin de iteración
+2025-09-25 22:46:23.560920 - INFO - Obteniendo Credenciales
+2025-09-25 22:46:23.587022 - INFO - Ingresando a ventana de Login
+2025-09-25 22:46:23.588925 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 22:46:33.794330 - INFO - Sesión iniciada
+2025-09-25 22:46:34.515911 - INFO - Inicio de Intento: 1
+2025-09-25 22:46:36.851595 - INFO - Haciendo busqueda de trabajos
+2025-09-25 22:46:41.994876 - INFO - Fin de Intento: 1
+2025-09-25 22:47:02.006815 - INFO - Fin de iteración
+2025-09-25 22:47:02.006815 - INFO - Obteniendo Credenciales
+2025-09-25 22:47:02.780991 - INFO - Inicio de Intento: 2
+2025-09-25 22:47:05.083334 - INFO - Haciendo busqueda de trabajos
+2025-09-25 22:47:10.211361 - INFO - Fin de Intento: 2
+2025-09-25 22:47:30.223320 - INFO - Fin de iteración
+2025-09-25 22:47:30.223320 - INFO - Obteniendo Credenciales
+2025-09-25 22:47:30.995380 - INFO - Inicio de Intento: 3
+2025-09-25 22:47:33.247262 - INFO - Haciendo busqueda de trabajos
+2025-09-25 22:47:38.340447 - INFO - Fin de Intento: 3
+2025-09-25 22:47:58.349332 - INFO - Fin de iteración
+2025-09-25 22:47:58.364909 - INFO - Obteniendo Credenciales
+2025-09-25 22:47:59.113491 - INFO - Inicio de Intento: 4
+2025-09-25 22:48:01.725449 - INFO - Haciendo busqueda de trabajos
+2025-09-25 22:48:06.844872 - INFO - Fin de Intento: 4
+2025-09-25 22:48:26.859703 - INFO - Fin de iteración
+2025-09-25 22:48:26.859703 - INFO - Obteniendo Credenciales
+2025-09-25 22:48:27.687447 - INFO - Inicio de Intento: 5
+2025-09-25 22:48:29.891029 - INFO - Haciendo busqueda de trabajos
+2025-09-25 22:48:35.015869 - INFO - Fin de Intento: 5
+2025-09-25 22:48:35.015869 - INFO - Ya se dio 5 intentos de busqueda
+2025-09-25 22:48:35.015869 - INFO - Validación de envio de correo por robot operativo
+2025-09-25 22:48:37.541989 - INFO - Correo enviado para notificar que el robot se encuentra operativo
+2025-09-25 22:52:05.664957 - INFO - Robot Transperfect iniciado
+2025-09-25 22:52:05.664957 - INFO - Obteniendo Credenciales
+2025-09-25 22:52:05.680577 - INFO - Abrir navegador
+2025-09-25 22:52:14.981929 - INFO - Se aceptaron todas las Cookies
+2025-09-25 22:52:15.006756 - INFO - Ingresando a ventana de Login
+2025-09-25 22:52:15.009754 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 22:52:21.068013 - INFO - Sesión iniciada
+2025-09-25 22:52:21.083597 - INFO - Fin de iteración
+2025-09-25 22:52:21.083597 - INFO - Obteniendo Credenciales
+2025-09-25 22:52:21.099227 - INFO - Ingresando a ventana de Login
+2025-09-25 22:52:21.146101 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 22:52:31.321140 - INFO - Sesión iniciada
+2025-09-25 22:52:31.620965 - INFO - Inicio de Intento: 1
+2025-09-25 22:52:34.167848 - INFO - Haciendo busqueda de trabajos
+2025-09-25 22:52:39.288721 - INFO - Fin de Intento: 1
+2025-09-25 22:52:59.290989 - INFO - Fin de iteración
+2025-09-25 22:52:59.290989 - INFO - Obteniendo Credenciales
+2025-09-25 22:53:00.128995 - INFO - Inicio de Intento: 2
+2025-09-25 22:53:02.462855 - INFO - Haciendo busqueda de trabajos
+2025-09-25 22:53:07.564840 - INFO - Fin de Intento: 2
+2025-09-25 22:53:27.573261 - INFO - Fin de iteración
+2025-09-25 22:53:27.588845 - INFO - Obteniendo Credenciales
+2025-09-25 22:53:28.307015 - INFO - Inicio de Intento: 3
+2025-09-25 22:53:30.651156 - INFO - Haciendo busqueda de trabajos
+2025-09-25 22:53:35.767572 - INFO - Fin de Intento: 3
+2025-09-25 22:53:55.774233 - INFO - Fin de iteración
+2025-09-25 22:53:55.774233 - INFO - Obteniendo Credenciales
+2025-09-25 22:53:56.569098 - INFO - Inicio de Intento: 4
+2025-09-25 22:53:58.813798 - INFO - Haciendo busqueda de trabajos
+2025-09-25 22:54:03.921228 - INFO - Fin de Intento: 4
+2025-09-25 22:54:23.931101 - INFO - Fin de iteración
+2025-09-25 22:54:23.943875 - INFO - Obteniendo Credenciales
+2025-09-25 22:54:24.689455 - INFO - Inicio de Intento: 5
+2025-09-25 22:54:27.169667 - INFO - Haciendo busqueda de trabajos
+2025-09-25 22:54:32.295924 - INFO - Fin de Intento: 5
+2025-09-25 22:54:32.296924 - INFO - Ya se dio 5 intentos de busqueda
+2025-09-25 22:54:32.299920 - INFO - Validación de envio de correo por robot operativo
+2025-09-25 22:54:34.776005 - INFO - Correo enviado para notificar que el robot se encuentra operativo
+2025-09-25 22:58:06.243149 - INFO - Robot Transperfect iniciado
+2025-09-25 22:58:06.243149 - INFO - Obteniendo Credenciales
+2025-09-25 22:58:06.274396 - INFO - Abrir navegador
+2025-09-25 22:58:15.453675 - INFO - Se aceptaron todas las Cookies
+2025-09-25 22:58:15.477433 - INFO - Ingresando a ventana de Login
+2025-09-25 22:58:15.480436 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 22:58:22.380190 - INFO - Sesión iniciada
+2025-09-25 22:58:22.392186 - INFO - Fin de iteración
+2025-09-25 22:58:22.396179 - INFO - Obteniendo Credenciales
+2025-09-25 22:58:22.413181 - INFO - Ingresando a ventana de Login
+2025-09-25 22:58:22.417181 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 22:58:32.595443 - INFO - Sesión iniciada
+2025-09-25 22:58:33.244922 - INFO - Inicio de Intento: 1
+2025-09-25 22:58:35.488186 - INFO - Haciendo busqueda de trabajos
+2025-09-25 22:58:40.602103 - INFO - Fin de Intento: 1
+2025-09-25 22:59:00.605128 - INFO - Fin de iteración
+2025-09-25 22:59:00.620687 - INFO - Obteniendo Credenciales
+2025-09-25 22:59:01.379601 - INFO - Inicio de Intento: 2
+2025-09-25 22:59:03.683321 - INFO - Haciendo busqueda de trabajos
+2025-09-25 22:59:08.849778 - INFO - Fin de Intento: 2
+2025-09-25 22:59:28.860620 - INFO - Fin de iteración
+2025-09-25 22:59:28.876160 - INFO - Obteniendo Credenciales
+2025-09-25 22:59:29.646529 - INFO - Inicio de Intento: 3
+2025-09-25 22:59:31.825549 - INFO - Haciendo busqueda de trabajos
+2025-09-25 22:59:36.934724 - INFO - Fin de Intento: 3
+2025-09-25 22:59:56.938220 - INFO - Fin de iteración
+2025-09-25 22:59:56.938220 - INFO - Obteniendo Credenciales
+2025-09-25 22:59:57.716481 - INFO - Inicio de Intento: 4
+2025-09-25 22:59:59.914626 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:00:05.004230 - INFO - Fin de Intento: 4
+2025-09-25 23:00:25.005920 - INFO - Fin de iteración
+2025-09-25 23:00:25.005920 - INFO - Obteniendo Credenciales
+2025-09-25 23:00:25.838299 - INFO - Inicio de Intento: 5
+2025-09-25 23:00:28.089136 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:00:33.184201 - INFO - Fin de Intento: 5
+2025-09-25 23:00:33.184201 - INFO - Ya se dio 5 intentos de busqueda
+2025-09-25 23:00:33.184201 - INFO - Validación de envio de correo por robot operativo
+2025-09-25 23:00:34.422718 - INFO - Correo enviado para notificar que el robot se encuentra operativo
+2025-09-25 23:04:02.685013 - INFO - Robot Transperfect iniciado
+2025-09-25 23:04:02.685013 - INFO - Obteniendo Credenciales
+2025-09-25 23:04:02.716276 - INFO - Abrir navegador
+2025-09-25 23:04:09.248982 - INFO - Se aceptaron todas las Cookies
+2025-09-25 23:04:12.031713 - INFO - Ingresando a ventana de Login
+2025-09-25 23:04:12.033703 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 23:04:17.986170 - INFO - Sesión iniciada
+2025-09-25 23:04:18.001747 - INFO - Fin de iteración
+2025-09-25 23:04:18.001747 - INFO - Obteniendo Credenciales
+2025-09-25 23:04:18.064246 - INFO - Ingresando a ventana de Login
+2025-09-25 23:04:18.064246 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 23:04:28.267865 - INFO - Sesión iniciada
+2025-09-25 23:04:28.584130 - INFO - Inicio de Intento: 1
+2025-09-25 23:04:31.084057 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:04:36.210107 - INFO - Fin de Intento: 1
+2025-09-25 23:04:56.210408 - INFO - Fin de iteración
+2025-09-25 23:04:56.225991 - INFO - Obteniendo Credenciales
+2025-09-25 23:04:56.964590 - INFO - Inicio de Intento: 2
+2025-09-25 23:04:59.606273 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:05:04.687011 - INFO - Fin de Intento: 2
+2025-09-25 23:05:24.702384 - INFO - Fin de iteración
+2025-09-25 23:05:24.702384 - INFO - Obteniendo Credenciales
+2025-09-25 23:05:25.434200 - INFO - Inicio de Intento: 3
+2025-09-25 23:05:27.646919 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:05:32.742304 - INFO - Fin de Intento: 3
+2025-09-25 23:05:52.743652 - INFO - Fin de iteración
+2025-09-25 23:05:52.759221 - INFO - Obteniendo Credenciales
+2025-09-25 23:05:53.499801 - INFO - Inicio de Intento: 4
+2025-09-25 23:05:55.755733 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:06:00.910765 - INFO - Fin de Intento: 4
+2025-09-25 23:06:20.914159 - INFO - Fin de iteración
+2025-09-25 23:06:20.929732 - INFO - Obteniendo Credenciales
+2025-09-25 23:06:21.615522 - INFO - Inicio de Intento: 5
+2025-09-25 23:06:23.902842 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:06:28.999174 - INFO - Fin de Intento: 5
+2025-09-25 23:06:28.999174 - INFO - Ya se dio 5 intentos de busqueda
+2025-09-25 23:06:28.999174 - INFO - Validación de envio de correo por robot operativo
+2025-09-25 23:06:31.544650 - INFO - Correo enviado para notificar que el robot se encuentra operativo
+2025-09-25 23:09:59.675655 - INFO - Robot Transperfect iniciado
+2025-09-25 23:09:59.691284 - INFO - Obteniendo Credenciales
+2025-09-25 23:09:59.706905 - INFO - Abrir navegador
+2025-09-25 23:10:08.628554 - INFO - Se aceptaron todas las Cookies
+2025-09-25 23:10:08.657826 - INFO - Ingresando a ventana de Login
+2025-09-25 23:10:08.659829 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 23:10:14.311738 - INFO - Sesión iniciada
+2025-09-25 23:10:14.327297 - INFO - Fin de iteración
+2025-09-25 23:10:14.327297 - INFO - Obteniendo Credenciales
+2025-09-25 23:10:14.374175 - INFO - Ingresando a ventana de Login
+2025-09-25 23:10:14.374175 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 23:10:24.628963 - INFO - Sesión iniciada
+2025-09-25 23:10:24.969587 - INFO - Inicio de Intento: 1
+2025-09-25 23:10:27.575041 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:10:32.694098 - INFO - Fin de Intento: 1
+2025-09-25 23:10:52.709547 - INFO - Fin de iteración
+2025-09-25 23:10:52.725120 - INFO - Obteniendo Credenciales
+2025-09-25 23:10:53.486062 - INFO - Inicio de Intento: 2
+2025-09-25 23:10:55.668988 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:11:00.848985 - INFO - Fin de Intento: 2
+2025-09-25 23:11:20.851794 - INFO - Fin de iteración
+2025-09-25 23:11:20.867376 - INFO - Obteniendo Credenciales
+2025-09-25 23:11:21.565410 - INFO - Inicio de Intento: 3
+2025-09-25 23:11:23.768971 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:11:28.879702 - INFO - Fin de Intento: 3
+2025-09-25 23:11:48.887262 - INFO - Fin de iteración
+2025-09-25 23:11:48.902839 - INFO - Obteniendo Credenciales
+2025-09-25 23:11:49.660173 - INFO - Inicio de Intento: 4
+2025-09-25 23:11:51.874600 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:11:56.989421 - INFO - Fin de Intento: 4
+2025-09-25 23:12:16.991856 - INFO - Fin de iteración
+2025-09-25 23:12:17.007414 - INFO - Obteniendo Credenciales
+2025-09-25 23:12:17.768532 - INFO - Inicio de Intento: 5
+2025-09-25 23:12:19.991715 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:12:25.100181 - INFO - Fin de Intento: 5
+2025-09-25 23:12:25.101188 - INFO - Ya se dio 5 intentos de busqueda
+2025-09-25 23:12:25.103182 - INFO - Validación de envio de correo por robot operativo
+2025-09-25 23:12:26.271996 - INFO - Correo enviado para notificar que el robot se encuentra operativo
+2025-09-25 23:15:55.125401 - INFO - Robot Transperfect iniciado
+2025-09-25 23:15:55.125401 - INFO - Obteniendo Credenciales
+2025-09-25 23:15:55.141025 - INFO - Abrir navegador
+2025-09-25 23:16:04.387421 - INFO - Se aceptaron todas las Cookies
+2025-09-25 23:16:04.418078 - INFO - Ingresando a ventana de Login
+2025-09-25 23:16:04.426081 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 23:16:10.588767 - INFO - Sesión iniciada
+2025-09-25 23:16:10.604355 - INFO - Fin de iteración
+2025-09-25 23:16:10.604355 - INFO - Obteniendo Credenciales
+2025-09-25 23:16:10.619971 - INFO - Ingresando a ventana de Login
+2025-09-25 23:16:10.619971 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 23:16:20.835892 - INFO - Sesión iniciada
+2025-09-25 23:16:21.537191 - INFO - Inicio de Intento: 1
+2025-09-25 23:16:23.804851 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:16:28.922692 - INFO - Fin de Intento: 1
+2025-09-25 23:16:48.923064 - INFO - Fin de iteración
+2025-09-25 23:16:48.938608 - INFO - Obteniendo Credenciales
+2025-09-25 23:16:49.690835 - INFO - Inicio de Intento: 2
+2025-09-25 23:16:52.362087 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:16:57.647942 - INFO - Fin de Intento: 2
+2025-09-25 23:17:17.663548 - INFO - Fin de iteración
+2025-09-25 23:17:17.663548 - INFO - Obteniendo Credenciales
+2025-09-25 23:17:18.432401 - INFO - Inicio de Intento: 3
+2025-09-25 23:17:20.666352 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:17:25.753865 - INFO - Fin de Intento: 3
+2025-09-25 23:17:45.755250 - INFO - Fin de iteración
+2025-09-25 23:17:45.770813 - INFO - Obteniendo Credenciales
+2025-09-25 23:17:46.578532 - INFO - Inicio de Intento: 4
+2025-09-25 23:17:49.028233 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:17:54.159246 - INFO - Fin de Intento: 4
+2025-09-25 23:18:14.172126 - INFO - Fin de iteración
+2025-09-25 23:18:14.187702 - INFO - Obteniendo Credenciales
+2025-09-25 23:18:14.920545 - INFO - Inicio de Intento: 5
+2025-09-25 23:18:17.157168 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:18:22.274471 - INFO - Fin de Intento: 5
+2025-09-25 23:18:22.274471 - INFO - Ya se dio 5 intentos de busqueda
+2025-09-25 23:18:22.274471 - INFO - Validación de envio de correo por robot operativo
+2025-09-25 23:18:23.462324 - INFO - Correo enviado para notificar que el robot se encuentra operativo
+2025-09-25 23:21:52.069076 - INFO - Robot Transperfect iniciado
+2025-09-25 23:21:52.069076 - INFO - Obteniendo Credenciales
+2025-09-25 23:21:52.084691 - INFO - Abrir navegador
+2025-09-25 23:22:00.754143 - INFO - Se aceptaron todas las Cookies
+2025-09-25 23:22:00.783007 - INFO - Ingresando a ventana de Login
+2025-09-25 23:22:00.785006 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 23:22:06.540206 - INFO - Sesión iniciada
+2025-09-25 23:22:06.555783 - INFO - Fin de iteración
+2025-09-25 23:22:06.555783 - INFO - Obteniendo Credenciales
+2025-09-25 23:22:06.571411 - INFO - Ingresando a ventana de Login
+2025-09-25 23:22:06.571411 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 23:22:16.733829 - INFO - Sesión iniciada
+2025-09-25 23:22:17.053512 - INFO - Inicio de Intento: 1
+2025-09-25 23:22:19.425109 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:22:24.550692 - INFO - Fin de Intento: 1
+2025-09-25 23:22:44.550754 - INFO - Fin de iteración
+2025-09-25 23:22:44.566319 - INFO - Obteniendo Credenciales
+2025-09-25 23:22:45.359529 - INFO - Inicio de Intento: 2
+2025-09-25 23:22:47.621031 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:22:52.763879 - INFO - Fin de Intento: 2
+2025-09-25 23:23:12.778129 - INFO - Fin de iteración
+2025-09-25 23:23:12.793725 - INFO - Obteniendo Credenciales
+2025-09-25 23:23:13.556534 - INFO - Inicio de Intento: 3
+2025-09-25 23:23:15.771310 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:23:20.883812 - INFO - Fin de Intento: 3
+2025-09-25 23:23:40.893373 - INFO - Fin de iteración
+2025-09-25 23:23:40.908961 - INFO - Obteniendo Credenciales
+2025-09-25 23:23:41.686725 - INFO - Inicio de Intento: 4
+2025-09-25 23:23:43.932380 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:23:49.030068 - INFO - Fin de Intento: 4
+2025-09-25 23:24:09.037307 - INFO - Fin de iteración
+2025-09-25 23:24:09.052856 - INFO - Obteniendo Credenciales
+2025-09-25 23:24:09.776685 - INFO - Inicio de Intento: 5
+2025-09-25 23:24:12.062725 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:24:17.168565 - INFO - Fin de Intento: 5
+2025-09-25 23:24:17.168565 - INFO - Ya se dio 5 intentos de busqueda
+2025-09-25 23:24:17.168565 - INFO - Validación de envio de correo por robot operativo
+2025-09-25 23:24:18.373657 - INFO - Correo enviado para notificar que el robot se encuentra operativo
+2025-09-25 23:27:46.927330 - INFO - Robot Transperfect iniciado
+2025-09-25 23:27:46.927330 - INFO - Obteniendo Credenciales
+2025-09-25 23:27:46.942953 - INFO - Abrir navegador
+2025-09-25 23:27:53.227255 - INFO - Se aceptaron todas las Cookies
+2025-09-25 23:27:55.530524 - INFO - Ingresando a ventana de Login
+2025-09-25 23:27:55.542860 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 23:28:02.281867 - INFO - Sesión iniciada
+2025-09-25 23:28:02.293991 - INFO - Fin de iteración
+2025-09-25 23:28:02.297871 - INFO - Obteniendo Credenciales
+2025-09-25 23:28:02.316856 - INFO - Ingresando a ventana de Login
+2025-09-25 23:28:02.319875 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 23:28:12.539197 - INFO - Sesión iniciada
+2025-09-25 23:28:12.850353 - INFO - Inicio de Intento: 1
+2025-09-25 23:28:15.345856 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:28:20.444180 - INFO - Fin de Intento: 1
+2025-09-25 23:28:40.456417 - INFO - Fin de iteración
+2025-09-25 23:28:40.456417 - INFO - Obteniendo Credenciales
+2025-09-25 23:28:41.217492 - INFO - Inicio de Intento: 2
+2025-09-25 23:28:43.550116 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:28:48.683790 - INFO - Fin de Intento: 2
+2025-09-25 23:29:08.690353 - INFO - Fin de iteración
+2025-09-25 23:29:08.705941 - INFO - Obteniendo Credenciales
+2025-09-25 23:29:09.475594 - INFO - Inicio de Intento: 3
+2025-09-25 23:29:11.658519 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:29:16.787121 - INFO - Fin de Intento: 3
+2025-09-25 23:29:36.788513 - INFO - Fin de iteración
+2025-09-25 23:29:36.788513 - INFO - Obteniendo Credenciales
+2025-09-25 23:29:37.586648 - INFO - Inicio de Intento: 4
+2025-09-25 23:29:39.789459 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:29:44.884512 - INFO - Fin de Intento: 4
+2025-09-25 23:30:04.887425 - INFO - Fin de iteración
+2025-09-25 23:30:04.887425 - INFO - Obteniendo Credenciales
+2025-09-25 23:30:05.604738 - INFO - Inicio de Intento: 5
+2025-09-25 23:30:07.849070 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:30:12.992253 - INFO - Fin de Intento: 5
+2025-09-25 23:30:12.993251 - INFO - Ya se dio 5 intentos de busqueda
+2025-09-25 23:30:12.996254 - INFO - Validación de envio de correo por robot operativo
+2025-09-25 23:30:15.539761 - INFO - Correo enviado para notificar que el robot se encuentra operativo
+2025-09-25 23:33:45.223452 - INFO - Robot Transperfect iniciado
+2025-09-25 23:33:45.223452 - INFO - Obteniendo Credenciales
+2025-09-25 23:33:45.239086 - INFO - Abrir navegador
+2025-09-25 23:33:51.768285 - INFO - Se aceptaron todas las Cookies
+2025-09-25 23:33:54.219710 - INFO - Ingresando a ventana de Login
+2025-09-25 23:33:54.222703 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 23:34:00.258695 - INFO - Sesión iniciada
+2025-09-25 23:34:00.274265 - INFO - Fin de iteración
+2025-09-25 23:34:00.274265 - INFO - Obteniendo Credenciales
+2025-09-25 23:34:00.305503 - INFO - Ingresando a ventana de Login
+2025-09-25 23:34:00.305503 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 23:34:10.552951 - INFO - Sesión iniciada
+2025-09-25 23:34:10.843474 - INFO - Inicio de Intento: 1
+2025-09-25 23:34:13.740363 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:34:18.850590 - INFO - Fin de Intento: 1
+2025-09-25 23:34:38.861160 - INFO - Fin de iteración
+2025-09-25 23:34:38.861160 - INFO - Obteniendo Credenciales
+2025-09-25 23:34:39.643216 - INFO - Inicio de Intento: 2
+2025-09-25 23:34:42.042307 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:34:47.183130 - INFO - Fin de Intento: 2
+2025-09-25 23:35:07.190971 - INFO - Fin de iteración
+2025-09-25 23:35:07.206530 - INFO - Obteniendo Credenciales
+2025-09-25 23:35:07.940680 - INFO - Inicio de Intento: 3
+2025-09-25 23:35:10.167316 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:35:15.257936 - INFO - Fin de Intento: 3
+2025-09-25 23:35:35.273247 - INFO - Fin de iteración
+2025-09-25 23:35:35.273247 - INFO - Obteniendo Credenciales
+2025-09-25 23:35:36.083370 - INFO - Inicio de Intento: 4
+2025-09-25 23:35:38.327372 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:35:43.431181 - INFO - Fin de Intento: 4
+2025-09-25 23:36:03.431443 - INFO - Fin de iteración
+2025-09-25 23:36:03.447001 - INFO - Obteniendo Credenciales
+2025-09-25 23:36:04.147727 - INFO - Inicio de Intento: 5
+2025-09-25 23:36:06.766288 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:36:11.902119 - INFO - Fin de Intento: 5
+2025-09-25 23:36:11.902119 - INFO - Ya se dio 5 intentos de busqueda
+2025-09-25 23:36:11.902119 - INFO - Validación de envio de correo por robot operativo
+2025-09-25 23:36:14.433364 - INFO - Correo enviado para notificar que el robot se encuentra operativo
+2025-09-25 23:39:45.511115 - INFO - Robot Transperfect iniciado
+2025-09-25 23:39:45.511115 - INFO - Obteniendo Credenciales
+2025-09-25 23:39:45.526741 - INFO - Abrir navegador
+2025-09-25 23:39:54.274144 - INFO - Se aceptaron todas las Cookies
+2025-09-25 23:39:54.302811 - INFO - Ingresando a ventana de Login
+2025-09-25 23:39:54.311871 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 23:40:00.149890 - INFO - Sesión iniciada
+2025-09-25 23:40:00.165469 - INFO - Fin de iteración
+2025-09-25 23:40:00.165469 - INFO - Obteniendo Credenciales
+2025-09-25 23:40:00.196722 - INFO - Ingresando a ventana de Login
+2025-09-25 23:40:00.196722 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 23:40:10.483196 - INFO - Sesión iniciada
+2025-09-25 23:40:10.769021 - INFO - Inicio de Intento: 1
+2025-09-25 23:40:13.469062 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:40:18.580926 - INFO - Fin de Intento: 1
+2025-09-25 23:40:38.583146 - INFO - Fin de iteración
+2025-09-25 23:40:38.598718 - INFO - Obteniendo Credenciales
+2025-09-25 23:40:39.385806 - INFO - Inicio de Intento: 2
+2025-09-25 23:40:41.654523 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:40:46.762663 - INFO - Fin de Intento: 2
+2025-09-25 23:41:06.766341 - INFO - Fin de iteración
+2025-09-25 23:41:06.766341 - INFO - Obteniendo Credenciales
+2025-09-25 23:41:07.479800 - INFO - Inicio de Intento: 3
+2025-09-25 23:41:09.738817 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:41:14.872306 - INFO - Fin de Intento: 3
+2025-09-25 23:41:34.875400 - INFO - Fin de iteración
+2025-09-25 23:41:34.890975 - INFO - Obteniendo Credenciales
+2025-09-25 23:41:35.654952 - INFO - Inicio de Intento: 4
+2025-09-25 23:41:37.928006 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:41:43.039863 - INFO - Fin de Intento: 4
+2025-09-25 23:42:03.051580 - INFO - Fin de iteración
+2025-09-25 23:42:03.051580 - INFO - Obteniendo Credenciales
+2025-09-25 23:42:03.772146 - INFO - Inicio de Intento: 5
+2025-09-25 23:42:06.045053 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:42:11.172154 - INFO - Fin de Intento: 5
+2025-09-25 23:42:11.172154 - INFO - Ya se dio 5 intentos de busqueda
+2025-09-25 23:42:11.172154 - INFO - Validación de envio de correo por robot operativo
+2025-09-25 23:42:13.063941 - INFO - Correo enviado para notificar que el robot se encuentra operativo
+2025-09-25 23:45:42.316498 - INFO - Robot Transperfect iniciado
+2025-09-25 23:45:42.316498 - INFO - Obteniendo Credenciales
+2025-09-25 23:45:42.332112 - INFO - Abrir navegador
+2025-09-25 23:45:50.981767 - INFO - Se aceptaron todas las Cookies
+2025-09-25 23:45:51.013718 - INFO - Ingresando a ventana de Login
+2025-09-25 23:45:51.024398 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 23:45:56.735106 - INFO - Sesión iniciada
+2025-09-25 23:45:56.756114 - INFO - Fin de iteración
+2025-09-25 23:45:56.833120 - INFO - Obteniendo Credenciales
+2025-09-25 23:45:56.857324 - INFO - Ingresando a ventana de Login
+2025-09-25 23:45:56.865334 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 23:46:07.072906 - INFO - Sesión iniciada
+2025-09-25 23:46:07.378992 - INFO - Inicio de Intento: 1
+2025-09-25 23:46:10.179234 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:46:15.315443 - INFO - Fin de Intento: 1
+2025-09-25 23:46:35.329268 - INFO - Fin de iteración
+2025-09-25 23:46:35.344827 - INFO - Obteniendo Credenciales
+2025-09-25 23:46:36.126715 - INFO - Inicio de Intento: 2
+2025-09-25 23:46:38.330359 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:46:43.416243 - INFO - Fin de Intento: 2
+2025-09-25 23:47:03.422798 - INFO - Fin de iteración
+2025-09-25 23:47:03.422798 - INFO - Obteniendo Credenciales
+2025-09-25 23:47:04.145496 - INFO - Inicio de Intento: 3
+2025-09-25 23:47:06.440675 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:47:11.581168 - INFO - Fin de Intento: 3
+2025-09-25 23:47:31.589731 - INFO - Fin de iteración
+2025-09-25 23:47:31.589731 - INFO - Obteniendo Credenciales
+2025-09-25 23:47:32.396895 - INFO - Inicio de Intento: 4
+2025-09-25 23:47:34.613920 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:47:39.694989 - INFO - Fin de Intento: 4
+2025-09-25 23:47:59.703508 - INFO - Fin de iteración
+2025-09-25 23:47:59.719092 - INFO - Obteniendo Credenciales
+2025-09-25 23:48:00.432262 - INFO - Inicio de Intento: 5
+2025-09-25 23:48:02.672352 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:48:07.807936 - INFO - Fin de Intento: 5
+2025-09-25 23:48:07.808939 - INFO - Ya se dio 5 intentos de busqueda
+2025-09-25 23:48:07.810939 - INFO - Validación de envio de correo por robot operativo
+2025-09-25 23:48:09.679158 - INFO - Correo enviado para notificar que el robot se encuentra operativo
+2025-09-25 23:51:37.170498 - INFO - Robot Transperfect iniciado
+2025-09-25 23:51:37.170498 - INFO - Obteniendo Credenciales
+2025-09-25 23:51:37.186118 - INFO - Abrir navegador
+2025-09-25 23:51:46.245970 - INFO - Se aceptaron todas las Cookies
+2025-09-25 23:51:46.277094 - INFO - Ingresando a ventana de Login
+2025-09-25 23:51:46.285090 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 23:51:52.025764 - INFO - Sesión iniciada
+2025-09-25 23:51:52.025764 - INFO - Fin de iteración
+2025-09-25 23:51:52.041343 - INFO - Obteniendo Credenciales
+2025-09-25 23:51:52.056963 - INFO - Ingresando a ventana de Login
+2025-09-25 23:51:52.072582 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 23:52:02.313287 - INFO - Sesión iniciada
+2025-09-25 23:52:02.657730 - INFO - Inicio de Intento: 1
+2025-09-25 23:52:05.095229 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:52:10.188821 - INFO - Fin de Intento: 1
+2025-09-25 23:52:30.203900 - INFO - Fin de iteración
+2025-09-25 23:52:30.219454 - INFO - Obteniendo Credenciales
+2025-09-25 23:52:30.995655 - INFO - Inicio de Intento: 2
+2025-09-25 23:52:33.278440 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:52:38.404516 - INFO - Fin de Intento: 2
+2025-09-25 23:52:58.405595 - INFO - Fin de iteración
+2025-09-25 23:52:58.421210 - INFO - Obteniendo Credenciales
+2025-09-25 23:52:59.217104 - INFO - Inicio de Intento: 3
+2025-09-25 23:53:01.533605 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:53:06.679019 - INFO - Fin de Intento: 3
+2025-09-25 23:53:26.689235 - INFO - Fin de iteración
+2025-09-25 23:53:26.704804 - INFO - Obteniendo Credenciales
+2025-09-25 23:53:27.480217 - INFO - Inicio de Intento: 4
+2025-09-25 23:53:29.664683 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:53:34.803601 - INFO - Fin de Intento: 4
+2025-09-25 23:53:54.812023 - INFO - Fin de iteración
+2025-09-25 23:53:54.827588 - INFO - Obteniendo Credenciales
+2025-09-25 23:53:55.511011 - INFO - Inicio de Intento: 5
+2025-09-25 23:53:57.985274 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:54:03.105631 - INFO - Fin de Intento: 5
+2025-09-25 23:54:03.105631 - INFO - Ya se dio 5 intentos de busqueda
+2025-09-25 23:54:03.105631 - INFO - Validación de envio de correo por robot operativo
+2025-09-25 23:54:04.965360 - INFO - Correo enviado para notificar que el robot se encuentra operativo
+2025-09-25 23:57:34.319123 - INFO - Robot Transperfect iniciado
+2025-09-25 23:57:34.334749 - INFO - Obteniendo Credenciales
+2025-09-25 23:57:34.350368 - INFO - Abrir navegador
+2025-09-25 23:57:43.154695 - INFO - Se aceptaron todas las Cookies
+2025-09-25 23:57:43.179217 - INFO - Ingresando a ventana de Login
+2025-09-25 23:57:43.181224 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 23:57:49.124737 - INFO - Sesión iniciada
+2025-09-25 23:57:49.140312 - INFO - Fin de iteración
+2025-09-25 23:57:49.140312 - INFO - Obteniendo Credenciales
+2025-09-25 23:57:49.155938 - INFO - Ingresando a ventana de Login
+2025-09-25 23:57:49.171557 - INFO - Iniciando Sesión en Trasperfect
+2025-09-25 23:57:59.436875 - INFO - Sesión iniciada
+2025-09-25 23:57:59.749938 - INFO - Inicio de Intento: 1
+2025-09-25 23:58:02.249878 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:58:07.359637 - INFO - Fin de Intento: 1
+2025-09-25 23:58:27.374577 - INFO - Fin de iteración
+2025-09-25 23:58:27.390151 - INFO - Obteniendo Credenciales
+2025-09-25 23:58:28.150073 - INFO - Inicio de Intento: 2
+2025-09-25 23:58:30.379951 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:58:35.514557 - INFO - Fin de Intento: 2
+2025-09-25 23:58:55.524705 - INFO - Fin de iteración
+2025-09-25 23:58:55.540274 - INFO - Obteniendo Credenciales
+2025-09-25 23:58:56.311718 - INFO - Inicio de Intento: 3
+2025-09-25 23:58:58.553387 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:59:03.639041 - INFO - Fin de Intento: 3
+2025-09-25 23:59:23.650138 - INFO - Fin de iteración
+2025-09-25 23:59:23.650138 - INFO - Obteniendo Credenciales
+2025-09-25 23:59:24.408845 - INFO - Inicio de Intento: 4
+2025-09-25 23:59:26.588033 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:59:31.696955 - INFO - Fin de Intento: 4
+2025-09-25 23:59:51.712211 - INFO - Fin de iteración
+2025-09-25 23:59:51.727787 - INFO - Obteniendo Credenciales
+2025-09-25 23:59:52.444824 - INFO - Inicio de Intento: 5
+2025-09-25 23:59:54.640906 - INFO - Haciendo busqueda de trabajos
+2025-09-25 23:59:59.773291 - INFO - Fin de Intento: 5
+2025-09-25 23:59:59.773291 - INFO - Ya se dio 5 intentos de busqueda
+2025-09-25 23:59:59.773291 - INFO - Validación de envio de correo por robot operativo
+2025-09-26 00:00:01.851497 - INFO - Correo enviado para notificar que el robot se encuentra operativo
